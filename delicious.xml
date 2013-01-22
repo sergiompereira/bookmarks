@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="format.xsl" ?>
+
+<html>
+<TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
+<DL>
+
+<!-- 
+TODO
+xslt > lista de links (com tags) e lista de tags
+
+Use http://www.epochconverter.com/ to convert current time to unix timestamp
+
+-->
+<DT><A HREF="http://www.udacity.com/" ADD_DATE="1358849141" PRIVATE="0" TAGS="education">Udacity, free online courses</A></DT>
+<DT><A HREF="https://www.coursera.org/" ADD_DATE="1358849057" PRIVATE="0" TAGS="education">Coursera, free online courses</A></DT>
+<DT><A HREF="http://ocw.mit.edu/index.htm" ADD_DATE="1358848965" PRIVATE="0" TAGS="education">MIT OpenCourseWare | Free online courses</A></DT>
+<DT><A HREF="https://www.edx.org/" ADD_DATE="1358848853" PRIVATE="0" TAGS="education">Free courses, edX Universities</A></DT>
+<DT><A HREF="http://www.epochconverter.com/" ADD_DATE="1358506148" PRIVATE="0" TAGS="tool">Epoch Converter - Unix Timestamp Converter</A></DT>
+<DT><A HREF="http://refresh-sf.com/yui/" ADD_DATE="1358506075" PRIVATE="0" TAGS="tool,css,javascript">Javascript, CSS minimizer</A></DT>
+<DT><A HREF="http://www.w3.org/community/philoweb/wiki/Publications" ADD_DATE="1358506050" PRIVATE="0" TAGS="web,community,research,philosophy,stack-Research-Science-Future">Web Philosophy Community Group</A></DT>
+<DT><A HREF="http://www.semantic-web-journal.net/" ADD_DATE="1358506038" PRIVATE="0" TAGS="news,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Semantic Web Journal</A></DT>
+<DT><A HREF="http://www.w3.org/community/webed/" ADD_DATE="1358161535" PRIVATE="0" TAGS="web,standard,stack-web-development,community,education">Web Education Community Group</A></DT>
+<DT><A HREF="http://docs.webplatform.org/wiki/Main_Page" ADD_DATE="1358161482" PRIVATE="0" TAGS="web,stack-web-development,standard,community">Web Platform</A></DT>
+<DT><A HREF="http://blogs.adobe.com/webplatform/" ADD_DATE="1358159708" PRIVATE="0" TAGS="web,computer.graphics,standard,tool,stack-web-development">Adobe Web Platform blog</A></DT>
+<DT><A HREF="http://www.sitiodolivro.pt/" ADD_DATE="1358156345" PRIVATE="0" TAGS="book,publishing">Sítio do livro</A></DT>
+<DT><A HREF="http://html.adobe.com/" ADD_DATE="1357659311" PRIVATE="0" TAGS="tool,html,interface.development,adobe">Adobe and HTML</A>
+<DD>http://html.adobe.com/edge/code/faq.html</DD></DT>
+<DT><A HREF="http://brackets.io/" ADD_DATE="1357657063" PRIVATE="0" TAGS="adobe,development,css,html,javascript,editor">Brackets</A></DT>
+<DT><A HREF="http://dabblet.com/" ADD_DATE="1357656673" PRIVATE="0" TAGS="editor,tool,css">The first commented line is your dabblet’s title  dabblet.com</A></DT>
+<DT><A HREF="http://www.mozilla.org/en-US/firefoxos/" ADD_DATE="1357647674" PRIVATE="0" TAGS="operatingsystem,javascript,html,mobile">Mozilla — Firefox OS — mozilla.org</A>
+<DD>https://marketplace.firefox.com/developers/
+http://www.mozilla.org/en-US/apps/
+https://developer.mozilla.org/fi/apps
+https://addons.mozilla.org/pt-PT/firefox/addon/firefox-os-simulator/</DD></DT>
+<DT><A HREF="http://www.ribbonfarm.com/" ADD_DATE="1357294296" PRIVATE="0" TAGS="stack-Research-Science-Future,psychology">ribbonfarm — experiments in refactored perception</A></DT>
+<DT><A HREF="http://www.researchcompanion.com/" ADD_DATE="1356217446" PRIVATE="0" TAGS="research">Research Companion</A></DT>
+<DT><A HREF="https://speakerdeck.com/" ADD_DATE="1356101850" PRIVATE="0" TAGS="tool,presentation">Speaker Deck - Share Presentations without the Mess</A></DT>
+<DT><A HREF="https://speakerdeck.com/sergiopereira/image-processing-on-canvas" ADD_DATE="1356101827" PRIVATE="0" TAGS="_me,presentation,image.processing">Image Processing on Canvas (Speakerdeck</A></DT>
+<DT><A HREF="http://www.jetbrains.com/webstorm/" ADD_DATE="1356086479" PRIVATE="0" TAGS="tool,interface.development,html,css,javascript">The best JavaScript IDE with HTML Editor for Web development :: JetBrains WebStorm</A></DT>
+<DT><A HREF="http://www.jetbrains.com/phpstorm/" ADD_DATE="1356086439" PRIVATE="0" TAGS="tool,php">PHP IDE :: JetBrains PhpStorm</A></DT>
+<DT><A HREF="http://phplx.net/" ADD_DATE="1355996681" PRIVATE="0" TAGS="portugal,php,event">PHP LX</A></DT>
+<DT><A HREF="http://crypto.stanford.edu/sjcl/" ADD_DATE="1355149693" PRIVATE="0" TAGS="library,security,javascript">jsCrypto</A></DT>
+<DT><A HREF="http://www2.edu.fi/ymmarrasuomea/index.php" ADD_DATE="1355002911" PRIVATE="0" TAGS="learning,language,Finland,finnish">Ymmarra Suomea</A></DT>
+<DT><A HREF="http://www.html5devconf.com/" ADD_DATE="1354873462" PRIVATE="0" TAGS="stack-Web-Development,javascript,interface.development,html,event">HTML5devconf HTML5 Developer Conference and JavaScript Developer Conference</A></DT>
+<DT><A HREF="https://developer.mozilla.org/en-US/docs/HTML/HTML5" ADD_DATE="1354791693" PRIVATE="0" TAGS="interface.development,web,html">HTML5 - HTML | MDN</A></DT>
+<DT><A HREF="http://yeoman.io/" ADD_DATE="1354789329" PRIVATE="0" TAGS="html,framework,javascript">Yeoman - Modern workflows for modern webapps</A></DT>
+<DT><A HREF="http://html.adobe.com/edge/" ADD_DATE="1354788871" PRIVATE="0" TAGS="tool,interface.development,html">Edge Tools and Services | Adobe and HTML</A></DT>
+<DT><A HREF="http://193.136.2.104/COMPARA/psimples.php" ADD_DATE="1354615226" PRIVATE="0" TAGS="translation,portugal,language,language.processing,linguistics">Compara - pr-en</A></DT>
+<DT><A HREF="http://js.sapo.pt/SAPO/Ink/doc.html" ADD_DATE="1354531207" PRIVATE="0" TAGS="interface.development,javascript,framework,documentation">Sapo Ink</A></DT>
+<DT><A HREF="http://ink.sapo.pt/" ADD_DATE="1354531170" PRIVATE="0" TAGS="html,interface.development,javascript,css,framework">InK - Interface Kit</A></DT>
+<DT><A HREF="http://putsmail.com/" ADD_DATE="1354116698" PRIVATE="0" TAGS="tool,test,html,email">Puts Mail - It's a mail test tool to test your mails before sending them</A></DT>
+<DT><A HREF="http://areena.yle.fi/tv/" ADD_DATE="1353847215" PRIVATE="0" TAGS="radio,television,Finland">Areena</A></DT>
+<DT><A HREF="http://www.gettandem.com/" ADD_DATE="1353763830" PRIVATE="0" TAGS="collaboration,community,tandem,learning,language">GetTandem.com – Your Language Tandem</A></DT>
+<DT><A HREF="http://www.tandemcity.com/" ADD_DATE="1353751449" PRIVATE="0" TAGS="community,learning,language,tandem">TANDEMcity Language Exchange Community - Home</A></DT>
+<DT><A HREF="http://www.tandemcity.info/" ADD_DATE="1353751399" PRIVATE="0" TAGS="tandem,learning,language">TANDEM Fundazioa</A></DT>
+<DT><A HREF="http://designepreciso.pt/" ADD_DATE="1352558114" PRIVATE="0" TAGS="design,portugal,volunteer">Design é Preciso</A></DT>
+<DT><A HREF="http://www.slideshare.net/" ADD_DATE="1351450277" PRIVATE="0" TAGS="tool,presentation">Upload and Share PowerPoint presentations and documents</A></DT>
+<DT><A HREF="http://jsperf.com/" ADD_DATE="1351184474" PRIVATE="0" TAGS="performance,optimization,tool,javascript">jsPerf: JavaScript performance playground</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/" ADD_DATE="1350656747" PRIVATE="0" TAGS="image,optimization">Clever PNG Optimization Techniques | How-To | Smashing Magazine</A></DT>
+<DT><A HREF="http://pt.zaask.com/" ADD_DATE="1350477235" PRIVATE="0" TAGS="tool,collaboration,community">Zaask</A></DT>
+<DT><A HREF="http://www.khronos.org/registry/webgl/specs/latest/" ADD_DATE="1350469748" PRIVATE="0" TAGS="computer.graphics,javascript,documentation,webgl">WebGL Specification</A></DT>
+<DT><A HREF="http://foundation.zurb.com/" ADD_DATE="1350463761" PRIVATE="0" TAGS="responsive.design,css,framework">Foundation: Rapid Prototyping and Building Framework from ZURB</A></DT>
+<DT><A HREF="http://getwirefy.com/" ADD_DATE="1350463674" PRIVATE="0" TAGS="responsive.design,html,css,wireframe,framework">Wirefy | The Responsive Wireframe Framework</A></DT>
+<DT><A HREF="http://www.shinoe.org/population/" ADD_DATE="1350304031" PRIVATE="0" TAGS="research,biology,library,image.processing">Population</A></DT>
+<DT><A HREF="http://www.ipol.im/" ADD_DATE="1350294340" PRIVATE="0" TAGS="research,image.processing">IPOL: Image Processing On Line</A></DT>
+<DT><A HREF="http://nikos-web-development.netai.net/blog/" ADD_DATE="1350290221" PRIVATE="0" TAGS="stack-Web-Development,computer.graphics,web,javascript">Nikos</A></DT>
+<DT><A HREF="http://code.google.com/p/minify/" ADD_DATE="1350289267" PRIVATE="0" TAGS="compression,optimization,javascript">minify - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://www.observatorio-lp.sapo.pt/pt" ADD_DATE="1350129384" PRIVATE="0" TAGS="education,portugal,language">Observatório da Língua Portuguesa</A></DT>
+<DT><A HREF="http://cvc.instituto-camoes.pt/aprender-portugues.html" ADD_DATE="1350129290" PRIVATE="0" TAGS="education,language,portugal">Aprender português</A></DT>
+<DT><A HREF="https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills" ADD_DATE="1349858923" PRIVATE="0" TAGS="html,polyfill">HTML5 Cross Browser Polyfills - GitHub</A></DT>
+<DT><A HREF="https://developers.google.com/chrome-developer-tools/" ADD_DATE="1349858838" PRIVATE="0" TAGS="interface.development,tool,debug">Chrome Developer Tools — Google Developers</A></DT>
+<DT><A HREF="https://developer.mozilla.org/en-US/docs/Tools" ADD_DATE="1349858770" PRIVATE="0" TAGS="tool,debug,interface.development">Tools | Mozilla Developer Network</A></DT>
+<DT><A HREF="https://developer.mozilla.org/en-US/learn/html5" ADD_DATE="1349858491" PRIVATE="0" TAGS="tutorial,reference,html">HTML5 and Friends | Mozilla Developer Network</A></DT>
+<DT><A HREF="https://developer.mozilla.org/en-US/demos/" ADD_DATE="1349858381" PRIVATE="0" TAGS="stack-Web-Development,showcase,javascript,html">Demo Studio | Mozilla Developer Network</A></DT>
+<DT><A HREF="http://www.html5canvastutorials.com/" ADD_DATE="1349687161" PRIVATE="0" TAGS="stack-Web-Development,tutorial,javascript,canvas,html">HTML5 Canvas Tutorials</A></DT>
+<DT><A HREF="http://jsbin.com/" ADD_DATE="1349685846" PRIVATE="0" TAGS="interface.development,collaboration,tool,javascript">JS Bin - Collaborative JavaScript Debugging</A></DT>
+<DT><A HREF="http://stats.wikimedia.org/" ADD_DATE="1349629312" PRIVATE="0" TAGS="language,visualization,knowledge,data">Wikistats: Wikimedia Statistics</A></DT>
+<DT><A HREF="http://meta.wikimedia.org/wiki/List_of_Wikipedias_by_speakers_per_article" ADD_DATE="1349629250" PRIVATE="0" TAGS="knowledge,data,language">List of Wikipedias by speakers per article - Meta</A></DT>
+<DT><A HREF="http://geocurrents.info/" ADD_DATE="1349627935" PRIVATE="0" TAGS="stack-Research-Science-Future,news,map,geography">GeoCurrents « The Geography Blog of Martin W. Lewis</A></DT>
+<DT><A HREF="http://createjs.org/" ADD_DATE="1349254920" PRIVATE="0" TAGS="mvc,javascript,cms">Create — A new kind of web editing interface</A></DT>
+<DT><A HREF="http://rosettacode.org/wiki/Rosetta_Code" ADD_DATE="1349190380" PRIVATE="0" TAGS="community,language,programming">Rosetta Code</A></DT>
+<DT><A HREF="http://www.esn-lisboa.org/site/" ADD_DATE="1348782517" PRIVATE="0" TAGS="stack-Community,portugal,community,language">ESN Lisboa | Erasmus Student Network | Best Erasmus Lisboa Experience - esn-lisboa.org</A></DT>
+<DT><A HREF="http://www.scholarpedia.org/" ADD_DATE="1348221924" PRIVATE="0" TAGS="stack-Research-Science-Future,reference,knowledge,collaboration,research,science">Main Page - Scholarpedia</A></DT>
+<DT><A HREF="http://en.wikibooks.org/wiki/Subject:Computer_science" ADD_DATE="1348221826" PRIVATE="0" TAGS="stack-Web-Development,computer.science,programming">Subject:Computer science - Wikibooks, collection of open-content textbooks</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Programming_Languages" ADD_DATE="1348221742" PRIVATE="0" TAGS="language,stack-Web-Development,collaboration,programming">WikiProject : Programming Languages</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Portal:Computer_science" ADD_DATE="1348221633" PRIVATE="0" TAGS="stack-Web-Development,computer.science,computer,programming">Wikipedia Portal:Computer science</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Portal:Computing" ADD_DATE="1348221544" PRIVATE="0" TAGS="stack-Web-Development,programming,computer.science,computer">Wikipedia Portal : Computing</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/List_of_computing_topics" ADD_DATE="1348221405" PRIVATE="0" TAGS="stack-Web-Development,programming,computer.science">Wikipedia : List of computing topics</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computing" ADD_DATE="1348221288" PRIVATE="0" TAGS="programming,stack-Web-Development,collaboration,computer,computer.science">WikiProject_Computing</A></DT>
+<DT><A HREF="http://tetsubo.org/home/montage/" ADD_DATE="1348144193" PRIVATE="0" TAGS="interface.development,framework,javascript,html">Montage | Tetsubo</A></DT>
+<DT><A HREF="http://wikimindmap.com/" ADD_DATE="1348133406" PRIVATE="0" TAGS="tool,visualization,information">WikiMindMap</A></DT>
+<DT><A HREF="http://paulbourke.net/fractals/" ADD_DATE="1347874470" PRIVATE="0" TAGS="mathematics,fractal">Fractals</A></DT>
+<DT><A HREF="http://xplsv.com/" ADD_DATE="1347872984" PRIVATE="0" TAGS="stack-3D-Graphics,javascript,motion.graphic,computer.graphics">xplsv.com ! live visuals / demoscene collective</A></DT>
+<DT><A HREF="http://www.dados.gov.pt/" ADD_DATE="1346944379" PRIVATE="0" TAGS="government,portugal,data">Dados.Gov</A></DT>
+<DT><A HREF="http://www.sp-astronomia.pt/" ADD_DATE="1346453115" PRIVATE="0" TAGS="stack-Astronomy-Physics,astronomy,portugal,news">Bem-vindo à Sociedade Portuguesa de Astronomia | Sociedade Portuguesa de Astronomia</A></DT>
+<DT><A HREF="http://code.google.com/p/js-test-driver/" ADD_DATE="1346248552" PRIVATE="0" TAGS="tool,interface.development,framework,test,javascript">js-test-driver - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://pivotal.github.com/jasmine/" ADD_DATE="1346248284" PRIVATE="0" TAGS="interface.development,framework,test,javascript">Jasmine: BDD for your JavaScript</A></DT>
+<DT><A HREF="http://html5boilerplate.com/" ADD_DATE="1345559143" PRIVATE="0" TAGS="template,mobile,css,html">HTML5 Boilerplate - A rock-solid default for HTML5 awesome.</A></DT>
+<DT><A HREF="http://stuffandnonsense.co.uk/projects/320andup/" ADD_DATE="1345559096" PRIVATE="0" TAGS="template,responsive.design,css,mobile">320 and up</A></DT>
+<DT><A HREF="http://www.portaldaliteratura.com/editoras.php" ADD_DATE="1344854661" PRIVATE="0" TAGS="writing, portugal ">Portal da Literatura, Editoras Portuguesas, Editor português, Editoras em Portugal</A></DT>
+<DT><A HREF="http://cineclubetelheiras.blogspot.pt/" ADD_DATE="1344632299" PRIVATE="0" TAGS="cinema, portugal ">Cineclube de Telheiras</A></DT>
+<DT><A HREF="http://www.trip-trail.com/" ADD_DATE="1344085193" PRIVATE="0" TAGS="trail.running">TripTrail</A></DT>
+<DT><A HREF="http://caminharemportugal.com/" ADD_DATE="1344084806" PRIVATE="0" TAGS="trekking, community">Caminhar em Portugal</A></DT>
+<DT><A HREF="http://shelflists.com/" ADD_DATE="1343898083" PRIVATE="0" TAGS="tool,book">- shelflists.com</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/List_of_basic_mathematics_topics" ADD_DATE="1343726609" PRIVATE="0" TAGS=",stack-Mathematics">Outline of mathematics - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.propor2012.org/index.html" ADD_DATE="1343383448" PRIVATE="0" TAGS="Portugal,language.processing,event,stack-Semantic-Data--Language-Processing--Text-Mining">Propor 2012</A></DT>
+<DT><A HREF="http://www.w3avenue.com/" ADD_DATE="1343296013" PRIVATE="0" TAGS="javascript,html,css,tutorial,web,stack-Web-Development">W3Avenue - Advice and Resources For Rapid Web Development (CSS, JavaScript, jQuery, PHP, Libraries, Resources, and More...)</A></DT>
+<DT><A HREF="http://www.periscopic.com/" ADD_DATE="1343208883" PRIVATE="0" TAGS="social,information.design,visualization,stack-Data-Visualization--Information-Design">Periscopic: Do good with data</A></DT>
+<DT><A HREF="http://www.linguateca.pt/" ADD_DATE="1343034210" PRIVATE="0" TAGS="Portugal,linguistics,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Linguateca</A></DT>
+<DT><A HREF="http://languagelog.ldc.upenn.edu/nll/" ADD_DATE="1342431337" PRIVATE="0" TAGS="linguistics,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Language Log</A></DT>
+<DT><A HREF="http://googleresearch.blogspot.pt/" ADD_DATE="1342431284" PRIVATE="0" TAGS="research,search,stack-Semantic-Data--Language-Processing--Text-Mining">Research Blog</A></DT>
+<DT><A HREF="http://www.facebook.com/espacomedeia" ADD_DATE="1342216950" PRIVATE="0" TAGS="cinema">Espaço Medeia | Facebook</A></DT>
+<DT><A HREF="https://www.facebook.com/espaconimas" ADD_DATE="1342216945" PRIVATE="0" TAGS="cinema">Espaço Nimas - Elokuvateatteri - Lisbon, Portugal | Facebook</A></DT>
+<DT><A HREF="http://www.medeiafilmes.com/#/?page=filmes" ADD_DATE="1342216937" PRIVATE="0" TAGS="cinema">Medeia Filmes Cinemas: Filmes e Cinemas</A></DT>
+<DT><A HREF="http://lemire.me/blog/" ADD_DATE="1342172713" PRIVATE="0" TAGS="life,idea,research,computer.science,stack-Research-Science-Future">Daniel Lemire's blog</A></DT>
+<DT><A HREF="http://denizyuret.blogspot.pt/" ADD_DATE="1342171267" PRIVATE="0" TAGS="computational.linguistics,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Denizyuret</A></DT>
+<DT><A HREF="http://godel.stanford.edu/twiki/bin/view/Public/SemlabResearch" ADD_DATE="1341999779" PRIVATE="0" TAGS="research,computational.linguistics">SemlabResearch - Public - Semlab</A></DT>
+<DT><A HREF="http://nlp.stanford.edu/research.shtml" ADD_DATE="1341999577" PRIVATE="0" TAGS="research,language.processing,computational.linguistics,stack-Semantic-Data--Language-Processing--Text-Mining">The Stanford NLP (Natural Language Processing) Group</A></DT>
+<DT><A HREF="http://graphics.stanford.edu/projects/" ADD_DATE="1341997148" PRIVATE="0" TAGS="research,computer.graphics,stack-3D-Graphics">Graphics Lab Research projects</A></DT>
+<DT><A HREF="http://quojs.tapquo.com/" ADD_DATE="1341827053" PRIVATE="0" TAGS="library,javascript,mobile">QUOjs - Micro JavaScript Library</A></DT>
+<DT><A HREF="http://responsiveenvironments.es/" ADD_DATE="1341568217" PRIVATE="0" TAGS="installation,interaction,responsive.architecture,architecture,stack-Research-Science-Future">Responsive Architecture</A></DT>
+<DT><A HREF="http://www.philipbeesleyarchitect.com/" ADD_DATE="1341568106" PRIVATE="0" TAGS="responsive.architecture,installation,architecture">Philip Beesley Architect Inc. - Philip Beesley Architect Inc.</A></DT>
+<DT><A HREF="http://www.worldcat.org/" ADD_DATE="1341496327" PRIVATE="0" TAGS="tool,search,book,library">WorldCat.org: The World's Largest Library Catalog</A></DT>
+<DT><A HREF="http://frontendtoday.com/" ADD_DATE="1341481689" PRIVATE="0" TAGS="Portugal,javascript,interface.development,stack-Web-Development">FrontendToday - Frontendtoday.com is a project to share a front-end developer vision of the front-end status in the digital market in Portugal and arround the world. Share opinions with other professionals in the digital environment, and be a space w</A></DT>
+<DT><A HREF="http://www.99lime.com/" ADD_DATE="1341481647" PRIVATE="0" TAGS="interface.development,framework,css,html">HTML KickStart - Ultra–Lean HTML Building Blocks for Rapid Website Production - KickStart your Website Production - 99Lime.com</A></DT>
+<DT><A HREF="http://www.mobiledesignpatterngallery.com/mobile-patterns.php" ADD_DATE="1341393355" PRIVATE="0" TAGS="interface,userexperience,interface.pattern,mobile">Patterns - Theresa Neil</A></DT>
+<DT><A HREF="http://altjs.org/" ADD_DATE="1341222738" PRIVATE="0" TAGS="programming,javascript">altJS compile-to-JavaScript language list</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Portal:Computer_graphics" ADD_DATE="1340803948" PRIVATE="0" TAGS="3d,education,computer.graphics,stack-3D-Graphics">Portal:Computer graphics - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Portal:Mathematics" ADD_DATE="1340803852" PRIVATE="0" TAGS="education,mathematics">Portal:Mathematics - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikibooks.org/wiki/Algebra" ADD_DATE="1339768209" PRIVATE="0" TAGS="mathematics,stack-Mathematics">Algebra - Wikibooks, open books for an open world</A></DT>
+<DT><A HREF="http://www.theatlanticcities.com/" ADD_DATE="1339750869" PRIVATE="0" TAGS="magazine,news,urbanism,stack-Research-Science-Future">The Atlantic Cities</A></DT>
+<DT><A HREF="http://vimeo.com/awards/" ADD_DATE="1339492911" PRIVATE="0" TAGS="event,web,video">Vimeo Festival + Awards - 2012 New York City</A></DT>
+<DT><A HREF="http://www.w3.org/TR/wai-aria/roles" ADD_DATE="1339404619" PRIVATE="0" TAGS="web,ARIA,standard,html,accessibility">The Roles Model | Accessible Rich Internet Applications (WAI-ARIA) 1.0</A></DT>
+<DT><A HREF="http://www.alistapart.com/articles/responsive-web-design/" ADD_DATE="1339168526" PRIVATE="0" TAGS="mobile,css,design">A List Apart: Articles: Responsive Web Design</A></DT>
+<DT><A HREF="http://www.interactivearchitecture.org/" ADD_DATE="1339168076" PRIVATE="0" TAGS="technology,interaction,architecture,stack-Interface-Design--Interaction-Design">Interactive Architecture dot Org</A></DT>
+<DT><A HREF="http://html5doctor.com/" ADD_DATE="1338983012" PRIVATE="0" TAGS="reference,stack-Web-Development,standard,html">HTML5 Doctor, helping you implement HTML5 today</A></DT>
+<DT><A HREF="http://jsfiddle.net/" ADD_DATE="1338980506" PRIVATE="0" TAGS="interface.development,collaboration,tool,javascript">Create a new Fiddle - jsFiddle</A></DT>
+<DT><A HREF="http://c2.com/cgi/wiki?WikiPedia" ADD_DATE="1338805449" PRIVATE="0" TAGS="community,open.content,history">Wiki Pedia</A></DT>
+<DT><A HREF="http://captology.stanford.edu/" ADD_DATE="1338804370" PRIVATE="0" TAGS="culture,research,technology,psychology">Persuasive Tech</A></DT>
+<DT><A HREF="http://css-tricks.com/" ADD_DATE="1338459957" PRIVATE="0" TAGS="tutorial,html,css">CSS-Tricks</A></DT>
+<DT><A HREF="http://semanticweb.org/wiki/Main_Page" ADD_DATE="1338391463" PRIVATE="0" TAGS="community,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">semanticweb.org</A></DT>
+<DT><A HREF="http://semanticweb.com/" ADD_DATE="1338391358" PRIVATE="0" TAGS="news,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">semanticweb.com - The Voice of Semantic Web Business</A></DT>
+<DT><A HREF="http://www.w3.org/2007/11/Talks/Semantic_Web.html" ADD_DATE="1338290934" PRIVATE="0" TAGS="tutorial,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Talks by W3C Speakers</A></DT>
+<DT><A HREF="http://semantic-mediawiki.org/wiki/Semantic_MediaWiki" ADD_DATE="1338287886" PRIVATE="0" TAGS="software,data,semantic.web">semantic-mediawiki.org</A></DT>
+<DT><A HREF="http://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData" ADD_DATE="1338286942" PRIVATE="0" TAGS="data,crowdsourcing,community,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">SweoIG/TaskForces/CommunityProjects/LinkingOpenData - W3C Wiki</A></DT>
+<DT><A HREF="http://take.dfki.de/" ADD_DATE="1338286155" PRIVATE="0" TAGS="semantic,language.processing,text.mining">Welcome to the TAKE project</A></DT>
+<DT><A HREF="http://michaux.ca/" ADD_DATE="1338281178" PRIVATE="0" TAGS="programming,javascript,stack-Web-Development">peter.michaux.ca - Contents</A></DT>
+<DT><A HREF="http://www.emailology.org/" ADD_DATE="1337702851" PRIVATE="0" TAGS="email">Emailology - The Science of Looking Good in the Inbox</A></DT>
+<DT><A HREF="http://2012.lxjs.org/" ADD_DATE="1337637411" PRIVATE="0" TAGS="event, Portugal, javascript ">LXJS - Lisbon Javascript 2012</A></DT>
+<DT><A HREF="http://www.codecademy.com/#!/exercises/0" ADD_DATE="1337636417" PRIVATE="0" TAGS="interface.development, education">Learn to code | Codecademy</A></DT>
+<DT><A HREF="http://net.tutsplus.com/" ADD_DATE="1337635910" PRIVATE="0" TAGS="tutorial, css, html, javascript, interface.development ">Web development tutorials, from beginner to advanced | Nettuts+</A></DT>
+<DT><A HREF="http://email.about.com/library/misc/blmailto_encoder.htm" ADD_DATE="1337613713" PRIVATE="0" TAGS="encoding,tool,email">Mailto URL Encoder - About Email</A></DT>
+<DT><A HREF="https://groups.google.com/group/front-end-dev-trends?hl=pt" ADD_DATE="1337609968" PRIVATE="0" TAGS="stack-Community,css,html,javascript,interface.development,community">Front End Dev Trends | Grupos do Google</A></DT>
+<DT><A HREF="http://teamtreehouse.com/" ADD_DATE="1337540679" PRIVATE="0" TAGS="education,interface.development">Welcome to Treehouse, Start Learning Today</A></DT>
+<DT><A HREF="http://osswatch.jiscinvolve.org/wp/" ADD_DATE="1337247218" PRIVATE="0" TAGS="crowdsourcing,news,community,software,opensource">OSS Watch team blog</A></DT>
+<DT><A HREF="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html" ADD_DATE="1336643288" PRIVATE="0" TAGS="computer.graphics,svg,css">Filter Effects 1.0</A>
+<DD>Filter effects are a way of processing an element's rendering before it is displayed in the document. Typically, rendering an element via CSS or SVG can conceptually described as if the element, including its children, are drawn into a buffer (such as a raster image) and then that buffer is composited into the elements parent. Filters apply an effect before the compositing stage. Examples of such effects are blurring, changing color intensity and warping the image.
+Although originally designed for use in SVG, filter effects are a set a set of operations to apply on an image buffer and therefore can be applied to nearly any presentational environment, including CSS.</DD></DT>
+<DT><A HREF="http://www.talis.com/platform/" ADD_DATE="1336490387" PRIVATE="0" TAGS="api,data,rdf,semantic.web">Talis Platform - Home</A></DT>
+<DT><A HREF="http://mobiforge.com/" ADD_DATE="1336123489" PRIVATE="0" TAGS="community,design,interface.development,mobile">mobiForge</A></DT>
+<DT><A HREF="http://snook.ca/" ADD_DATE="1336040829" PRIVATE="0" TAGS="interface.development,stack-Web-Development">Snook.ca: Tips, Tricks and Bookmarks on Web Development.</A></DT>
+<DT><A HREF="http://futurefriend.ly/" ADD_DATE="1335977432" PRIVATE="0" TAGS="mobile,userexperience,future,idea,web">Future Friendly</A></DT>
+<DT><A HREF="http://www.netmagazine.com/tutorials?page=1" ADD_DATE="1335794794" PRIVATE="0" TAGS="javascript,design,web,tutorial,interface.development,stack-Web-Development">Web design tutorials, web development and programming tutorials | .net</A></DT>
+<DT><A HREF="http://leftlogic.com/training" ADD_DATE="1335780463" PRIVATE="0" TAGS="interface.development,education,stack-Web-Development">Left Logic - Specialist Web Development</A></DT>
+<DT><A HREF="http://mootools.net/" ADD_DATE="1335452407" PRIVATE="0" TAGS="framework,javascript">MooTools - a compact javascript framework</A></DT>
+<DT><A HREF="http://www.sencha.com/products/touch/" ADD_DATE="1335448366" PRIVATE="0" TAGS="html,framework,javascript,mobile">Mobile App Development Platform | Sencha Touch 2 | Products | Sencha</A></DT>
+<DT><A HREF="http://jquerymobile.com/" ADD_DATE="1335448332" PRIVATE="0" TAGS="framework,mobile,javascript,jquery">jQuery Mobile | jQuery Mobile</A></DT>
+<DT><A HREF="http://the-m-project.org/" ADD_DATE="1335448284" PRIVATE="0" TAGS="html,javascript,framework,mobile">The-M-Project</A></DT>
+<DT><A HREF="http://www.winktoolkit.org/" ADD_DATE="1335448125" PRIVATE="0" TAGS="html,framework,javascript,mobile">Wink toolkit - A mobile JavaScript framework to build great webapps</A></DT>
+<DT><A HREF="http://jsbeautifier.org/" ADD_DATE="1335437088" PRIVATE="0" TAGS="programming,tool,javascript">Online JavaScript beautifier</A></DT>
+<DT><A HREF="http://status.net/" ADD_DATE="1335109442" PRIVATE="0" TAGS="social, collaboration, tool">StatusNet</A></DT>
+<DT><A HREF="http://buddycloud.com/" ADD_DATE="1335109427" PRIVATE="0" TAGS="social, collaboration, tool">buddycloud</A></DT>
+<DT><A HREF="http://www.subblue.com/gallery/album/37" ADD_DATE="1334918689" PRIVATE="0" TAGS="webgl,computer.graphics,fractal">Gallery of Mathematical and Generative Art • subblue</A></DT>
+<DT><A HREF="http://www.subblue.com/gallery/album/89" ADD_DATE="1334918657" PRIVATE="0" TAGS="webgl,computer.graphics,fractal">Gallery of Mathematical and Generative Art • subblue</A></DT>
+<DT><A HREF="http://www.createjs.com/#!/CreateJS" ADD_DATE="1334917165" PRIVATE="0" TAGS="html,interface.development,library,javascript">CreateJS | A suite of Javascript libraries and tools designed for working with HTML5</A></DT>
+<DT><A HREF="http://cordis.europa.eu/fp7/ict/language-technologies/news_en.html" ADD_DATE="1334570851" PRIVATE="0" TAGS="news,technology,language,stack-Semantic-Data--Language-Processing--Text-Mining">European Commission : CORDIS : FP7 : ICT : Language Technologies : News</A></DT>
+<DT><A HREF="http://www.jisc.ac.uk/" ADD_DATE="1334568950" PRIVATE="0" TAGS="data,language.processing,text.mining,information,research,stack-Semantic-Data--Language-Processing--Text-Mining">JISC : Inspiring innovation</A></DT>
+<DT><A HREF="http://www.associacaomundodacorrida.com/UTSesimbra12.htm" ADD_DATE="1333654277" PRIVATE="0" TAGS="running">Associação Desportiva O Mundo da Corrida</A></DT>
+<DT><A HREF="http://www.atletismo.carlos-fonseca.com/calendario.htm" ADD_DATE="1333653718" PRIVATE="0" TAGS="running">Calendário de Provas de Atletismo</A></DT>
+<DT><A HREF="http://www.nuance.com/" ADD_DATE="1333445380" PRIVATE="0" TAGS="language.processing,company,software">Nuance - Home</A></DT>
+<DT><A HREF="http://www.celi.it/notizie.shtml" ADD_DATE="1333445305" PRIVATE="0" TAGS="Italia,software,company,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">CELI - Language and Information Technology - Notizie</A></DT>
+<DT><A HREF="https://developers.google.com/web-toolkit/overview" ADD_DATE="1333014337" PRIVATE="0" TAGS="mobile,tool,interface.development">Google Web Toolkit Overview - Google Web Toolkit — Google Developers</A></DT>
+<DT><A HREF="http://www.astronomerswithoutborders.org/" ADD_DATE="1333014134" PRIVATE="0" TAGS="community,astronomy,stack-Astronomy-Physics">Astronomers Without Borders - Home</A></DT>
+<DT><A HREF="http://www.portaldoastronomo.org/noticias.php" ADD_DATE="1333014040" PRIVATE="0" TAGS="Portugal,news,community,astronomy,stack-Astronomy-Physics">portaldoastronomo.org</A></DT>
+<DT><A HREF="http://html5snippets.com/" ADD_DATE="1332427363" PRIVATE="0" TAGS="code,css,html">HTML5 Snippets</A></DT>
+<DT><A HREF="http://www.purplemath.com/modules/index.htm" ADD_DATE="1332340570" PRIVATE="0" TAGS="education,algebra,mathematics">Practical Algebra Lessons</A></DT>
+<DT><A HREF="http://www.crimsonhexagon.com/" ADD_DATE="1332325997" PRIVATE="0" TAGS="data,analytics,social">Social Media Monitoring and Analysis | Crimson Hexagon</A></DT>
+<DT><A HREF="http://ushahidi.com/products/swiftriver-platform" ADD_DATE="1332324509" PRIVATE="0" TAGS="tool,analytics,visualization,data">Ushahidi :: The SwiftRiver Platform</A></DT>
+<DT><A HREF="http://www.unglobalpulse.org/" ADD_DATE="1332324440" PRIVATE="0" TAGS="crisis,text.mining,data,stack-Semantic-Data--Language-Processing--Text-Mining">Home | Global Pulse</A></DT>
+<DT><A HREF="http://dbpedia.org/About" ADD_DATE="1331556764" PRIVATE="0" TAGS="crowdsourcing,data,semantic.web">wiki.dbpedia.org : About</A></DT>
+<DT><A HREF="http://wiki.freebase.com/wiki/MQL" ADD_DATE="1331555125" PRIVATE="0" TAGS="api,dataservice,data,semantic.web">MQL - Freebase</A></DT>
+<DT><A HREF="http://www.freebase.com/" ADD_DATE="1331554770" PRIVATE="0" TAGS="text.mining,community,semantic.web,data">Freebase</A></DT>
+<DT><A HREF="http://coding.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/" ADD_DATE="1331203582" PRIVATE="0" TAGS="tutorial,css">70 Expert Ideas For Better CSS Coding | Smashing Coding</A></DT>
+<DT><A HREF="http://coding.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/" ADD_DATE="1331203540" PRIVATE="0" TAGS="tutorial,css">53 CSS-Techniques You Couldn't Live Without | Smashing Coding</A></DT>
+<DT><A HREF="https://computing.llnl.gov/tutorials/parallel_comp/#Abstract" ADD_DATE="1331115856" PRIVATE="0" TAGS="science,technology,computer.science,parallel.computing">Introduction to Parallel Computing</A></DT>
+<DT><A HREF="http://setiathome.berkeley.edu/" ADD_DATE="1331115663" PRIVATE="0" TAGS="parallel.computing,collaboration,research,astronomy,science">SETI@home</A></DT>
+<DT><A HREF="http://mobilehtml5.org/" ADD_DATE="1330945260" PRIVATE="0" TAGS="standard,mobile,html">Mobile HTML5 - compatibility tables for iPhone, Android, BlackBerry, Symbian, iPad and other mobile devices</A></DT>
+<DT><A HREF="http://www.appcelerator.com/products/titanium-mobile-application-development/" ADD_DATE="1330686796" PRIVATE="0" TAGS="interface.development,framework,mobile">Titanium Mobile Platform | Appcelerator</A></DT>
+<DT><A HREF="http://phonegap.com/" ADD_DATE="1330686776" PRIVATE="0" TAGS="interface.development,framework,mobile">PhoneGap</A></DT>
+<DT><A HREF="http://espaconimas.wordpress.com/" ADD_DATE="1330338763" PRIVATE="0" TAGS="cinema">http://espaconimas.wordpress.com/</A></DT>
+<DT><A HREF="http://labs.sapo.pt/" ADD_DATE="1329997733" PRIVATE="0" TAGS="language.processing,semantic.web,text.mining,Portugal,experiment,research,stack-Semantic-Data--Language-Processing--Text-Mining">Labs Sapo | Blog do Labs Sapo</A></DT>
+<DT><A HREF="http://photography.about.com/od/copyrightinformation/Photo_Rights_Photogaphers_RightsCopyright_Information_and_Resources.htm" ADD_DATE="1329927850" PRIVATE="0" TAGS="business,law,photography,copyright">Photo Rights, Photographers' Rights,Copyright Information and Resources</A></DT>
+<DT><A HREF="http://www.pixiq.com/" ADD_DATE="1329925591" PRIVATE="0" TAGS="copyright,business,photography">Photography Tips and Equipment Reviews | Pixiq</A></DT>
+<DT><A HREF="http://www.whatwg.org/specs/web-apps/current-work/multipage/microdata.html" ADD_DATE="1329909308" PRIVATE="0" TAGS="html,semantic.web,metadata">5 Microdata — HTML Standard</A></DT>
+<DT><A HREF="http://www.w3.org/TR/microdata/" ADD_DATE="1329909242" PRIVATE="0" TAGS="semantic.web,metadata,html">HTML Microdata</A></DT>
+<DT><A HREF="http://schema.org/docs/gs.html" ADD_DATE="1329908794" PRIVATE="0" TAGS="semantic.web,metadata,html">Getting Started - schema.org</A></DT>
+<DT><A HREF="http://blog.schema.org/" ADD_DATE="1329908756" PRIVATE="0" TAGS="html,semantic.web,metadata,stack-Semantic-Data--Language-Processing--Text-Mining">schema blog</A></DT>
+<DT><A HREF="http://dublincore.org/" ADD_DATE="1329908053" PRIVATE="0" TAGS="semantic.web,rdf,standard,metadata,stack-Semantic-Data--Language-Processing--Text-Mining">DCMI Home: Dublin Core® Metadata Initiative (DCMI)</A></DT>
+<DT><A HREF="http://www.adobe.com/solutions/gaming.html" ADD_DATE="1329826944" PRIVATE="0" TAGS="game,flash">Game design and game programming | Adobe</A></DT>
+<DT><A HREF="http://flintparticles.org/" ADD_DATE="1329762647" PRIVATE="0" TAGS="graphic,library,actionscript">Flint Particles</A></DT>
+<DT><A HREF="http://dd.dynamicdiagrams.com/" ADD_DATE="1329735962" PRIVATE="0" TAGS="data,information.design,visualization,stack-Data-Visualization--Information-Design">Information Design Watch | Dynamic Diagrams' take on the world of visual explanation, information architecture, design, and technology</A></DT>
+<DT><A HREF="http://www.dynamicdiagrams.com/wp-content/uploads/2011/04/orrery_2011_bce.swf" ADD_DATE="1329735866" PRIVATE="0" TAGS="interface,visualization,astronomy">orrery_2011_bce.swf (application/x-shockwave-flash-tiedosto)</A></DT>
+<DT><A HREF="http://www.shiffman.net/teaching/nature/" ADD_DATE="1329519717" PRIVATE="0" TAGS="tutorial,programming,visualization,art,computer.graphics,stack-3D-Graphics">The Nature of Code | daniel shiffman</A></DT>
+<DT><A HREF="http://machinima.org/" ADD_DATE="1329492051" PRIVATE="0" TAGS="3d,video,cinema,animation,game">Academy of Machinima Arts and Sciences</A></DT>
+<DT><A HREF="http://www.seriousgamesinstitute.co.uk/Research.aspx" ADD_DATE="1329490672" PRIVATE="0" TAGS="social,education,research,game">Serious Games Institute - Research - The SGI - Serious About Games</A></DT>
+<DT><A HREF="http://www.seriousgames.dk/node/511" ADD_DATE="1329490621" PRIVATE="0" TAGS="company,education,game">Welcome to Serious Games Interactive | Serious Games Interactive</A></DT>
+<DT><A HREF="http://www.seriousgames.org/" ADD_DATE="1329490556" PRIVATE="0" TAGS="social,education,game">Serious Games Initiative</A></DT>
+<DT><A HREF="http://www.google.pt/#q=s%C3%A9rgio+pereira+interface+developer&amp;oq=s%C3%A9rgio+pereira+interface+developer" ADD_DATE="1329476678" PRIVATE="0" TAGS="experiment,_me,showcase,Portugal,portfolio,interface.development">sérgio pereira interface developer - Google-haku</A>
+<DD>http://pt.linkedin.com/in/sergiompereira
+http://sergiompereira.com/
+https://codebits.eu/sergiopereira</DD></DT>
+<DT><A HREF="http://www.regular-expressions.info/reference.html" ADD_DATE="1329417482" PRIVATE="0" TAGS="regularexpression,programming">Regular Expressions Reference - Basic Syntax</A></DT>
+<DT><A HREF="http://www.the-map-as-history.com/" ADD_DATE="1329389213" PRIVATE="0" TAGS="education,visualization,map,geography,history">The map as history : a multimedia atlas of world history with animated historical maps</A></DT>
+<DT><A HREF="http://semanticstudios.com/publications/semantics/" ADD_DATE="1329388259" PRIVATE="0" TAGS="information.architecture,semantic,usability,stack-Interface-Design--Interaction-Design">Semantics | Publications | Semantic Studios</A></DT>
+<DT><A HREF="http://24ways.org/" ADD_DATE="1329331797" PRIVATE="0" TAGS="javascript,interface.development,web,stack-Web-Development">24 ways - web design and development articles and tutorials for advent</A></DT>
+<DT><A HREF="http://srufaculty.sru.edu/david.dailey/svg/#JSAnim" ADD_DATE="1329302655" PRIVATE="0" TAGS="graphic,javascript,svg">SVG animation with JavaScript</A></DT>
+<DT><A HREF="http://papa-leguas.com/" ADD_DATE="1329220548" PRIVATE="0" TAGS="trekking,travel">Papa-Léguas</A></DT>
+<DT><A HREF="http://flowplayer.org/tools/" ADD_DATE="1329149014" PRIVATE="0" TAGS="library,interface,javascript,jquery">jQuery TOOLS - The missing UI library for the Web</A></DT>
+<DT><A HREF="http://wikitravel.org/en/Main_Page" ADD_DATE="1329132500" PRIVATE="0" TAGS="community,travel">Free Worldwide Travel Guides - Wikitravel</A></DT>
+<DT><A HREF="http://angularjs.org/" ADD_DATE="1328786398" PRIVATE="0" TAGS="interface.development,mvc,framework,javascript">AngularJS — Superheroic JavaScript MVC Framework</A></DT>
+<DT><A HREF="http://www.realtime.co/en" ADD_DATE="1328785765" PRIVATE="0" TAGS="technology,web,company,Portugal">Realtime.co - from world wide web to Realtime Web!</A></DT>
+<DT><A HREF="http://www.gutenberg.org/" ADD_DATE="1328713577" PRIVATE="0" TAGS="book">Project Gutenberg - free ebooks</A></DT>
+<DT><A HREF="http://www.w3.org/TR/xslt20/" ADD_DATE="1328704964" PRIVATE="0" TAGS="documentation, publishing,web,markup,xslt">XSL Transformations (XSLT) Version 2.0</A></DT>
+<DT><A HREF="http://www.w3.org/standards/xml/transformation" ADD_DATE="1328704886" PRIVATE="0" TAGS="publishing,web,markup,xslt,xml">Transformation - W3C</A></DT>
+<DT><A HREF="http://www.w3.org/standards/xml/" ADD_DATE="1328703708" PRIVATE="0" TAGS="web,markup,standard,xml">XML Technology - W3C</A></DT>
+<DT><A HREF="http://www.w3.org/TR/rdf-sparql-query/" ADD_DATE="1328703536" PRIVATE="0" TAGS="semantic.web,sparql,rdf">SPARQL Query Language for RDF</A></DT>
+<DT><A HREF="http://www.w3.org/DesignIssues/" ADD_DATE="1328627362" PRIVATE="0" TAGS="philosophy,markup,html,future,idea,semantic.web,web">Design Issues for the World Wide Web</A></DT>
+<DT><A HREF="http://www.archive.org/" ADD_DATE="1328285580" PRIVATE="0" TAGS="search,history,web">Internet Archive: Digital Library of Free Books, Movies, Music and Wayback Machine</A></DT>
+<DT><A HREF="http://www.w3.org/standards/semanticweb/" ADD_DATE="1328283879" PRIVATE="0" TAGS="metadata,rdf,standard,information.retrieval,web,semantic,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Semantic Web - W3C</A></DT>
+<DT><A HREF="http://caniuse.com/" ADD_DATE="1328282985" PRIVATE="0" TAGS="browser,standard,web">When can I use... Support tables for HTML5, CSS3, etc</A></DT>
+<DT><A HREF="http://www.w3.org/conf/" ADD_DATE="1328282470" PRIVATE="0" TAGS="html,event">W3C Conference 2011</A>
+<DD>HTML5 Divide</DD></DT>
+<DT><A HREF="http://wordpress.org/" ADD_DATE="1328279877" PRIVATE="0" TAGS="wordpress,cms,php">WordPress › Blog Tool, Publishing Platform, and CMS</A></DT>
+<DT><A HREF="http://paperjs.org/" ADD_DATE="1328198700" PRIVATE="0" TAGS="vector.graphic,drawing,library,html,canvas,javascript">Paper.js</A></DT>
+<DT><A HREF="http://line25.com/articles/10-html-entity-crimes-you-really-shouldnt-commit" ADD_DATE="1328197400" PRIVATE="0" TAGS="writing,encoding,html">10 HTML Entity Crimes You Really Shouldn’t Commit</A></DT>
+<DT><A HREF="http://www.lensculture.com/index.html" ADD_DATE="1328195488" PRIVATE="0" TAGS="photography">lens culture: contemporary photography magazine</A></DT>
+<DT><A HREF="http://www.tutorial9.net/category/tutorials/web-tutorials/" ADD_DATE="1328194055" PRIVATE="0" TAGS="html,web,wordpress,tutorial,css,stack-Web-Development">Web Development Tutorials | Tutorial9</A></DT>
+<DT><A HREF="http://www.alistapart.com/topics/" ADD_DATE="1328115232" PRIVATE="0" TAGS="css,html,tutorial,design,web,stack-Web-Development">A List Apart: Topics</A></DT>
+<DT><A HREF="http://spinejs.com/" ADD_DATE="1328100485" PRIVATE="0" TAGS="framework,mvc,javascript">Spine</A></DT>
+<DT><A HREF="http://www.reactable.com/" ADD_DATE="1328100295" PRIVATE="0" TAGS="music,interface,interaction">Reactable</A></DT>
+<DT><A HREF="http://www.axtrail.go-outdoor.pt/" ADD_DATE="1328099596" PRIVATE="0" TAGS="running">AXtrail® series - Corrida de montanha nas Aldeias do Xisto - AXtrail® series - Corrida de montanha nas Aldeias do Xisto</A></DT>
+<DT><A HREF="http://javascript.crockford.com/" ADD_DATE="1328034037" PRIVATE="0" TAGS="javascript">Douglas Crockford's Javascript</A></DT>
+<DT><A HREF="http://www.trentinoeventi.it/?language=it" ADD_DATE="1328009307" PRIVATE="0" TAGS="running">Trentino Eventi » Garda Trentino Half Marathon - Trentino Eventi</A></DT>
+<DT><A HREF="http://www.helsinkicityrun.fi/etusivu" ADD_DATE="1328008544" PRIVATE="0" TAGS="running">Helsinki City Run - SPECSAVERS HELSINKI CITY RUN JUOSTAAN 5.5.2012!</A></DT>
+<DT><A HREF="http://www.lisbon-marathon.com/" ADD_DATE="1328008480" PRIVATE="0" TAGS="running">Maratona de Lisboa - Lisbon Marathon</A></DT>
+<DT><A HREF="http://www3.math.tu-berlin.de/jreality/index.php" ADD_DATE="1327924878" PRIVATE="0" TAGS="geometry,computer.graphics,visualization,3d,tool,mathematics">jReality | Home</A></DT>
+<DT><A HREF="http://pt-br.facebook.com/espaconimas?sk=events" ADD_DATE="1327918628" PRIVATE="0" TAGS="cinema">Espaço Nimas - Cinema - Lisboa - Eventos | Facebook</A></DT>
+<DT><A HREF="http://writing.mit.edu/about/mission" ADD_DATE="1327663802" PRIVATE="0" TAGS="education,writing">Mission | Writing and Humanistic Studies</A></DT>
+<DT><A HREF="http://bcs.mit.edu/research/" ADD_DATE="1327663334" PRIVATE="0" TAGS="research,neuroscience,stack-Research-Science-Future">MIT : Brain and Cognitive Sciences : Research</A></DT>
+<DT><A HREF="http://media.mit.edu/research/highlights" ADD_DATE="1327663269" PRIVATE="0" TAGS="stack-Interface-Design--Interaction-Design,research,newmedia,stack-Research-Science-Future">Research Highlights | MIT Media Lab</A></DT>
+<DT><A HREF="http://space.mit.edu/res_area.html" ADD_DATE="1327663101" PRIVATE="0" TAGS="research,astronomy,stack-Astronomy-Physics">MIT Kavli Institute for Astrophysics and Space Research</A></DT>
+<DT><A HREF="http://www.mitpressjournals.org/loi/neco" ADD_DATE="1327662668" PRIVATE="0" TAGS="computer.science,neuroscience,research,magazine,stack-Research-Science-Future">MIT Press Journals - Neural Computation</A></DT>
+<DT><A HREF="http://www.mitpressjournals.org/loi/jocn" ADD_DATE="1327662587" PRIVATE="0" TAGS="magazine,research,neuroscience">MIT Press Journals - Journal of Cognitive Neuroscience</A></DT>
+<DT><A HREF="http://www.mitpressjournals.org/loi/coli" ADD_DATE="1327662037" PRIVATE="0" TAGS="computational.linguistics,language.processing,research,magazine,linguistics,stack-Semantic-Data--Language-Processing--Text-Mining">MIT Press Journals - Computational Linguistics</A></DT>
+<DT><A HREF="http://arxiv.org/list/cs.IR/recent" ADD_DATE="1327659580" PRIVATE="0" TAGS="library,research,information.retrieval,stack-Semantic-Data--Language-Processing--Text-Mining">Information Retrieval authors/titles recent submissions</A></DT>
+<DT><A HREF="http://arxiv.org/list/cs.CG/recent" ADD_DATE="1327659484" PRIVATE="0" TAGS="library,research,mathematics,geometry,stack-Mathematics">Computational Geometry authors/titles recent submissions</A></DT>
+<DT><A HREF="http://arxiv.org/list/cs.CL/recent" ADD_DATE="1327659419" PRIVATE="0" TAGS="library,research,computational.linguistics,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Computation and Language authors/titles recent submissions</A></DT>
+<DT><A HREF="http://arxiv.org/" ADD_DATE="1327659316" PRIVATE="0" TAGS="book,education,mathematics,library,physics,research,science">arXiv.org e-Print archive</A></DT>
+<DT><A HREF="http://svg-wow.org/" ADD_DATE="1327509902" PRIVATE="0" TAGS="svg,showcase,stack-3D-Graphics">SVG Wow!</A></DT>
+<DT><A HREF="http://www.universcience.fr/fr/accueil" ADD_DATE="1327503449" PRIVATE="0" TAGS="science,news,stack-Research-Science-Future">universcience.fr - universcience.fr</A></DT>
+<DT><A HREF="http://www.sciences.ch/htmlfr/accueil.php" ADD_DATE="1327502543" PRIVATE="0" TAGS="science,physics,mathematics,geometry,education,stack-Research-Science-Future">Sciences.ch (accueil)</A></DT>
+<DT><A HREF="http://www-a2k.is.tokushima-u.ac.jp/member/kita/NLP/IR.html" ADD_DATE="1327493794" PRIVATE="0" TAGS="information.retrieval,directory">Information Retrieval Links</A></DT>
+<DT><A HREF="http://www-a2k.is.tokushima-u.ac.jp/member/kita/NLP/nlp.html" ADD_DATE="1327493517" PRIVATE="0" TAGS="language.processing,computational.linguistics,directory">Natural Language Processing</A></DT>
+<DT><A HREF="http://www.ncstrl.org/" ADD_DATE="1327493174" PRIVATE="0" TAGS="research,computer.science,book,directory">www.ncstrl.org</A></DT>
+<DT><A HREF="http://onlinebooks.library.upenn.edu/" ADD_DATE="1327492553" PRIVATE="0" TAGS="book,directory">The Online Books Page</A></DT>
+<DT><A HREF="http://www.eacl.org/" ADD_DATE="1327492153" PRIVATE="0" TAGS="language.processing,computational.linguistics,education,research">http://www.eacl.org/</A></DT>
+<DT><A HREF="http://textanddatamining.blogspot.com/" ADD_DATE="1327489750" PRIVATE="0" TAGS="text.mining,analytics,mathematics">Text and Data Mining by practical means</A></DT>
+<DT><A HREF="http://www.nactem.ac.uk/news.php" ADD_DATE="1327489551" PRIVATE="0" TAGS="information.retrieval,text.mining,language.processing,news,stack-Semantic-Data--Language-Processing--Text-Mining">National Centre for Text Mining — NaCTeM — Text Mining News and Events</A></DT>
+<DT><A HREF="http://www.texttechnologies.com/" ADD_DATE="1327489445" PRIVATE="0" TAGS="information.retrieval,text.mining,technology,search,language.processing,news,stack-Semantic-Data--Language-Processing--Text-Mining">Text Technologies</A></DT>
+<DT><A HREF="http://www.juiceanalytics.com/" ADD_DATE="1327489217" PRIVATE="0" TAGS="visualization,information.design,data,analytics,company">Juice Analytics - Your data is meant for action.</A></DT>
+<DT><A HREF="http://www.kdnuggets.com/" ADD_DATE="1327488833" PRIVATE="0" TAGS="education,research,information.retrieval,data,text.mining,analytics,web,stack-Semantic-Data--Language-Processing--Text-Mining">Data Mining Community's Top Resource</A></DT>
+<DT><A HREF="http://www.graffitimarkuplanguage.com/" ADD_DATE="1327344979" PRIVATE="0" TAGS="art,graffiti,markup,gml">Graffiti Markup Language</A></DT>
+<DT><A HREF="http://mbostock.github.com/d3/" ADD_DATE="1327331580" PRIVATE="0" TAGS="javascript,visualization,library">d3.js</A></DT>
+<DT><A HREF="http://www.patternbrowser.org/" ADD_DATE="1327065406" PRIVATE="0" TAGS="visualization,design, interaction,interface">patternBrowser</A></DT>
+<DT><A HREF="http://www.omundoleseaviajar.blogspot.com/" ADD_DATE="1327014819" PRIVATE="0" TAGS="travel">O mundo lê-se a viajar</A></DT>
+<DT><A HREF="http://www.omniglot.com/books/language/general.htm" ADD_DATE="1326985465" PRIVATE="0" TAGS="language,book">Books about language and languages</A></DT>
+<DT><A HREF="http://www.omniglot.com/books/writing/numbers.htm" ADD_DATE="1326983260" PRIVATE="0" TAGS="mathematics,history,writing,book">Books about numbers and numerals</A></DT>
+<DT><A HREF="http://www.omniglot.com/writing/alphabets.htm" ADD_DATE="1326798221" PRIVATE="0" TAGS="writing,language">Alphabets</A></DT>
+<DT><A HREF="http://www.omniglot.com/writing/syllabic.htm" ADD_DATE="1326798193" PRIVATE="0" TAGS="writing,language">Syllabic alphabets / Alphasyllabaries / Abugidas</A></DT>
+<DT><A HREF="http://aclweb.org/anthology-new/" ADD_DATE="1325856985" PRIVATE="0" TAGS="computational.linguistics,language.processing,research">ACL Anthology</A></DT>
+<DT><A HREF="http://lanl.arxiv.org/list/cs.CL/recent" ADD_DATE="1325856895" PRIVATE="0" TAGS="computational.linguistics,research,language.processing">Computation and Language authors/titles recent submissions</A></DT>
+<DT><A HREF="http://www.alistapart.com/topics/code/css/" ADD_DATE="1325169784" PRIVATE="0" TAGS="css,tutorial">A List Apart: Topics: Code: CSS</A></DT>
+<DT><A HREF="http://www.alistapart.com/topics/content/" ADD_DATE="1325154005" PRIVATE="0" TAGS="content,web">A List Apart: Topics: Content</A></DT>
+<DT><A HREF="https://github.com/jeremyckahn/shifty" ADD_DATE="1325075961" PRIVATE="0" TAGS="javascript,animation,library">jeremyckahn/shifty - GitHub</A></DT>
+<DT><A HREF="http://libcinder.org/" ADD_DATE="1324483526" PRIVATE="0" TAGS="creativity,programming,art,computer.graphics,framework">Cinder | The library for professional-quality creative coding in C++</A></DT>
+<DT><A HREF="http://www.outracks.no/" ADD_DATE="1324482760" PRIVATE="0" TAGS="computer.graphics,technology,company">Outracks Technologies - Your Future Is Real-Time</A></DT>
+<DT><A HREF="http://www.displayhack.org/" ADD_DATE="1324482660" PRIVATE="0" TAGS="computer.graphics,3d,game,stack-3D-Graphics">Displayhack | Because code is beautiful</A></DT>
+<DT><A HREF="http://cacm.acm.org/browse-by-subject/search" ADD_DATE="1324465213" PRIVATE="0" TAGS="search,information,information.retrieval,text.mining,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Search | Browse by Subject | Communications of the ACM</A></DT>
+<DT><A HREF="http://cacm.acm.org/browse-by-subject/data-storage-and-retrieval" ADD_DATE="1324465102" PRIVATE="0" TAGS="data,information.retrieval,database,text.mining,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">Data / Storage and Retrieval | Browse by Subject | Communications of the ACM</A></DT>
+<DT><A HREF="http://cacm.acm.org/browse-by-subject/artificial-intelligence" ADD_DATE="1324464866" PRIVATE="0" TAGS="computer.science,research,artificial.intelligence,stack-Research-Science-Future">Artificial Intelligence | Browse by Subject | Communications of the ACM</A></DT>
+<DT><A HREF="http://cacm.acm.org/browse-by-subject/human-computer-interaction" ADD_DATE="1324464728" PRIVATE="0" TAGS="interaction,computer.science,usability,research,stack-Interface-Design--Interaction-Design">Human-Computer Interaction | Browse by Subject | Communications of the ACM</A></DT>
+<DT><A HREF="http://www.bookcrossing.com/" ADD_DATE="1324379346" PRIVATE="0" TAGS="book,community">Tervetuloa BookCrossingiin</A></DT>
+<DT><A HREF="http://rhizome.org/" ADD_DATE="1324297158" PRIVATE="0" TAGS="web,art,technology,research">Rhizome</A></DT>
+<DT><A HREF="http://aclweb.org/aclwiki/index.php?title=Main_Page" ADD_DATE="1324146186" PRIVATE="0" TAGS="computational.linguistics,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">ACLWiki : Association for Computational Linguistics</A></DT>
+<DT><A HREF="http://www.igc.gulbenkian.pt/" ADD_DATE="1324071561" PRIVATE="0" TAGS="science,research,stack-Research-Science-Future">Welcome to the IGC</A></DT>
+<DT><A HREF="http://kaazing.com/" ADD_DATE="1324047897" PRIVATE="0" TAGS="web,network,tool,communication">The Heart of the Living Web | Kaazing</A></DT>
+<DT><A HREF="http://www.ietf.org/" ADD_DATE="1324047328" PRIVATE="0" TAGS="internet,community,technology,collaboration">Internet Engineering Task Force</A></DT>
+<DT><A HREF="http://www.internetsociety.org/" ADD_DATE="1324047264" PRIVATE="0" TAGS="internet,collaboration,research,stack-Research-Science-Future">Internet Society</A></DT>
+<DT><A HREF="http://www.cs.sfu.ca/~anoop/weblog/archives/000137.html" ADD_DATE="1323992199" PRIVATE="0" TAGS="book, language">Special Circumstances: The Embedding by Ian Watson</A></DT>
+<DT><A HREF="http://www.amazon.com/Physical-Computing-Sensing-Controlling-Computers/dp/159200346X?ie=UTF8&amp;s=books&amp;qid=1215622630&amp;sr=1-1" ADD_DATE="1323992085" PRIVATE="0" TAGS="book, physicalcomputing, interaction, electronics">Amazon.com: Physical Computing: Sensing and Controlling the Physical World with Computers (0082039503462): Dan O'Sullivan, Tom Igoe: Books</A></DT>
+<DT><A HREF="http://www.amazon.com/Making-Things-Talk-Practical-Connecting/dp/0596510519?ie=UTF8&amp;s=books&amp;qid=1215622570&amp;sr=1-1" ADD_DATE="1323991836" PRIVATE="0" TAGS="book, physicalcomputing, interaction, electronics ">Amazon.com: Making Things Talk: Practical Methods for Connecting Physical Objects (9780596510510): Tom Igoe: Books</A></DT>
+<DT><A HREF="http://vimeo.com/esoastronomy" ADD_DATE="1323860669" PRIVATE="0" TAGS="astronomy,science,research,video,stack-Astronomy-Physics">ESO Observatory on Vimeo</A></DT>
+<DT><A HREF="http://www.portaltotheuniverse.org/" ADD_DATE="1323860525" PRIVATE="0" TAGS="astronomy,science,education,news,stack-Astronomy-Physics">Portal to the Universe</A></DT>
+<DT><A HREF="http://www.lip.pt/" ADD_DATE="1323859969" PRIVATE="0" TAGS="physics,science,research">LIP - Laboratório de Instrumentação e Física Experimental de Partículas</A></DT>
+<DT><A HREF="http://public.web.cern.ch/public/" ADD_DATE="1323859943" PRIVATE="0" TAGS="science,physics,research,stack-Research-Science-Future">CERN - the European Organization for Nuclear Research</A></DT>
+<DT><A HREF="http://www.nasa.gov/" ADD_DATE="1323859905" PRIVATE="0" TAGS="science,astronomy,research,stack-Astronomy-Physics">NASA - Home</A></DT>
+<DT><A HREF="http://www.esa.int/esaCP/index.html" ADD_DATE="1323859873" PRIVATE="0" TAGS="astronomy,science,research,stack-Astronomy-Physics">ESA Portal</A></DT>
+<DT><A HREF="http://www.eso.org/public/" ADD_DATE="1323859795" PRIVATE="0" TAGS="astronomy,science,research,stack-Astronomy-Physics">ESO</A></DT>
+<DT><A HREF="http://ricardocabello.com/blog" ADD_DATE="1323691292" PRIVATE="0" TAGS="programming,computer.graphics,webgl,actionscript,stack-3D-Graphics">ricardo cabello* blog*</A></DT>
+<DT><A HREF="http://www.anscamobile.com/corona/" ADD_DATE="1323690226" PRIVATE="0" TAGS="game,framework,mobile">Ansca Mobile's cross-platform mobile app development tool</A></DT>
+<DT><A HREF="http://beyondtellerrand.com/" ADD_DATE="1323689653" PRIVATE="0" TAGS="event,web">Conference Schedule and Talk Descriptions // beyond tellerrand 2011</A></DT>
+<DT><A HREF="http://webglplayground.net/" ADD_DATE="1323429448" PRIVATE="0" TAGS="webgl,javascript,3d,computer.graphics">WebGL playground [beta]</A></DT>
+<DT><A HREF="http://linkeddata.org/" ADD_DATE="1323272168" PRIVATE="0" TAGS="semantic.web,data,information,text.mining,stack-Semantic-Data--Language-Processing--Text-Mining">Linked Data | Linked Data - Connect Distributed Data across the Web</A></DT>
+<DT><A HREF="http://www.data.gov/communities/semantic" ADD_DATE="1323270929" PRIVATE="0" TAGS="semantic.web,data,information,community,stack-Semantic-Data--Language-Processing--Text-Mining">Semantic Web | Data.gov Communities</A></DT>
+<DT><A HREF="http://www.data.gov/" ADD_DATE="1323270813" PRIVATE="0" TAGS="data,semantic.web,visualization,information.retrieval,text.mining,stack-Semantic-Data--Language-Processing--Text-Mining">Data.gov</A></DT>
+<DT><A HREF="http://www.clarahq.com/" ADD_DATE="1323270539" PRIVATE="0" TAGS="community,analytics,language.processing,visualization">Community analytics tool specially designed for community managers</A></DT>
+<DT><A HREF="http://impactjs.com/" ADD_DATE="1322648225" PRIVATE="0" TAGS="framework,html,javascript,game">Impact - HTML5 Canvas and JavaScript Game Engine</A></DT>
+<DT><A HREF="http://www.karlsims.com/harmonograph/index.html" ADD_DATE="1322361152" PRIVATE="0" TAGS="graphic,physics">How to Make a Three-Pendulum Rotary Harmonograph</A></DT>
+<DT><A HREF="http://www.karlsims.com/" ADD_DATE="1322361118" PRIVATE="0" TAGS="computer.graphics ">Karl Sims home page</A></DT>
+<DT><A HREF="http://www.fontsquirrel.com/" ADD_DATE="1322145205" PRIVATE="0" TAGS="font,typography">Font Squirrel | Handpicked free fonts for graphic designers with commercial-use licenses.</A></DT>
+<DT><A HREF="http://mibbu.eu/" ADD_DATE="1322130452" PRIVATE="0" TAGS="javascript, framework, game ">Mibbu, HTML5 javascript game framework, canvas, DOM</A></DT>
+<DT><A HREF="http://fronteers.nl/" ADD_DATE="1322059745" PRIVATE="0" TAGS="interface,event,community">Fronteers — vakvereniging voor front-end developers</A></DT>
+<DT><A HREF="http://www.kesiev.com/akihabara/" ADD_DATE="1322044368" PRIVATE="0" TAGS="javascript,game,library">Akihabara</A></DT>
+<DT><A HREF="http://www.mollecular.org/" ADD_DATE="1321998988" PRIVATE="0" TAGS="theatre,collaboration,organization,research,politics">mollecular organization</A></DT>
+<DT><A HREF="http://documentcloud.github.com/underscore/" ADD_DATE="1321978401" PRIVATE="0" TAGS="javascript,library">Underscore.js</A></DT>
+<DT><A HREF="http://www.ampctv.web.pt/" ADD_DATE="1321717888" PRIVATE="0" TAGS="trekking ">Associação de Marchas e Passeios do Concelho de Torres Vedras</A></DT>
+<DT><A HREF="http://yle.fi/selkouutiset/index.php?id=1334&amp;fb_source=message" ADD_DATE="1321716151" PRIVATE="0" TAGS="radio,news,Finland">Selkouutiset - Etusivu | yle.fi</A></DT>
+<DT><A HREF="http://www.survs.com/" ADD_DATE="1321655826" PRIVATE="0" TAGS="survey, tool">Survs - Online Survey Tool, Questionnaire Software</A></DT>
+<DT><A HREF="http://hakim.se/experiments" ADD_DATE="1321527907" PRIVATE="0" TAGS="html,experiment,computer.graphics,stack-3D-Graphics">Hakim El Hattab</A></DT>
+<DT><A HREF="http://html5pt.org/?page_id=286" ADD_DATE="1321527552" PRIVATE="0" TAGS="stack-Community,directory,html,community">Comunidade HTML5 – Portugal |  Recursos</A></DT>
+<DT><A HREF="http://expressjs.com/" ADD_DATE="1321438144" PRIVATE="0" TAGS="javascript,framework,nodejs">Express - node web framework</A></DT>
+<DT><A HREF="http://www.nodejitsu.com/" ADD_DATE="1321438112" PRIVATE="0" TAGS="nodejs,javascript,hosting">Nodejitsu.com</A></DT>
+<DT><A HREF="http://flatironjs.org/" ADD_DATE="1321437985" PRIVATE="0" TAGS="javascript,nodejs,framework">http://flatironjs.org/</A></DT>
+<DT><A HREF="https://www.l2f.inesc-id.pt/wiki/index.php/Main_Page" ADD_DATE="1321314191" PRIVATE="0" TAGS="language.processing,computational.linguistics,stack-Semantic-Data--Language-Processing--Text-Mining">Welcome to the Spoken Language Systems Lab - L²F - Spoken Language Systems Laboratory</A></DT>
+<DT><A HREF="https://www.l2f.inesc-id.pt/wiki/index.php/REAP.PT_(Computer_Aided_Language_Learning_-_Reading_Practice)" ADD_DATE="1321314098" PRIVATE="0" TAGS="language.processing,computational.linguistics">REAP.PT (Computer Aided Language Learning - Reading Practice) - L²F - Spoken Language Systems Laboratory</A></DT>
+<DT><A HREF="http://lesscss.org/" ADD_DATE="1321270463" PRIVATE="0" TAGS="css,javascript,programming">LESS « The Dynamic Stylesheet language</A></DT>
+<DT><A HREF="http://en.wikibooks.org/wiki/Main_Page" ADD_DATE="1320334360" PRIVATE="0" TAGS="book,education,community">Wikibooks</A></DT>
+<DT><A HREF="https://dou.pt/" ADD_DATE="1320229708" PRIVATE="0" TAGS="volunteer,donation,social">DOU.pt: Doação e Reutilização de Bens</A></DT>
+<DT><A HREF="http://documentcloud.github.com/backbone/#Router" ADD_DATE="1319727623" PRIVATE="0" TAGS="programming.pattern,javascript,framework,mvc">Backbone.js</A></DT>
+<DT><A HREF="http://www.pagecolumn.com/tool/regtest.htm" ADD_DATE="1319724085" PRIVATE="0" TAGS="regularexpression,tool">Online Javascript Regular Expression Tester</A></DT>
+<DT><A HREF="http://www.surveypool.com/default.aspx?tabid=206" ADD_DATE="1319536841" PRIVATE="0" TAGS="tool,marketing,survey">SurveyPool - Surveys</A></DT>
+<DT><A HREF="http://questionform.com/" ADD_DATE="1319536772" PRIVATE="0" TAGS="survey,marketing,tool">Create Online Surveys and Forms</A></DT>
+<DT><A HREF="http://polldaddy.com/features/" ADD_DATE="1319536611" PRIVATE="0" TAGS="survey,marketing,tool">Use PollDaddy survey software to create your online surveys and polls!</A></DT>
+<DT><A HREF="http://mathworld.wolfram.com/" ADD_DATE="1319274877" PRIVATE="0" TAGS="mathematics,stack-Mathematics">Wolfram MathWorld: The Web's Most Extensive Mathematics Resource</A></DT>
+<DT><A HREF="http://jsconf.us/" ADD_DATE="1319193734" PRIVATE="0" TAGS="event,javascript">JSConf US - May 2-3, 2011: Packing up and heading west, Portland Oregon.</A></DT>
+<DT><A HREF="http://www.lively-kernel.org/" ADD_DATE="1319104971" PRIVATE="0" TAGS="javascript,programming,tool">Lively Kernel - Home</A></DT>
+<DT><A HREF="http://jashkenas.github.com/coffee-script/" ADD_DATE="1319104610" PRIVATE="0" TAGS="javascript,programming,language">CoffeeScript</A></DT>
+<DT><A HREF="http://www.dartlang.org/" ADD_DATE="1319104545" PRIVATE="0" TAGS="programming,language,web,interface.development">Dart : Structured web programming</A></DT>
+<DT><A HREF="http://gotocon.com/" ADD_DATE="1319104219" PRIVATE="0" TAGS="event,interface,javascript">GOTO Conferences : Software Development Conferences in Europe, America and Australia</A></DT>
+<DT><A HREF="https://github.com/mrdoob/three.js/wiki/API-Reference" ADD_DATE="1318845227" PRIVATE="0" TAGS="3d,javascript,documentation,computer.graphics">Three.js - API Reference - GitHub</A></DT>
+<DT><A HREF="http://mindstorms.lego.com/en-us/whatisnxt/default.aspx" ADD_DATE="1318584250" PRIVATE="0" TAGS="robotics,sensor,hardware,physicalcomputing">LEGO.com MINDSTORMS : What is NXT?</A></DT>
+<DT><A HREF="http://www.sil.org/linguistics/computing.html" ADD_DATE="1318024903" PRIVATE="0" TAGS="language,language.processing,computational.linguistics">Linguistics Computing</A></DT>
+<DT><A HREF="http://www.cs.technion.ac.il/~gabr/resources/resources.html" ADD_DATE="1318024677" PRIVATE="0" TAGS="directory,language,language.processing,computational.linguistics,information.retrieval,stack-Semantic-Data--Language-Processing--Text-Mining">Resources for Text, Speech and Language Processing</A></DT>
+<DT><A HREF="http://www.lt-world.org/" ADD_DATE="1318024482" PRIVATE="0" TAGS="language,computational.linguistics,stack-Semantic-Data--Language-Processing--Text-Mining">Welcome to Language Technology World — LT World</A></DT>
+<DT><A HREF="http://wod.vodafone.pt/" ADD_DATE="1318023098" PRIVATE="0" TAGS="volunteer ">.. :: World of Difference :: ..</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/List_of_HTTP_header_fields" ADD_DATE="1316784676" PRIVATE="0" TAGS="web,http">List of HTTP header fields - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://gskinner.com/libraries/gtween/#features" ADD_DATE="1316013535" PRIVATE="0" TAGS="actionscript,library,animation">GTween - Tweening Engine for ActionScript 3 Developers</A></DT>
+<DT><A HREF="http://www.flag.pt/" ADD_DATE="1315739922" PRIVATE="0" TAGS="design,school,multimedia,web">Centros de Formação FLAG</A></DT>
+<DT><A HREF="http://280slides.com/" ADD_DATE="1315434298" PRIVATE="0" TAGS="tool,presentation">280 Slides - Create and Share Presentations Online</A></DT>
+<DT><A HREF="https://www.facebook.com/ForumSuomiPortugal" ADD_DATE="1315294036" PRIVATE="0" TAGS="finnish,community">Forum Suomi Portugal (4)</A></DT>
+<DT><A HREF="http://suomi.46.forumer.com/" ADD_DATE="1315294021" PRIVATE="0" TAGS="finnish,community">_s_u_o_m_i_ • Portal</A></DT>
+<DT><A HREF="http://nuclio.pt/" ADD_DATE="1315254621" PRIVATE="0" TAGS="astronomy,community,event,stack-Astronomy-Physics">nuclio.pt</A></DT>
+<DT><A HREF="http://www.edit.com.pt/#programas_e_workshops/all.html" ADD_DATE="1315160526" PRIVATE="0" TAGS="interaction,design,school,newmedia">EDIT. - Escola de Design Interativo e Tecnologia</A></DT>
+<DT><A HREF="http://cacm.acm.org/browse-by-subject" ADD_DATE="1314263716" PRIVATE="0" TAGS="computer.science,research,magazine,theory">Communications of the ACM : Browse by Subject</A></DT>
+<DT><A HREF="http://soft.vub.ac.be/~tvcutsem/" ADD_DATE="1314177333" PRIVATE="0" TAGS="programming,language">invokedynamic : Tom Van Cutsem's Home on the Web</A></DT>
+<DT><A HREF="http://soft.vub.ac.be/soft/" ADD_DATE="1314177295" PRIVATE="0" TAGS="programming,research,language">Welcome to the Software Languages Lab [SOFT]</A></DT>
+<DT><A HREF="http://www.modernizr.com/" ADD_DATE="1314091485" PRIVATE="0" TAGS="library,javascript,html">Modernizr</A></DT>
+<DT><A HREF="http://stackexchange.com/" ADD_DATE="1314005831" PRIVATE="0" TAGS="community,social,knowledge">Stack Exchange - Free, Community-Powered Q&amp;A</A></DT>
+<DT><A HREF="http://www.bookbump.com/" ADD_DATE="1313761783" PRIVATE="0" TAGS="library,book,community,software">BookBump | Simply Books</A></DT>
+<DT><A HREF="http://www.open-ils.org/about.php" ADD_DATE="1313761728" PRIVATE="0" TAGS="library,management,software,book">About Evergreen software and its community</A></DT>
+<DT><A HREF="http://www.librarything.com/" ADD_DATE="1313760953" PRIVATE="0" TAGS="library,book,community,tool">LibraryThing | Catalog your books online</A></DT>
+<DT><A HREF="http://developer.nvidia.com/category/zone/cuda-zone" ADD_DATE="1313747144" PRIVATE="0" TAGS="parallel.computing,computer.graphics">NVIDIA Developer Zone</A></DT>
+<DT><A HREF="http://www.tuio.org/" ADD_DATE="1313746974" PRIVATE="0" TAGS="interface,multitouch,protocol,framework">TUIO</A></DT>
+<DT><A HREF="http://www.javascriptgaming.com/" ADD_DATE="1313682921" PRIVATE="0" TAGS="book,javascript,game,showcase">JavaScript Gaming - The best JavaScript games on the web</A></DT>
+<DT><A HREF="https://github.com/mrdoob/three.js/" ADD_DATE="1313674763" PRIVATE="0" TAGS="library,javascript,3d">mrdoob/three.js - GitHub</A></DT>
+<DT><A HREF="http://flowplayer.org/" ADD_DATE="1313148385" PRIVATE="0" TAGS="flash,video,component">Flowplayer - Flash Video Player for the Web</A></DT>
+<DT><A HREF="http://www.facebook.com/group.php?gid=82192596903&amp;v=app_2344061033" ADD_DATE="1313004881" PRIVATE="0" TAGS="astronomy,community,event">Noites no Observatório Astronómico de Lisboa (6)</A></DT>
+<DT><A HREF="http://ukrp.musicradio.com/classicfm/live" ADD_DATE="1312218241" PRIVATE="0" TAGS="music,radio">Classic FM</A></DT>
+<DT><A HREF="http://www.box2d.org/" ADD_DATE="1311933605" PRIVATE="0" TAGS="library,physics,computer.graphics">Box2D - Home</A></DT>
+<DT><A HREF="http://code.google.com/p/box2dweb/" ADD_DATE="1311872671" PRIVATE="0" TAGS="library,javascript,physics">box2dweb - Box2DFlash port to javascript - Google Project Hosting</A></DT>
+<DT><A HREF="http://box2d.thinkpixellab.com/" ADD_DATE="1311862671" PRIVATE="0" TAGS="library,javascript,physics">Box2d - by Pixel Lab</A></DT>
+<DT><A HREF="http://blog.flashgen.com/" ADD_DATE="1311718021" PRIVATE="0" TAGS="flash,flex,actionscript,component,game">.: Blog.FlashGen.Com :: Mike Jones - Flash Platform Evangelist :.</A></DT>
+<DT><A HREF="http://www.omniglot.com/" ADD_DATE="1311717264" PRIVATE="0" TAGS="language,language,writing,history">Omniglot - the guide to languages, alphabets and other writing systems</A></DT>
+<DT><A HREF="http://www.franceinter.fr/player" ADD_DATE="1311318576" PRIVATE="0" TAGS="radio,France">France Inter - player</A></DT>
+<DT><A HREF="http://www.franceinter.fr/emissions/liste-des-emissions" ADD_DATE="1311318519" PRIVATE="0" TAGS="radio,France">Emissions - France Inter</A></DT>
+<DT><A HREF="http://www.franceinter.fr/programmes" ADD_DATE="1311318229" PRIVATE="0" TAGS="radio,France">Programmes - France Inter</A></DT>
+<DT><A HREF="http://www.franceinfo.fr/rendez-vous-chronique-podcast" ADD_DATE="1311282184" PRIVATE="0" TAGS="radio,France">France Info - podcasts</A></DT>
+<DT><A HREF="http://www.france-info.com/" ADD_DATE="1311281925" PRIVATE="0" TAGS="radio,France">France Info - La Une - Actualité en ligne et information en temps réel - Radio France</A></DT>
+<DT><A HREF="http://www.radiofrance.fr/" ADD_DATE="1311281860" PRIVATE="0" TAGS="radio,France">Radio France :: Accueil</A></DT>
+<DT><A HREF="http://www.rfi.fr/node/312901/tab/contenu/grille_programme" ADD_DATE="1311281760" PRIVATE="0" TAGS="radio,France">RFI - programmes</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Bilinear_interpolation" ADD_DATE="1311182839" PRIVATE="0" TAGS="image.processing,mathematics">Bilinear interpolation - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.cambridgeincolour.com/tutorials/image-interpolation.htm" ADD_DATE="1311085754" PRIVATE="0" TAGS="image.processing">Understanding Digital Image Interpolation</A></DT>
+<DT><A HREF="http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/pixelbender/pdfs/pixelbender_reference.pdf" ADD_DATE="1311084519" PRIVATE="0" TAGS="pixelbender,image.processing,adobe">pixelbender_reference.pdf (application/pdf-tiedosto)</A></DT>
+<DT><A HREF="http://www.bbc.co.uk/radio4/programmes/schedules/fm" ADD_DATE="1311058474" PRIVATE="0" TAGS="UK,radio">BBC - BBC Radio 4 Programmes - Schedule</A></DT>
+<DT><A HREF="http://www.bbc.co.uk/radio4/features/programmes/" ADD_DATE="1311058426" PRIVATE="0" TAGS="UK,radio">BBC - BBC Radio 4 Programmes - Find Programmes</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/listaprog.php" ADD_DATE="1311022736" PRIVATE="0" TAGS="radio,Italia">Radio 24: programas alfabético</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/archivio.php" ADD_DATE="1311022669" PRIVATE="0" TAGS="radio,Italia">Radio 24: arquivo mp3 hora a hora</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/palinsesto.php" ADD_DATE="1311022649" PRIVATE="0" TAGS="radio,Italia">Radio 24: programas dia a dia</A></DT>
+<DT><A HREF="http://sourceforge.net/apps/trac/lightspark" ADD_DATE="1310997298" PRIVATE="0" TAGS="actionscript,flash,virtualmachine,computer.graphics">lightspark</A></DT>
+<DT><A HREF="http://www.html5rocks.com/en/" ADD_DATE="1310723771" PRIVATE="0" TAGS="web,html,javascript,stack-Web-Development">HTML5 Rocks - A resource for open web HTML5 developers</A></DT>
+<DT><A HREF="http://www.reclaimprivacy.org/" ADD_DATE="1310649498" PRIVATE="0" TAGS="tool,community,social,security">ReclaimPrivacy.org | Facebook Privacy Scanner</A></DT>
+<DT><A HREF="http://future.wikia.com/wiki/Main_Page" ADD_DATE="1310564834" PRIVATE="0" TAGS="research,community,knowledge,stack-Research-Science-Future">Future</A></DT>
+<DT><A HREF="http://www.wikia.com/" ADD_DATE="1310564739" PRIVATE="0" TAGS="community,knowledge,tool">Wiki communities for everyone! -- Wikia.com</A></DT>
+<DT><A HREF="http://www.egwald.ca/linearalgebra/matrices.php" ADD_DATE="1310119939" PRIVATE="0" TAGS="algebra,mathematics">Egwald Mathematics - Linear Algebra: Matrices and Matrix Decomposition</A></DT>
+<DT><A HREF="http://www.saysomethinginwelsh.com/home/" ADD_DATE="1309896646" PRIVATE="0" TAGS="language,welsh">SaySomethingInWelsh » How to learn real, natural Welsh</A></DT>
+<DT><A HREF="http://blog.nihilogic.dk/" ADD_DATE="1308656360" PRIVATE="0" TAGS="javascript,3d,game,html,computer.graphics,image.processing">Nihilogic - JavaScript, games and other things that matter</A></DT>
+<DT><A HREF="http://www.nihilogic.dk/labs/canvas2image/" ADD_DATE="1308656321" PRIVATE="0" TAGS="javascript,html,library,image.processing">Nihilogic : Canvas2Image : Saving Canvas data to image file</A></DT>
+<DT><A HREF="http://www.youtube-mp3.org/" ADD_DATE="1308502434" PRIVATE="0" TAGS="music,tool">YouTube to mp3 Converter</A></DT>
+<DT><A HREF="http://www.w3.org/TR/2dcontext/#dom-context-2d-clip" ADD_DATE="1308330144" PRIVATE="0" TAGS="documentation,html,computer.graphics,drawing,image">HTML Canvas 2D Context</A></DT>
+<DT><A HREF="http://www.w3.org/TR/SVG11/" ADD_DATE="1307141380" PRIVATE="0" TAGS="markup,documentation,svg,computer.graphics,vector.graphic">Scalable Vector Graphics (SVG) Specification</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/UTF-8" ADD_DATE="1307115052" PRIVATE="0" TAGS="encoding">UTF-8 - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.cut-the-knot.org/binary.shtml" ADD_DATE="1306747052" PRIVATE="0" TAGS="computer.science,mathematics,tool">Binary, Ternary, Octal, Duodecimal, Hexadecimal Systems, Base Convertion</A></DT>
+<DT><A HREF="http://kb2.adobe.com/cps/127/tn_12701.html" ADD_DATE="1306511340" PRIVATE="0" TAGS="flash">Flash OBJECT and EMBED tag attributes</A></DT>
+<DT><A HREF="http://www.biodroid-entertainment.com/" ADD_DATE="1306489770" PRIVATE="0" TAGS="portugal,company,game">BIODROID ENTERTAINMENT</A></DT>
+<DT><A HREF="http://blog.theflashblog.com/presentations/bytearrays.html" ADD_DATE="1306488533" PRIVATE="0" TAGS="computer,actionscript,mathematics">http://blog.theflashblog.com/presentations/bytearrays.html</A></DT>
+<DT><A HREF="http://www.rfi.fr/aef_player_popup/rfi_player" ADD_DATE="1306481016" PRIVATE="0" TAGS="radio,news">Ecouter RFI - player</A></DT>
+<DT><A HREF="http://www.france24.com/fr/aef_player_popup/france24_player" ADD_DATE="1306444487" PRIVATE="0" TAGS="television,news,France,radio">Regarder FRANCE 24 - FRANCE 24</A></DT>
+<DT><A HREF="http://www.createjs.com/" ADD_DATE="1306361663" PRIVATE="0" TAGS="computer.graphics,javascript,html,library">CreateJS | A suite of Javascript libraries and tools for building rich, interactive experiences with HTML5</A></DT>
+<DT><A HREF="http://areena.yle.fi/radio/soitin/yle-puhe" ADD_DATE="1306353125" PRIVATE="0" TAGS="radio,Finland">YLE Areena</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/player/diretta.php" ADD_DATE="1306353080" PRIVATE="0" TAGS="Italia,radio">Radio 24 Live</A></DT>
+<DT><A HREF="http://lab.andre-michelle.com/revive-physics-engine" ADD_DATE="1306331439" PRIVATE="0" TAGS="actionscript,physics,library">aM laboratory</A></DT>
+<DT><A HREF="http://code.google.com/p/popforge/" ADD_DATE="1306331396" PRIVATE="0" TAGS="actionscript,library,programming,physics,image.processing">popforge - ActionScript 3 code sandbox for various packages - Google Project Hosting</A></DT>
+<DT><A HREF="http://www.popforge.de/" ADD_DATE="1306331306" PRIVATE="0" TAGS="actionscript,library,physics,programming">PopForge An Actionscript 3.0 sandbox project</A></DT>
+<DT><A HREF="http://codeazur.com.br/lab/fzip/" ADD_DATE="1306331040" PRIVATE="0" TAGS="actionscript,library">FZip - côdeazur brasil lab</A></DT>
+<DT><A HREF="http://www.alivepdf.org/" ADD_DATE="1306331021" PRIVATE="0" TAGS="actionscript,library">http://www.alivepdf.org/</A></DT>
+<DT><A HREF="http://groups.google.com/group/html5pt" ADD_DATE="1306309122" PRIVATE="0" TAGS="stack-Community,interface.development,css,html,event,community">html5pt | Google-ryhmät</A></DT>
+<DT><A HREF="http://www.bbc.co.uk/iplayer/console/bbc_radio_fourfm" ADD_DATE="1306307903" PRIVATE="0" TAGS="UK,radio">BBC iPlayer - Listen live - BBC Radio 4</A></DT>
+<DT><A HREF="http://www.bbc.co.uk/iplayer/console/bbc_world_service" ADD_DATE="1306306656" PRIVATE="0" TAGS="UK,radio,news">BBC iPlayer - Listen live - BBC World Service</A></DT>
+<DT><A HREF="http://cba.mit.edu/" ADD_DATE="1306229182" PRIVATE="0" TAGS="research,technology,artificial.intelligence,computer.science,chemical.computing,stack-Research-Science-Future">http://cba.mit.edu/</A></DT>
+<DT><A HREF="http://areena.yle.fi/" ADD_DATE="1306227480" PRIVATE="0" TAGS="Finland,radio">Etusivu | YLE Areena | yle.fi</A></DT>
+<DT><A HREF="http://www.ramblers.org.uk/" ADD_DATE="1306082909" PRIVATE="0" TAGS="travel,trekking">Ramblers | Home</A></DT>
+<DT><A HREF="http://lakedistrictwalks.com/" ADD_DATE="1306082868" PRIVATE="0" TAGS="travel,trekking">Lake District Walks Title Page</A></DT>
+<DT><A HREF="http://www.walkingenglishman.com/" ADD_DATE="1306082847" PRIVATE="0" TAGS="travel,trekking">The website for Free Walks and Free Map and Route Downloads for Walks in England and the UK</A></DT>
+<DT><A HREF="http://betastart.beta-i.pt/" ADD_DATE="1305845038" PRIVATE="0" TAGS="entrepeneur,business,coaching">Betastart</A></DT>
+<DT><A HREF="http://www.xiconeditor.com/" ADD_DATE="1305750480" PRIVATE="0" TAGS="icon,tool,image">X-Icon Editor</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Symmetric_key_algorithm" ADD_DATE="1305113474" PRIVATE="0" TAGS="security,encryption">Symmetric-key algorithm - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Digital_Signature_Algorithm" ADD_DATE="1305112384" PRIVATE="0" TAGS="security,encryption">Digital Signature Algorithm - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/RSA" ADD_DATE="1305111859" PRIVATE="0" TAGS="security,encryption">RSA - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Asymmetric_key_algorithm" ADD_DATE="1305111582" PRIVATE="0" TAGS="encryption,security">Public-key cryptography - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.w3.org/Security/wiki/Cross_Site_Attacks" ADD_DATE="1305037410" PRIVATE="0" TAGS="security,web">Cross Site Attacks - Web Security</A></DT>
+<DT><A HREF="http://shiflett.org/articles/foiling-cross-site-attacks" ADD_DATE="1305037331" PRIVATE="0" TAGS="web,programming,security">Chris Shiflett ▪ Foiling Cross-Site Attacks</A></DT>
+<DT><A HREF="http://shiflett.org/articles/cross-site-request-forgeries" ADD_DATE="1305028394" PRIVATE="0" TAGS="security,web,programming">Chris Shiflett ▪ Cross-Site Request Forgeries</A></DT>
+<DT><A HREF="http://groups.google.com/group/riapt" ADD_DATE="1303983335" PRIVATE="0" TAGS="stack-Community,interface.development,event,community">Mailing List da Comunidade Portuguesa de Rich Internet Applications - www.riapt.org | Google-ryhmät</A></DT>
+<DT><A HREF="http://www.facebook.com/floridaafterseven" ADD_DATE="1303983236" PRIVATE="0" TAGS="stack-Community,event,community">Florida After Seven | Facebook</A></DT>
+<DT><A HREF="https://github.com/" ADD_DATE="1302862970" PRIVATE="0" TAGS="versioncontrol,collaboration">Your Dashboard - GitHub</A></DT>
+<DT><A HREF="http://gitorious.org/" ADD_DATE="1302862363" PRIVATE="0" TAGS="versioncontrol,collaboration">Gitorious</A></DT>
+<DT><A HREF="http://www.kaleidoscopeapp.com/" ADD_DATE="1302793333" PRIVATE="0" TAGS="tool,file">Kaleidoscope — File comparison for Mac</A></DT>
+<DT><A HREF="http://www.kernel.org/pub/software/scm/git/docs/user-manual.html" ADD_DATE="1302617097" PRIVATE="0" TAGS="documentation,versioncontrol">Git User’s Manual (for version 1.5.3 or newer)</A></DT>
+<DT><A HREF="http://wiki.openstreetmap.org/wiki/Main_Page" ADD_DATE="1302603583" PRIVATE="0" TAGS="map,geography,community,collaboration">Main Page - OpenStreetMap Wiki</A></DT>
+<DT><A HREF="http://wiki.crisiscommons.org/wiki/Main_Page" ADD_DATE="1302602959" PRIVATE="0" TAGS="collaboration,semantic.web,crisis,crowdsourcing,technology,volunteer,community,stack-Semantic-Data--Language-Processing--Text-Mining">CrisisCommons Wiki</A></DT>
+<DT><A HREF="http://gis.ats.ucla.edu/" ADD_DATE="1302602908" PRIVATE="0" TAGS="geography,map">GIS at UCLA</A></DT>
+<DT><A HREF="http://idisaster.wordpress.com/" ADD_DATE="1302602845" PRIVATE="0" TAGS="collaboration,volunteer,social,crisis">idisaster 2.0 | Social Media and Emergency Management</A></DT>
+<DT><A HREF="http://epic.cs.colorado.edu/" ADD_DATE="1302602661" PRIVATE="0" TAGS="social,technology,information,knowledge">Project EPIC</A></DT>
+<DT><A HREF="http://irevolution.net/" ADD_DATE="1302602548" PRIVATE="0" TAGS="crisis,technology,culture,stack-Semantic-Data--Language-Processing--Text-Mining">iRevolution | From innovation to Revolution</A></DT>
+<DT><A HREF="http://crowdmap.com/" ADD_DATE="1302601726" PRIVATE="0" TAGS="crisis,collaboration,map,crowdsourcing,visualization">Crowdmap</A></DT>
+<DT><A HREF="http://www.frontlinesms.com/" ADD_DATE="1302601681" PRIVATE="0" TAGS="mobile,tool">FrontlineSMS</A></DT>
+<DT><A HREF="http://www.intellisms.co.uk/" ADD_DATE="1302601664" PRIVATE="0" TAGS="mobile,tool">SMS Gateway - Send SMS Text Messages and Receive SMS using Web Browser, Email Gateway and HTTP</A></DT>
+<DT><A HREF="http://blog.standbytaskforce.com/" ADD_DATE="1302601634" PRIVATE="0" TAGS="volunteer,map">The Standby Task Force | Online Volunteer Community for Live Mapping</A></DT>
+<DT><A HREF="http://reliefweb.int/" ADD_DATE="1302601525" PRIVATE="0" TAGS="crisis,news,volunteer">Home | ReliefWeb</A></DT>
+<DT><A HREF="http://www.jumo.com/" ADD_DATE="1302601399" PRIVATE="0" TAGS="social,network,collaboration">Jumo | We connect individuals and organizations working to change the world</A></DT>
+<DT><A HREF="http://ushahidi.com/" ADD_DATE="1302601158" PRIVATE="0" TAGS="crisis,volunteer,visualization,map,social,crowdsourcing,collaboration">Ushahidi :: Home</A></DT>
+<DT><A HREF="http://textontechs.com/" ADD_DATE="1302368465" PRIVATE="0" TAGS="technology,programming,software,social">Text on Techs</A></DT>
+<DT><A HREF="http://www.learningjquery.com/" ADD_DATE="1302080339" PRIVATE="0" TAGS="jquery,javascript,tutorial,stack-Web-Development">Learning jQuery - Tips, Techniques, Tutorials</A></DT>
+<DT><A HREF="https://docs.google.com/document/pub?id=1BE02TfbBGV3_3ZnOLqsWchptU_zFT_rUVHCO2JDa7uo" ADD_DATE="1301913216" PRIVATE="0" TAGS="project,process,management">project_process.html</A></DT>
+<DT><A HREF="http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mxml-tag-detail.html" ADD_DATE="1301064040" PRIVATE="0" TAGS="markup,flex,mxml">MXML Only Tags - ActionScript® 3.0 Reference for the Adobe® Flash® Platform</A></DT>
+<DT><A HREF="https://docs.google.com/document/pub?id=1YK_QasOqapvhxK1ZTEhXKMQn0O9tmWqH9t2jF_O9FVs" ADD_DATE="1300704743" PRIVATE="0" TAGS="versioncontrol">Git quick reference</A></DT>
+<DT><A HREF="http://brainwashed.com/matmos/" ADD_DATE="1300446700" PRIVATE="0" TAGS="music,sound">Matmos</A></DT>
+<DT><A HREF="http://audiotool.com/" ADD_DATE="1300359251" PRIVATE="0" TAGS="music,flash,tool,sound">Audiotool</A></DT>
+<DT><A HREF="http://audiotool.com/app" ADD_DATE="1300358753" PRIVATE="0" TAGS="music,flash,tool">Audiotool</A></DT>
+<DT><A HREF="http://www.bytearray.org/?page_id=82" ADD_DATE="1300358560" PRIVATE="0" TAGS="actionscript,programming,computer.graphics,research">Projects - ByteArray.org</A></DT>
+<DT><A HREF="http://www.chiark.greenend.org.uk/~sgtatham/putty/" ADD_DATE="1300192480" PRIVATE="0" TAGS="network,tool">PuTTY: a free telnet/ssh client</A></DT>
+<DT><A HREF="http://code.google.com/p/gitextensions/" ADD_DATE="1300192413" PRIVATE="0" TAGS="tool,versioncontrol">gitextensions - Git Extensions is the only graphical user interface for Git that allows you control Git without using the commandline. It comes with a manual and video tutorials to get you started quickly. - Google Project Hosting</A></DT>
+<DT><A HREF="http://gitimmersion.com/" ADD_DATE="1299237159" PRIVATE="0" TAGS="versioncontrol,tutorial">Git Immersion - Brought to you by EdgeCase</A></DT>
+<DT><A HREF="http://code.google.com/p/jiglibflash/" ADD_DATE="1298889152" PRIVATE="0" TAGS="physics,3d,library,actionscript">jiglibflash - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://www.ux-lx.com/index.html" ADD_DATE="1298645062" PRIVATE="0" TAGS="usability,design,event,userexperience,interaction">UX Lx: User Experience Lisbon - 11 to 13 May 2011</A></DT>
+<DT><A HREF="http://futureofwebdesign.com/" ADD_DATE="1298472072" PRIVATE="0" TAGS="event,interface,design">Future of Web Design</A></DT>
+<DT><A HREF="http://www.play-create.com/" ADD_DATE="1298385698" PRIVATE="0" TAGS="design,art,flash,interaction,research">Play - Create Homepage</A></DT>
+<DT><A HREF="http://www.euraxess.pt/" ADD_DATE="1297695607" PRIVATE="0" TAGS="research">EURAXESS — Portugal</A></DT>
+<DT><A HREF="http://ec.europa.eu/research/era/index_en.htm" ADD_DATE="1297695597" PRIVATE="0" TAGS="research">European Research Area - ERA</A></DT>
+<DT><A HREF="http://mathematics-in-europe.eu/" ADD_DATE="1297694555" PRIVATE="0" TAGS="mathematics,stack-Mathematics">Mathematics In Europe</A></DT>
+<DT><A HREF="http://atractor.pt/" ADD_DATE="1297694535" PRIVATE="0" TAGS="mathematics">Atractor</A></DT>
+<DT><A HREF="http://www.mat.uc.pt/~gazeta/index.php" ADD_DATE="1297694519" PRIVATE="0" TAGS="mathematics,magazine">Gazeta de Matemática</A></DT>
+<DT><A HREF="http://spm.pt/" ADD_DATE="1297694497" PRIVATE="0" TAGS="mathematics,community,stack-Mathematics">Sociedade Portuguesa de Matemática :: SPM</A></DT>
+<DT><A HREF="http://www.flashandmath.com/" ADD_DATE="1297449087" PRIVATE="0" TAGS="mathematics,actionscript">ActionScript 3 Tutorials</A></DT>
+<DT><A HREF="http://www.as3dp.com/2007/12/27/minimalist-mvc-example-using-the-puremvc-framework/" ADD_DATE="1297293394" PRIVATE="0" TAGS="mvc,actionscript,framework,tutorial">Minimalist MVC example using the PureMVC Framework | ActionScript 3 Design Patterns</A></DT>
+<DT><A HREF="http://aopedomundo.blogspot.com/" ADD_DATE="1297263770" PRIVATE="0" TAGS="travel,trekking">Ao pé do mundo</A></DT>
+<DT><A HREF="http://www.riagenic.com/archives/174" ADD_DATE="1297092151" PRIVATE="0" TAGS="interface,design,cinema">Interview with Mark Coleran. | RIAGENIC.com</A></DT>
+<DT><A HREF="http://vimeo.com/15332596" ADD_DATE="1297091835" PRIVATE="0" TAGS="interface,design,cinema">UX Week 2010 | Mark Coleran | The Reality of Fantasy on Vimeo</A></DT>
+<DT><A HREF="http://vimeo.com/1563485" ADD_DATE="1297090961" PRIVATE="0" TAGS="design,interface,cinema">Coleran Reel 2008.06 HD on Vimeo</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/QML" ADD_DATE="1296832375" PRIVATE="0" TAGS="javascript,interface,markup,mobile">QML - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeintroduction.html" ADD_DATE="1296832352" PRIVATE="0" TAGS="javascript,interface,markup">Qt 4.7: Introduction to the QML language</A></DT>
+<DT><A HREF="http://doc.qt.nokia.com/4.7-snapshot/index.html" ADD_DATE="1296832328" PRIVATE="0" TAGS="programming,interface,framework,mobile">Qt 4.7:</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Qt_(framework)" ADD_DATE="1296832305" PRIVATE="0" TAGS="mobile,programming,interface,framework">Qt (framework) - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://egressive.com/tutorial/creating-a-multi-resolution-favicon-including-transparency-with-the-gimp" ADD_DATE="1296499166" PRIVATE="0" TAGS="tutorial,icon">Creating a multi-resolution favicon including transparency with the GIMP | Egressive - superior free and open source software solutions built on Linux and Drupal</A></DT>
+<DT><A HREF="http://www.gimp.org/" ADD_DATE="1296493731" PRIVATE="0" TAGS="software,image">GIMP - The GNU Image Manipulation Program</A></DT>
+<DT><A HREF="http://inkscape.org/" ADD_DATE="1296493697" PRIVATE="0" TAGS="drawing,software,svg,image,vector.graphic">Inkscape. Draw Freely.</A></DT>
+<DT><A HREF="http://www.travelblog.org/" ADD_DATE="1296467723" PRIVATE="0" TAGS="travel,writing">Travel Blogs, Photos, Videos and Maps</A></DT>
+<DT><A HREF="http://www.w3schools.com/TAGS/ref_urlencode.asp" ADD_DATE="1295607970" PRIVATE="0" TAGS="">HTML URL Encoding Reference</A></DT>
+<DT><A HREF="http://www.architonic.com/ntsht/-harmonious-anarchy-revisiting-hak-nam-hong-kong-s-slum-city/7000463" ADD_DATE="1294671901" PRIVATE="0" TAGS="urbanism,urbanism,architecture">'Harmonious Anarchy': revisiting Hak Nam, Hong Kong's slum city</A></DT>
+<DT><A HREF="http://deathproofarchitecture.blogspot.com/2007/11/edificio-copan-sao-paulo-oscar-niemeyer.html" ADD_DATE="1294671864" PRIVATE="0" TAGS="architecture">DEATH PROOF ARCHITECTURE: Edificio Copan, Sao Paulo, Oscar Niemeyer</A></DT>
+<DT><A HREF="http://dictionary.reference.com/" ADD_DATE="1294497881" PRIVATE="0" TAGS="dictionary,language">Dictionary.com | Find the Meanings and Definitions of Words at Dictionary.com</A></DT>
+<DT><A HREF="http://thesaurus.com/" ADD_DATE="1294493912" PRIVATE="0" TAGS="dictionary,language,thesaurus">Thesaurus.com | Find Synonyms and Antonyms of Words at Thesaurus.com</A></DT>
+<DT><A HREF="http://www.webmath.com/diff.html" ADD_DATE="1294361061" PRIVATE="0" TAGS="mathematics">Find a Derivative - WebMath</A></DT>
+<DT><A HREF="http://www.newsweek.com/2010/08/15/interactive-infographic-of-the-worlds-best-countries.html" ADD_DATE="1294317398" PRIVATE="0" TAGS="visualization,information.design,interface">Interactive Infographic of the World's Best Countries - Newsweek</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Six_Thinking_Hats" ADD_DATE="1294140183" PRIVATE="0" TAGS="process,management">Six Thinking Hats - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="https://docs.google.com/document/pub?id=1AWX3qCsD1e8RQ_PJPfPKzR3BkTl4vlcKpqfAjj2hCMs" ADD_DATE="1294140139" PRIVATE="0" TAGS="project,management">Six Thinking Hats : Sylvie Labelle</A></DT>
+<DT><A HREF="http://members.optusnet.com.au/~charles57/Creative/Techniques/sixhats.htm" ADD_DATE="1294139714" PRIVATE="0" TAGS="management,project">Six Thinking Hats (Technique)</A></DT>
+<DT><A HREF="https://github.com/mikechambers/as3corelib" ADD_DATE="1294139599" PRIVATE="0" TAGS="library,actionscript">mikechambers/as3corelib - GitHub</A></DT>
+<DT><A HREF="http://www.cove.org/ape/" ADD_DATE="1293713610" PRIVATE="0" TAGS="actionscript,physics,library">APE - Actionscript Physics Engine</A></DT>
+<DT><A HREF="http://blog.inspirit.ru/" ADD_DATE="1293713598" PRIVATE="0" TAGS="actionscript,computer.graphics">astatic notes | Adobe Flash experiments and stuff</A></DT>
+<DT><A HREF="http://www.rd-agency.com/" ADD_DATE="1293663064" PRIVATE="0" TAGS="company,portugal,design">Research&amp;Design</A></DT>
+<DT><A HREF="http://frontendfinland.org/" ADD_DATE="1293657604" PRIVATE="0" TAGS="Finland,javascript,html,interface,programming">Frontend Finland</A></DT>
+<DT><A HREF="http://www.uaiventura.com.br/index.php?op=home&amp;menuId=1" ADD_DATE="1293190708" PRIVATE="0" TAGS="travel">Uaiventura</A></DT>
+<DT><A HREF="http://www.possibleworldwide.com/" ADD_DATE="1292940627" PRIVATE="0" TAGS="interaction,company">Possible Worldwide</A></DT>
+<DT><A HREF="http://www.dpreview.com/" ADD_DATE="1292244056" PRIVATE="0" TAGS="photography,camera,news">Digital Cameras: Digital Photography Review, News, Reviews, Forums, FAQ</A></DT>
+<DT><A HREF="http://eric.ed.gov/" ADD_DATE="1292090177" PRIVATE="0" TAGS="education,research,library">ERIC – World’s largest digital library of education literature</A></DT>
+<DT><A HREF="http://www.sitepen.com/blog/" ADD_DATE="1291903916" PRIVATE="0" TAGS="dojo,javascript,framework,tutorial,stack-Web-Development">SitePen</A></DT>
+<DT><A HREF="http://fnagel.github.com/jQuery-Accessible-RIA/Formular/" ADD_DATE="1291724438" PRIVATE="0" TAGS="javascript,form">ui.formValidator - standard demo - jQuery UI - Felix Nagel</A></DT>
+<DT><A HREF="http://video.pbs.org/" ADD_DATE="1291723796" PRIVATE="0" TAGS="video,education">Home | PBS Video</A></DT>
+<DT><A HREF="http://code.google.com/intl/en-US/apis/maps/documentation/flash/3d-maps.html" ADD_DATE="1291550319" PRIVATE="0" TAGS="map,geography,3d">Google Maps API for Flash - 3D Maps - Google Maps API for Flash - Google Code</A></DT>
+<DT><A HREF="http://mloss.org/software/" ADD_DATE="1291419733" PRIVATE="0" TAGS="machine.learning,software,research,library">mloss | All entries</A></DT>
+<DT><A HREF="http://vizthink.com/" ADD_DATE="1291413127" PRIVATE="0" TAGS="visualization,event,information.design">VizThink | All you need to know about Visual Thinking</A></DT>
+<DT><A HREF="http://www.ixda.org/conference" ADD_DATE="1291413081" PRIVATE="0" TAGS="interaction,event">Conference | IxDA</A></DT>
+<DT><A HREF="http://www.rga.com/" ADD_DATE="1291412922" PRIVATE="0" TAGS="company,newmedia,design,interaction">R/GA - Full-service interactive, digital advertising agency</A></DT>
+<DT><A HREF="http://www.newschool.edu/parsons/" ADD_DATE="1291412666" PRIVATE="0" TAGS="school,design,interaction,newmedia,research">Parsons The New School for Design</A></DT>
+<DT><A HREF="http://webfuel.pt/" ADD_DATE="1291393583" PRIVATE="0" TAGS="portugal,company">Webfuel Solutions - Web, Desktop, TV and Mobile Rich Applications</A></DT>
+<DT><A HREF="http://full-frontal.org/" ADD_DATE="1291335253" PRIVATE="0" TAGS="javascript,event">Full Frontal - JavaScript Conference - 12th November 2010</A></DT>
+<DT><A HREF="http://code.google.com/p/canvg/" ADD_DATE="1291210871" PRIVATE="0" TAGS="computer.graphics,html,svg,javascript,library">canvg - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://www.awwwards.com/" ADD_DATE="1291209269" PRIVATE="0" TAGS="css,design,showcase,web,html,stack-Web-Development">CSS Gallery | The CSS website Awards</A></DT>
+<DT><A HREF="http://tek.sapo.pt/" ADD_DATE="1291208110" PRIVATE="0" TAGS="news,technology">TeK</A></DT>
+<DT><A HREF="http://gitref.org/" ADD_DATE="1291026697" PRIVATE="0" TAGS="documentation,tutorial,versioncontrol">Git Reference</A></DT>
+<DT><A HREF="http://www.patrick-wied.at/static/nudejs/" ADD_DATE="1290766629" PRIVATE="0" TAGS="image.processing,computer.vision,image,javascript,library">nude.js | Nudity detection with JavaScript and HTMLCanvas</A></DT>
+<DT><A HREF="http://cla.vancouver.wsu.edu/cmdc" ADD_DATE="1290766161" PRIVATE="0" TAGS="school,newmedia,culture,technology,research">Creative Media and Digital Culture - WSU Vancouver</A></DT>
+<DT><A HREF="http://www.hiit.fi/" ADD_DATE="1290765896" PRIVATE="0" TAGS="technology,Finland,research">Helsinki Institute for Information Technology HIIT | HIIT</A></DT>
+<DT><A HREF="http://gamestudies.org/1001" ADD_DATE="1290765716" PRIVATE="0" TAGS="culture,research,game,theory,magazine,stack-Research-Science-Future">Game Studies - Issue 1001, 2010</A></DT>
+<DT><A HREF="http://hginit.com/" ADD_DATE="1290761737" PRIVATE="0" TAGS="tutorial,versioncontrol">Hg Init: a Mercurial tutorial by Joel Spolsky</A></DT>
+<DT><A HREF="http://www.joelonsoftware.com/" ADD_DATE="1290761673" PRIVATE="0" TAGS="software,programming,management,technology,stack-Web-Development">Joel on Software</A></DT>
+<DT><A HREF="http://www.joelonsoftware.com/articles/Unicode.html" ADD_DATE="1290761634" PRIVATE="0" TAGS="programming,encoding,language">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) - Joel on Software</A></DT>
+<DT><A HREF="http://demonsterdebugger.com/" ADD_DATE="1290611452" PRIVATE="0" TAGS="flash,flex,actionscript,debug,tool">De MonsterDebugger - Open Source Flash, Flex and AIR debugger</A></DT>
+<DT><A HREF="http://perfectionkills.com/" ADD_DATE="1290600919" PRIVATE="0" TAGS="javascript,stack-Web-Development">Perfection kills</A></DT>
+<DT><A HREF="http://asenbozhilov.com/" ADD_DATE="1290600882" PRIVATE="0" TAGS="javascript,stack-Web-Development">Personal page of Asen Bozhilov</A></DT>
+<DT><A HREF="http://webreflection.blogspot.com/" ADD_DATE="1290600833" PRIVATE="0" TAGS="javascript,stack-Web-Development">Web Reflection</A></DT>
+<DT><A HREF="http://dmitrysoshnikov.com/" ADD_DATE="1290600756" PRIVATE="0" TAGS="javascript,stack-Web-Development">ECMA-262</A></DT>
+<DT><A HREF="http://jslint.com/" ADD_DATE="1290600698" PRIVATE="0" TAGS="javascript,tool,debug,optimization">JSLint, The JavaScript Code Quality Tool</A></DT>
+<DT><A HREF="http://duromedia.com/blog/read/72:simple-mvc-with-actionscript-3---an-updated-approach" ADD_DATE="1290438226" PRIVATE="0" TAGS="actionscript,mvc,programming.pattern">DuroMedia :: Simple MVC with ActionScript 3 - An Updated Approach</A></DT>
+<DT><A HREF="http://code.google.com/p/as3-simplemvc/" ADD_DATE="1290438186" PRIVATE="0" TAGS="actionscript,mvc,programming.pattern">as3-simplemvc - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://nginx.org/en/" ADD_DATE="1290169766" PRIVATE="0" TAGS="server,http,web">nginx</A></DT>
+<DT><A HREF="http://nodejs.org/" ADD_DATE="1290169728" PRIVATE="0" TAGS="nodejs,javascript,server,framework,http,web">node.js</A></DT>
+<DT><A HREF="http://www.javascriptmvc.com/" ADD_DATE="1290166196" PRIVATE="0" TAGS="mvc,javascript,framework,programming.pattern">JavaScriptMVC</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/WebSocket" ADD_DATE="1290165087" PRIVATE="0" TAGS="network,web,communication">WebSockets - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Chunked_transfer_encoding" ADD_DATE="1290163193" PRIVATE="0" TAGS="communication,network,http,web,encoding">Chunked transfer encoding - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/JSONP#JSONP" ADD_DATE="1290163116" PRIVATE="0" TAGS="communication,data,json,javascript,ajax,web">JSON - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Comet_(programming)" ADD_DATE="1290163098" PRIVATE="0" TAGS="communication,ajax,web">Comet (programming) - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://mercurial.selenic.com/" ADD_DATE="1290159845" PRIVATE="0" TAGS="versioncontrol,tool">Mercurial SCM</A></DT>
+<DT><A HREF="https://apps.impure.com/space/" ADD_DATE="1290110728" PRIVATE="0" TAGS="visualization,information.design,visual.programming">Impure Application</A></DT>
+<DT><A HREF="http://www.khronos.org/" ADD_DATE="1290083464" PRIVATE="0" TAGS="3d,research,opengl">The Khronos Group: Open Standards, Royalty Free, Dynamic Media Technologies</A></DT>
+<DT><A HREF="http://www.khronos.org/webgl/" ADD_DATE="1290083387" PRIVATE="0" TAGS="graphic,webgl,3d,javascript,web,computer.graphics,stack-3D-Graphics">WebGL - OpenGL ES 2.0 for the Web</A></DT>
+<DT><A HREF="http://learningwebgl.com/blog/" ADD_DATE="1290083274" PRIVATE="0" TAGS="javascript,3d,webgl,computer.graphics,stack-3D-Graphics">Learning WebGL</A></DT>
+<DT><A HREF="http://unity3d.com/" ADD_DATE="1290083130" PRIVATE="0" TAGS="3d,game,framework">UNITY: Game Development Tool</A></DT>
+<DT><A HREF="http://alternativaplatform.com/en/" ADD_DATE="1290082192" PRIVATE="0" TAGS="3d,flash,library,computer.graphics,game">AlternativaPlatform - Flash. 3D. Multiplayer.</A></DT>
+<DT><A HREF="http://www.fwd.fi/" ADD_DATE="1290081963" PRIVATE="0" TAGS="Finland,company">FWD Helsinki</A></DT>
+<DT><A HREF="http://www.simppa.fi/blog/" ADD_DATE="1290081738" PRIVATE="0" TAGS="image.processing,actionscript,3d,experiment,computer.graphics,graphic,Finland,stack-3D-Graphics">simppa.fi/blog</A></DT>
+<DT><A HREF="http://www.britzpetermann.com/" ADD_DATE="1290080723" PRIVATE="0" TAGS="design,portfolio,multimedia,company,experiment">Britzpetermann</A></DT>
+<DT><A HREF="http://blog.joa-ebert.com/2010/08/19/introducing-jitb/" ADD_DATE="1290080426" PRIVATE="0" TAGS="optimization,actionscript,computer.graphics">Introducing JITB « blog.joa-ebert.com – Blog of Joa Ebert</A></DT>
+<DT><A HREF="http://code.google.com/p/apparat/" ADD_DATE="1290079993" PRIVATE="0" TAGS="actionscript,framework,optimization">apparat - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://www.derschmale.com/" ADD_DATE="1290079840" PRIVATE="0" TAGS="actionscript,3d,pixelbender,physics,computer.graphics,stack-3D-Graphics">Der Schmale - David Lenaerts’s blog</A>
+<DD>JITB player</DD></DT>
+<DT><A HREF="http://pixelero.wordpress.com/" ADD_DATE="1290078480" PRIVATE="0" TAGS="Finland,image.processing,actionscript,pixelbender,stack-3D-Graphics">Pixelero</A></DT>
+<DT><A HREF="http://code.google.com/webfonts" ADD_DATE="1289993272" PRIVATE="0" TAGS="css,font,typography,tool">Google Font Directory</A></DT>
+<DT><A HREF="http://www.fontspring.com/" ADD_DATE="1289993244" PRIVATE="0" TAGS="css,font,typography">Desktop and @font-face fonts | Fontspring</A></DT>
+<DT><A HREF="http://typefront.com/" ADD_DATE="1289993218" PRIVATE="0" TAGS="css,font,typography">TypeFront</A></DT>
+<DT><A HREF="http://www.fontslive.com/" ADD_DATE="1289993193" PRIVATE="0" TAGS="css,font,typography">Fonts Live - Expertly Crafted Web Fonts from Ascender</A></DT>
+<DT><A HREF="http://www.webtype.com/" ADD_DATE="1289993174" PRIVATE="0" TAGS="css,font,typography">Webtype</A></DT>
+<DT><A HREF="http://www.typotheque.com/webfonts" ADD_DATE="1289993065" PRIVATE="0" TAGS="css,typography,font,tool">Web Fonts: Custom fonts using @font-face, cross-browser font embedding</A></DT>
+<DT><A HREF="http://typekit.com/" ADD_DATE="1289993034" PRIVATE="0" TAGS="css,typography,tool,font">Typekit</A></DT>
+<DT><A HREF="http://www.impure.com/" ADD_DATE="1289950285" PRIVATE="0" TAGS="visualization,interface,tool,visual.programming">IMPURE | Home</A></DT>
+<DT><A HREF="http://sanfrancisco.crimespotting.org/#zoom=13&amp;dtend=2010-11-09T23:59:59-07:00&amp;lat=37.760&amp;types=AA,Mu,Ro,SA,DP,Na,Al,Pr,Th,VT,Va,Bu,Ar&amp;hours=0-23&amp;lon=-122.438&amp;dtstart=2010-11-02T23:59:59-07:00" ADD_DATE="1289949739" PRIVATE="0" TAGS="visualization,information.design,interface">San Francisco Crimespotting</A></DT>
+<DT><A HREF="http://decoded-conference.com/" ADD_DATE="1289945585" PRIVATE="0" TAGS="userexperience,design,event,programming">decoded - conference for code and design</A></DT>
+<DT><A HREF="http://www.w3.org/Graphics/SVG/" ADD_DATE="1289905043" PRIVATE="0" TAGS="graphic,svg,vector.graphic">W3C SVG Working Group</A></DT>
+<DT><A HREF="http://agent8ball.com/" ADD_DATE="1289862895" PRIVATE="0" TAGS="game,javascript,html">Agent 008 Ball</A></DT>
+<DT><A HREF="http://git-scm.com/" ADD_DATE="1289769601" PRIVATE="0" TAGS="versioncontrol">Git - Fast Version Control System</A></DT>
+<DT><A HREF="http://books.google.com/books?id=3XcW4oJ8goIC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false" ADD_DATE="1289769590" PRIVATE="0" TAGS="versioncontrol">Pro Git - Google-kirjat</A></DT>
+<DT><A HREF="http://www.youtube.com/watch?v=QQTEeij8a1A" ADD_DATE="1289769578" PRIVATE="0" TAGS="versioncontrol">YouTube - Scott Chacon - Git 101 Tutorial (part 7)</A></DT>
+<DT><A HREF="http://www.oredev.org/" ADD_DATE="1289764822" PRIVATE="0" TAGS="event,programming,web">Scheduler - Øredev 2010</A></DT>
+<DT><A HREF="http://raphaeljs.com/" ADD_DATE="1289764080" PRIVATE="0" TAGS="javascript,svg,library,graphic,vector.graphic">Raphaël—JavaScript Library</A></DT>
+<DT><A HREF="http://processingjs.org/" ADD_DATE="1289764045" PRIVATE="0" TAGS="javascript,library,graphic,computer.graphics">Processing.js</A></DT>
+<DT><A HREF="http://html5gallery.com/" ADD_DATE="1289762296" PRIVATE="0" TAGS="showcase,html,design,stack-Web-Development">HTML5 Gallery | A showcase of sites using HTML5 markup</A></DT>
+<DT><A HREF="http://polymaps.org/" ADD_DATE="1289607916" PRIVATE="0" TAGS="javascript,map,visualization,svg,library,vector.graphic">Polymaps</A></DT>
+<DT><A HREF="http://jsonviewer.stack.hu/" ADD_DATE="1289584062" PRIVATE="0" TAGS="json,javascript,tool">Online JSON Viewer</A></DT>
+<DT><A HREF="http://chris.photobooks.com/json/default.htm" ADD_DATE="1289584045" PRIVATE="0" TAGS="javascript,visualization,tool,json">JSON Visualization</A></DT>
+<DT><A HREF="http://vis.stanford.edu/" ADD_DATE="1289484122" PRIVATE="0" TAGS="visualization,research,information.design,stack-Data-Visualization--Information-Design">Stanford Visualization Group</A></DT>
+<DT><A HREF="http://www.warmshowers.org/" ADD_DATE="1289341382" PRIVATE="0" TAGS="travel,bicycle">Warmshowers.org | Hospitality for touring cyclists</A></DT>
+<DT><A HREF="http://www.couchsurfing.org/surf_tips.html" ADD_DATE="1289340951" PRIVATE="0" TAGS="travel">CouchSurfing - Tips for CouchSurfing</A></DT>
+<DT><A HREF="http://www.couchsurfing.org/tips_creating_city_guide.html" ADD_DATE="1289340418" PRIVATE="0" TAGS="travel">CouchSurfing - Making a City Guide</A></DT>
+<DT><A HREF="http://www.adobe.com/devnet/pixelbender.html" ADD_DATE="1289305331" PRIVATE="0" TAGS="adobe,pixelbender,image.processing">Pixel Bender Technology Center</A></DT>
+<DT><A HREF="http://tv.adobe.com/?source=EWUMA" ADD_DATE="1289305278" PRIVATE="0" TAGS="video,adobe,flash,flex,programming,tutorial">Adobe TV</A></DT>
+<DT><A HREF="http://lambda-the-ultimate.org/" ADD_DATE="1288951462" PRIVATE="0" TAGS="computer,language,programming,research,theory">Lambda the Ultimate | Programming Languages Weblog</A></DT>
+<DT><A HREF="http://www.freebookcentre.net/" ADD_DATE="1288951200" PRIVATE="0" TAGS="book,computer,programming,mathematics,stack-Mathematics">Free Computer books Download | Online computer ebooks | online free computer science ebooks</A></DT>
+<DT><A HREF="http://www.freebookcentre.net/CompuScience/Free-Programing-Theory-Books-Download.html" ADD_DATE="1288951147" PRIVATE="0" TAGS="book,programming,theory,language">Free Programing Theory Books Download Free Programing Theory Ebooks Online</A></DT>
+<DT><A HREF="http://box2dflash.sourceforge.net/" ADD_DATE="1288886172" PRIVATE="0" TAGS="actionscript,library,physics">AS3 Flash Physics Engine Box2DFlashAS3 2.0.1</A></DT>
+<DT><A HREF="http://www.box2dflash.org/" ADD_DATE="1288886003" PRIVATE="0" TAGS="actionscript,physics,library">Box2DFlash</A></DT>
+<DT><A HREF="http://hopl.murdoch.edu.au/" ADD_DATE="1288778520" PRIVATE="0" TAGS="history,language,programming">The Encyclopedia of Computer Languages</A></DT>
+<DT><A HREF="http://www.tlfq.ulaval.ca/axl/" ADD_DATE="1288692474" PRIVATE="0" TAGS="language,geography">L'aménagement linguistique dans le monde</A></DT>
+<DT><A HREF="http://optional.is/" ADD_DATE="1288633287" PRIVATE="0" TAGS="research,information.design,interaction">(optional.is)</A></DT>
+<DT><A HREF="http://developer.yahoo.com/yql/" ADD_DATE="1287659756" PRIVATE="0" TAGS="api,webservice">Yahoo! Query Language - YDN</A></DT>
+<DT><A HREF="http://www.corridadaluz.pt/" ADD_DATE="1287329510" PRIVATE="0" TAGS="running">Corrida da Luz 2008 | Lisboa</A></DT>
+<DT><A HREF="http://www.meiamaratonadelisboa.com/" ADD_DATE="1287329480" PRIVATE="0" TAGS="running">20º Meia Maratona de Lisboa :: Atletas residentes no estrangeiro / Foreign athletes</A></DT>
+<DT><A HREF="http://www.meiamaratonadeportugal.com/" ADD_DATE="1287329408" PRIVATE="0" TAGS="running">http://www.meiamaratonadeportugal.com/</A></DT>
+<DT><A HREF="http://www.soundstep.com/blog/downloads/somaui/" ADD_DATE="1287065944" PRIVATE="0" TAGS="framework,actionscript">Soma Flash AS3 MVC Framework | Soundstep, daily ActionScript.</A></DT>
+<DT><A HREF="http://www.axiis.org/" ADD_DATE="1287065852" PRIVATE="0" TAGS="visualization,library,actionscript">Axiis : Data Visualization Framework</A></DT>
+<DT><A HREF="http://freetypography.com/" ADD_DATE="1287065827" PRIVATE="0" TAGS="typography">FreeTypography — only high quality free typography from the web</A></DT>
+<DT><A HREF="http://bassistance.de/jquery-plugins/jquery-plugin-validation/" ADD_DATE="1286787702" PRIVATE="0" TAGS="library,jquery,form,javascript">bassistance.de » jQuery plugin: Validation</A></DT>
+<DT><A HREF="http://justjs.org/js-oop/static-methods-in-javascript/" ADD_DATE="1286640233" PRIVATE="0" TAGS="javascript,tutorial">Static Methods in Javascript | justjs.org</A></DT>
+<DT><A HREF="http://justjs.org/object-oriented-javascript/" ADD_DATE="1286640201" PRIVATE="0" TAGS="javascript,tutorial">Object Oriented Javascript | justjs.org</A></DT>
+<DT><A HREF="http://www.howtocreate.co.uk/tutorials/javascript/objects" ADD_DATE="1286639400" PRIVATE="0" TAGS="javascript,tutorial">JavaScript tutorial - Creating objects</A></DT>
+<DT><A HREF="http://www.fourmilab.ch/images/Romanesco/" ADD_DATE="1286370852" PRIVATE="0" TAGS="fractal,mathematics,geometry">Fractal Food</A></DT>
+<DT><A HREF="http://sourceforge.net/projects/mandelbulber/" ADD_DATE="1286370573" PRIVATE="0" TAGS="3d,fractal,software,mathematics">Mandelbulber | Download Mandelbulber software for free at SourceForge.net</A></DT>
+<DT><A HREF="http://joelsantos.net/Joel_Santos_-_Photography/Home.html" ADD_DATE="1286205011" PRIVATE="0" TAGS="photography,portfolio">Joel Santos - Photography</A></DT>
+<DT><A HREF="http://vis.stanford.edu/protovis/" ADD_DATE="1286190513" PRIVATE="0" TAGS="javascript,visualization,library,svg,information.design,graphic,vector.graphic">Protovis</A></DT>
+<DT><A HREF="http://www.curiosidade.pt/" ADD_DATE="1285962814" PRIVATE="0" TAGS="company,web,portugal">Web design | Online Marketing | Curiosidade</A></DT>
+<DT><A HREF="http://www.thefreecountry.com/programming/filecomparison.shtml" ADD_DATE="1284973463" PRIVATE="0" TAGS="software,file,tool,versioncontrol">Free File Comparison and Differencing Utilities (Text files, Binary files, Diff Utilities) (thefreecountry.com)</A></DT>
+<DT><A HREF="http://gamebuilderstudio.com/" ADD_DATE="1284721727" PRIVATE="0" TAGS="flash,game,tool">GameBuilder Studios</A></DT>
+<DT><A HREF="http://www.halfbot.com/" ADD_DATE="1284721609" PRIVATE="0" TAGS="game,company,flash">Halfbot</A></DT>
+<DT><A HREF="http://www.idevgames.com/" ADD_DATE="1284721353" PRIVATE="0" TAGS="game,programming,community">iDevGames</A></DT>
+<DT><A HREF="http://woork.blogspot.com/2009/05/how-to-manage-small-web-project-simple.html" ADD_DATE="1284645127" PRIVATE="0" TAGS="project,management,process">How to manage a small web project: a simple approach</A></DT>
+<DT><A HREF="http://www.alistapart.com/articles/Process/" ADD_DATE="1284644418" PRIVATE="0" TAGS="process,project,management">A List Apart: Articles: Process, Methodology, Life Cycle, Oh My!</A></DT>
+<DT><A HREF="http://www.hugeinc.com/about/process/" ADD_DATE="1284628978" PRIVATE="0" TAGS="process,management,project">Process - HUGE</A></DT>
+<DT><A HREF="http://flixel.org/docs/" ADD_DATE="1284559897" PRIVATE="0" TAGS="game,documentation">Flixel - API Documentation</A></DT>
+<DT><A HREF="http://hosted.zeh.com.br/tweener/docs/en-us/" ADD_DATE="1284454825" PRIVATE="0" TAGS="actionscript,documentation,animation">Tweener Documentation and Language Reference</A></DT>
+<DT><A HREF="http://www.maplesoft.com/products/maple/index.aspx" ADD_DATE="1284294856" PRIVATE="0" TAGS="mathematics,tool">Maple 14 – Math and Engineering Software – Maplesoft</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Programming_language_theory" ADD_DATE="1283960566" PRIVATE="0" TAGS="programming,language,theory">Programming language theory - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Programming_language_design#Design_and_implementation" ADD_DATE="1283960546" PRIVATE="0" TAGS="programming,language">Programming language - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html" ADD_DATE="1283874286" PRIVATE="0" TAGS="flash,security">Adobe - Flash Player : Settings Manager - Global Security Settings panel</A></DT>
+<DT><A HREF="http://flashgamedojo.com/wiki/index.php?title=Box2D,_Implementation_(Flixel)" ADD_DATE="1282482034" PRIVATE="0" TAGS="game,physics,actionscript">Box2D, Implementation (Flixel) - Flash Game Dojo</A></DT>
+<DT><A HREF="http://www.flashgamedojo.com/go/" ADD_DATE="1282481868" PRIVATE="0" TAGS="game,tutorial">Flash Game Dojo: Getting Started</A></DT>
+<DT><A HREF="http://opensource.adobe.com/wiki/display/flexsdk/Setup" ADD_DATE="1282396798" PRIVATE="0" TAGS="flex,tutorial">Setup - Flex SDK - Adobe Open Source</A></DT>
+<DT><A HREF="http://www.fileinfo.com/common.php" ADD_DATE="1282233096" PRIVATE="0" TAGS="file">Common File Extensions</A>
+<DD>DVD Video Object</DD></DT>
+<DT><A HREF="http://www.zend.com/en/community/framework" ADD_DATE="1281347431" PRIVATE="0" TAGS="php,programming,framework">PHP Web Application Server - Zend.com</A></DT>
+<DT><A HREF="http://www.eclipse.org/downloads/" ADD_DATE="1281344403" PRIVATE="0" TAGS="programming,tool">Eclipse Downloads</A></DT>
+<DT><A HREF="http://code.google.com/intl/en-US/apis/earth/documentation/sky_mars_moon.html" ADD_DATE="1281001530" PRIVATE="0" TAGS="astronomy,api,javascript">Sky, Mars, and Moon - Google Earth API - Google Code</A></DT>
+<DT><A HREF="http://code.google.com/intl/en-US/apis/kml/documentation/kmlreference.html" ADD_DATE="1281001499" PRIVATE="0" TAGS="geography,file">KML Reference - KML - Google Code</A></DT>
+<DT><A HREF="http://code.google.com/intl/en-US/apis/earth/documentation/#installing_the_google_earth_plugin" ADD_DATE="1281001428" PRIVATE="0" TAGS="geography,api,javascript">Google Earth API Developer's Guide - Google Earth API - Google Code</A></DT>
+<DT><A HREF="http://www.ethereal.com/" ADD_DATE="1280484644" PRIVATE="0" TAGS="http,tool,debug,network">Ethereal: A Network Protocol Analyzer</A></DT>
+<DT><A HREF="http://www.wireshark.org/" ADD_DATE="1280484601" PRIVATE="0" TAGS="http,tool,debug,network">Wireshark · Go deep.</A></DT>
+<DT><A HREF="http://www.charlesproxy.com/" ADD_DATE="1280484575" PRIVATE="0" TAGS="http,tool,debug,network">Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS and SSL Proxy / Reverse Proxy</A></DT>
+<DT><A HREF="http://www.fiddler2.com/fiddler2/" ADD_DATE="1280484566" PRIVATE="0" TAGS="http,tool,debug,network">Fiddler Web Debugger - A free web debugging tool</A></DT>
+<DT><A HREF="http://kevinlangdon.com/serviceCapture/" ADD_DATE="1280484484" PRIVATE="0" TAGS="http,tool,debug,network">ServiceCapture</A></DT>
+<DT><A HREF="http://www.amfphp.org/" ADD_DATE="1280226348" PRIVATE="0" TAGS="flash,php,actionscript">Flash remoting for PHP: A responsive Client-Server Architecture for the Web</A></DT>
+<DT><A HREF="http://designcharts.com/" ADD_DATE="1280135890" PRIVATE="0" TAGS="design,showcase,stack-Web-Development">DesignCharts // Weekly Top 40 Website Design Charts // Because Web Designers Are The New Rockstars // Best Website Designs Updated Weekly</A></DT>
+<DT><A HREF="http://www.designlicks.com/" ADD_DATE="1280135820" PRIVATE="0" TAGS="design,showcase,stack-Web-Development">Design Licks | Web design awards | The best flash websites in the world | Daily creative inspiration | Site of the day</A></DT>
+<DT><A HREF="http://www.xhilarate.com/" ADD_DATE="1280135762" PRIVATE="0" TAGS="design,showcase">Xhilarate</A></DT>
+<DT><A HREF="http://spyline.de/" ADD_DATE="1280135671" PRIVATE="0" TAGS="design,showcase">spyline · digital and interactive design showcase covering the finest campaigns, portfolios and studios</A></DT>
+<DT><A HREF="http://bestwebgallery.com/" ADD_DATE="1280135462" PRIVATE="0" TAGS="design,showcase,stack-Web-Development">Best Web Gallery - Flash + CSS Gallery</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/radio24_audio/settimanali/Mon10.mp3" ADD_DATE="1280080751" PRIVATE="0" TAGS="radio,Italia">Radio 24: archivi mp3 url - Mon10.mp3</A></DT>
+<DT><A HREF="http://www.youtube.com/results?search_query=Mandelbulb&amp;aq=f" ADD_DATE="1280052321" PRIVATE="0" TAGS="fractal">YouTube - Mandelbulb</A></DT>
+<DT><A HREF="http://www.flickr.com/photos/17122349@N00/53528585/" ADD_DATE="1280052259" PRIVATE="0" TAGS="fractal">Romanesco Cabbage on Flickr - Photo Sharing!</A></DT>
+<DT><A HREF="http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&amp;extid=2177522" ADD_DATE="1280050287" PRIVATE="0" TAGS="_me,pixelbender,image.processing">Adobe - Pixel Bender Filters</A></DT>
+<DT><A HREF="http://developer.yahoo.com/flash/" ADD_DATE="1279876449" PRIVATE="0" TAGS="flash,actionscript,flex,api,component,library,framework">Yahoo! Developer Network - Flash Developer Center</A></DT>
+<DT><A HREF="http://developer.yahoo.com/yui/" ADD_DATE="1279875913" PRIVATE="0" TAGS="javascript,ajax,library,interface,interface.development">YUI Library</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2010/05/04/web-design-trends-2010/" ADD_DATE="1279805200" PRIVATE="0" TAGS="design,web,showcase">The Current State of Web Design: Trends 2010 - Smashing Magazine</A></DT>
+<DT><A HREF="http://www.fitc.ca/events/" ADD_DATE="1279804793" PRIVATE="0" TAGS="event,flash">FITC // Events</A></DT>
+<DT><A HREF="http://crushlovely.com/" ADD_DATE="1279636187" PRIVATE="0" TAGS="company,design,web">Crush + Lovely</A></DT>
+<DT><A HREF="http://www.domscripting.com/blog/" ADD_DATE="1279617391" PRIVATE="0" TAGS="ajax,javascript,css,html,web">Dom Scripting</A></DT>
+<DT><A HREF="http://www.eskimo.com/~scs/cclass/int/sx4ab.html" ADD_DATE="1277197017" PRIVATE="0" TAGS="programming,mathematics">18.2.1: Bitwise Operators</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Bitwise_operation" ADD_DATE="1277196641" PRIVATE="0" TAGS="programming,mathematics">Bitwise operation - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.boostworthy.com/blog/?p=200" ADD_DATE="1277136017" PRIVATE="0" TAGS="actionscript,color">boostworthyisryantaylor » AS3: Drawing Color Spectrums</A></DT>
+<DT><A HREF="http://help.adobe.com/en_US/AS3LCR/Flash_10.0/index.html" ADD_DATE="1275489484" PRIVATE="0" TAGS="flash,actionscript,documentation,adobe">Flash CS4 Professional ActionScript 3.0 Language Reference</A></DT>
+<DT><A HREF="http://graph.seriesmathstudy.com/" ADD_DATE="1275407909" PRIVATE="0" TAGS="mathematics,graphic,tool">GraphFunc Tool Online - Support by Series Math Study</A></DT>
+<DT><A HREF="http://je2050.joa-ebert.com/imageprocessing/" ADD_DATE="1275401444" PRIVATE="0" TAGS="library,image.processing,documentation,actionscript">Spherize - ImageProcessing Library API Documentation</A></DT>
+<DT><A HREF="http://blog.joa-ebert.com/" ADD_DATE="1275401211" PRIVATE="0" TAGS="programming,image.processing,computer.graphics">blog.joa-ebert.com – Blog of Joa Ebert</A></DT>
+<DT><A HREF="http://www.adobe.com/cfusion/exchange/index.cfm?event=productHome&amp;exc=26" ADD_DATE="1275297240" PRIVATE="0" TAGS="adobe,pixelbender,computer.graphics">Adobe - Pixel Bender Exchange</A></DT>
+<DT><A HREF="http://www.algorithmist.net/as3pc.html" ADD_DATE="1274790371" PRIVATE="0" TAGS="actionscript,library,geometry">__Singularity__[AS 3 Parametric Curve Library]</A></DT>
+<DT><A HREF="http://as3isolib.wordpress.com/" ADD_DATE="1274790236" PRIVATE="0" TAGS="actionscript,library,computer.graphics,geometry">the as3isolib weblog</A></DT>
+<DT><A HREF="http://www.ruby-lang.org/en/documentation/quickstart/" ADD_DATE="1274778582" PRIVATE="0" TAGS="programming,tutorial,ruby">Ruby in Twenty Minutes</A></DT>
+<DT><A HREF="http://framework.zend.com/" ADD_DATE="1274778493" PRIVATE="0" TAGS="php,framework">Zend Framework</A></DT>
+<DT><A HREF="http://googledocs.blogspot.com/" ADD_DATE="1274709397" PRIVATE="0" TAGS="documentation,collaboration,writing,tool">Official Google Docs Blog</A></DT>
+<DT><A HREF="http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/" ADD_DATE="1274692971" PRIVATE="0" TAGS="wireframe,tool,interface">A wireframe kit for Google Drawings and 5 reasons it beats Omnigraffle and Visio - Morten Just</A></DT>
+<DT><A HREF="http://www.lukew.com/ff/" ADD_DATE="1274516690" PRIVATE="0" TAGS="usability,interface,web,stack-Interface-Design--Interaction-Design">LukeW Ideation + Design | Writings on Digital Product Strategy and Design</A></DT>
+<DT><A HREF="http://www.w3schools.com/tags/ref_entities.asp" ADD_DATE="1274278092" PRIVATE="0" TAGS="encoding,html">HTML ISO-8859-1 Reference</A></DT>
+<DT><A HREF="http://www.pearsonified.com/2008/05/how-to-use-wordpress-functions.php" ADD_DATE="1274192770" PRIVATE="0" TAGS="php,wordpress">How You Can Use WordPress Functions to Run a Smarter Blog</A></DT>
+<DT><A HREF="http://www.festimage.org/index.php?gc=Homepage" ADD_DATE="1274188549" PRIVATE="0" TAGS="photography">Festimage</A></DT>
+<DT><A HREF="http://www.skytopia.com/project/fractal/mandelbulb.html" ADD_DATE="1274087863" PRIVATE="0" TAGS="3d,mathematics,fractal,computer.graphics">Mandelbulb: The Unravelling of the Real 3D Mandelbrot Fractal</A></DT>
+<DT><A HREF="http://www.edgarmartins.com/" ADD_DATE="1274008608" PRIVATE="0" TAGS="photography,portfolio">Edgar Martins</A></DT>
+<DT><A HREF="http://www.griplimited.com/" ADD_DATE="1273836344" PRIVATE="0" TAGS="portfolio,design,navigation">Grip Limited</A></DT>
+<DT><A HREF="http://www.favicon.cc/" ADD_DATE="1273834352" PRIVATE="0" TAGS="icon,tool">favicon.ico Generator</A></DT>
+<DT><A HREF="http://telegraphics.com.au/sw/#icoformat" ADD_DATE="1273828621" PRIVATE="0" TAGS="icon,tool">Telegraphics - Free plugins for Photoshop and Illustrator...and other software</A></DT>
+<DT><A HREF="http://dev.w3.org/html5/spec/" ADD_DATE="1273502438" PRIVATE="0" TAGS="html">HTML5</A></DT>
+<DT><A HREF="http://www.w3schools.com/jquery/default.asp" ADD_DATE="1273152862" PRIVATE="0" TAGS="javascript,tutorial,ajax,jquery">jQuery Tutorial</A></DT>
+<DT><A HREF="http://code.google.com/intl/fi-FI/apis/chart/" ADD_DATE="1273082528" PRIVATE="0" TAGS="javascript,visualization,library,api">Using Visualizations - Google Chart Tools</A></DT>
+<DT><A HREF="http://code.google.com/intl/en/apis/visualization/documentation/using_overview.html" ADD_DATE="1273082488" PRIVATE="0" TAGS="">Using Visualizations - Google Chart Tools / Interactive Charts (aka Visualization API) - Google Code</A></DT>
+<DT><A HREF="http://www.reynoldsftw.com/2009/03/javascript-chart-alternatives/" ADD_DATE="1273082366" PRIVATE="0" TAGS="javascript,visualization,library">5 Javascript Chart Alternatives</A></DT>
+<DT><A HREF="http://www.jqplot.com/" ADD_DATE="1273082347" PRIVATE="0" TAGS="javascript,visualization,library">jqPlot Charts and Graphs for jQuery</A></DT>
+<DT><A HREF="http://flixel.org/" ADD_DATE="1272532386" PRIVATE="0" TAGS="actionscript,game,library">flixel.org v2.0</A></DT>
+<DT><A HREF="http://pushbuttonengine.com/" ADD_DATE="1272532374" PRIVATE="0" TAGS="library,game,actionscript">PushButton Engine - Modular Flash Game Development</A></DT>
+<DT><A HREF="http://blog.hexagonstar.com/" ADD_DATE="1272532307" PRIVATE="0" TAGS="flash,actionscript,game,flex">H1DD3N.R350URC3 - The Hidden Resource of Independent Game Design and Development</A></DT>
+<DT><A HREF="http://www.revo.co.uk/" ADD_DATE="1271953590" PRIVATE="0" TAGS="radio">Revo : Award-winning DAB, DAB+ and Internet Digital Radio Products.</A></DT>
+<DT><A HREF="http://ping.eu/" ADD_DATE="1271754358" PRIVATE="0" TAGS="tool,network,dns">Online Ping, Traceroute, DNS lookup, WHOIS, Port check, Reverse lookup, Proxy checker, Mail relaying, Bandwidth meter, Network calculator, Network mask calculator, Country by IP, Unit converter</A></DT>
+<DT><A HREF="http://mlab.taik.fi/research/research_groups/" ADD_DATE="1271753760" PRIVATE="0" TAGS="research,newmedia">Media Lab Helsinki : Research : Research Groups</A></DT>
+<DT><A HREF="http://royal.pingdom.com/" ADD_DATE="1271683083" PRIVATE="0" TAGS="internet,technology,web,analytics">Pingdom web site monitoring blog - Everything about uptime, downtime, servers, internet and technology</A></DT>
+<DT><A HREF="http://openrico.org/" ADD_DATE="1271668155" PRIVATE="0" TAGS="ajax,javascript,library,interface.development">Rico</A></DT>
+<DT><A HREF="http://designingwebinterfaces.com/posts" ADD_DATE="1271668107" PRIVATE="0" TAGS="design,usability,interface,book,stack-Interface-Design--Interaction-Design">Designing Web Interfaces » Site for Designing Web Interfaces Book</A></DT>
+<DT><A HREF="http://www.google.com/publicdata/directory" ADD_DATE="1271425837" PRIVATE="0" TAGS="analytics,data,visualization,stack-Data-Visualization--Information-Design">Google - public data</A></DT>
+<DT><A HREF="http://datavisualization.ch/" ADD_DATE="1271425135" PRIVATE="0" TAGS="visualization,information.design,stack-Data-Visualization--Information-Design">Datavisualization.ch</A></DT>
+<DT><A HREF="http://danvk.org/dygraphs/" ADD_DATE="1271425050" PRIVATE="0" TAGS="javascript,visualization,library">dygraphs JavaScript Visualization Library</A></DT>
+<DT><A HREF="http://sixrevisions.com/javascript/20-fresh-javascript-data-visualization-libraries/" ADD_DATE="1271425016" PRIVATE="0" TAGS="javascript,visualization,library">20 Fresh JavaScript Data Visualization Libraries</A></DT>
+<DT><A HREF="http://datavisualization.ch/tools/13-javascript-libraries-for-visualizations" ADD_DATE="1271424932" PRIVATE="0" TAGS="javascript,visualization,library">16 Javascript Libraries for Visualizations on Datavisualization.ch</A></DT>
+<DT><A HREF="http://thejit.org/" ADD_DATE="1271424879" PRIVATE="0" TAGS="javascript,visualization,library,graphic">JavaScript InfoVis Toolkit - Interactive Data Visualizations for the Web</A></DT>
+<DT><A HREF="http://blogs.gartner.com/ray_valdes/2010/02/10/html5-and-flash/" ADD_DATE="1271412248" PRIVATE="0" TAGS="flash,html">HTML5 and the future of Adobe Flash</A></DT>
+<DT><A HREF="http://mugtug.com/sketchpad/" ADD_DATE="1271412015" PRIVATE="0" TAGS="javascript,tool,drawing,html">Sketchpad - Online Paint/Drawing application</A></DT>
+<DT><A HREF="http://ace.ajax.org/" ADD_DATE="1271411907" PRIVATE="0" TAGS="tool,javascript,html,programming">Ace online code editor</A></DT>
+<DT><A HREF="http://www.chromeexperiments.com/" ADD_DATE="1271411864" PRIVATE="0" TAGS="computer.graphics,experiment,javascript,stack-3D-Graphics">Chrome Experiments - Home</A></DT>
+<DT><A HREF="http://www.canvasdemos.com/" ADD_DATE="1271411812" PRIVATE="0" TAGS="html,web,showcase">Applications, games, tools and tutorials for the HTML5 canvas element - Canvas Demos</A></DT>
+<DT><A HREF="http://www.axure.com/" ADD_DATE="1271235258" PRIVATE="0" TAGS="wireframe,tool,usability,design">Axure - Wireframes, Prototypes, Specifications</A></DT>
+<DT><A HREF="http://maxbruinsma.nl/" ADD_DATE="1271063323" PRIVATE="0" TAGS="design,theory,research">max bruinsma</A></DT>
+<DT><A HREF="http://www.mrtoledano.com/" ADD_DATE="1270819040" PRIVATE="0" TAGS="photography,portfolio">Mr Toledano : home</A></DT>
+<DT><A HREF="http://www.dayswithmyfather.com/" ADD_DATE="1270818825" PRIVATE="0" TAGS="design,photography,life">Phillip Toledano - Days with My Father</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Scope_creep" ADD_DATE="1270804917" PRIVATE="0" TAGS="management,project">Scope creep - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://birdeye.googlecode.com/svn/branches/ng/examples/demo/BirdEyeExplorer.html" ADD_DATE="1270735627" PRIVATE="0" TAGS="visualization,flex,information.design,actionscript,graphic">http://birdeye.googlecode.com/svn/branches/ng/examples/demo/BirdEyeExplorer.html</A></DT>
+<DT><A HREF="http://code.google.com/p/birdeye/" ADD_DATE="1270735589" PRIVATE="0" TAGS="visualization,flex,library,actionscript,information.design,graphic">birdeye - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://www.as3dp.com/" ADD_DATE="1270735373" PRIVATE="0" TAGS="programming.pattern,actionscript,programming,book">ActionScript 3.0 Design Patterns</A></DT>
+<DT><A HREF="http://www.mindomo.com/" ADD_DATE="1270735225" PRIVATE="0" TAGS="visualization,tool,management,information.architecture">Mind Mapping - Mindomo</A></DT>
+<DT><A HREF="http://www.mindomo.com/view.htm?m=bde05e859934ae19c69005fcae879853" ADD_DATE="1270735056" PRIVATE="0" TAGS="flash,actionscript,documentation,tool,programming">ActionScript® Toolbox</A></DT>
+<DT><A HREF="http://aralbalkan.com/" ADD_DATE="1270732841" PRIVATE="0" TAGS="flash,actionscript">Aral Balkan · Passionate geekisms.</A></DT>
+<DT><A HREF="http://www.xoops.org/" ADD_DATE="1270732766" PRIVATE="0" TAGS="cms,php">Powered by You! :: XOOPS CMS (Content Management System)</A></DT>
+<DT><A HREF="http://www.mikeindustries.com/blog/archive/2004/08/sifr" ADD_DATE="1270732736" PRIVATE="0" TAGS="flash,typography,text">Introducing sIFR: The Healthy Alternative to Browser Text | Mike Industries</A></DT>
+<DT><A HREF="http://www.nch.com.au/switch/" ADD_DATE="1269801749" PRIVATE="0" TAGS="software,sound">Audio Sound Converter Software - Convert wav, mp3, wma.</A></DT>
+<DT><A HREF="http://www.apple.com/downloads/macosx/audio/soundstudio.html" ADD_DATE="1269801710" PRIVATE="0" TAGS="software,sound">Apple - Downloads - Audio - Sound Studio</A></DT>
+<DT><A HREF="http://www.digidesign.com/index.cfm?navid=349&amp;langid=100&amp;itemid=35976" ADD_DATE="1269801651" PRIVATE="0" TAGS="software,sound">The Pro Tools Family</A></DT>
+<DT><A HREF="http://audacity.sourceforge.net/" ADD_DATE="1269801574" PRIVATE="0" TAGS="software,sound">Audacity: Editor e registratore audio libero</A></DT>
+<DT><A HREF="http://drupal.org/" ADD_DATE="1269718280" PRIVATE="0" TAGS="php,cms">drupal.org | Community plumbing</A></DT>
+<DT><A HREF="http://codeigniter.com/" ADD_DATE="1269718265" PRIVATE="0" TAGS="framework,php">CodeIgniter - Open source PHP web application framework</A></DT>
+<DT><A HREF="http://cakedc.com/" ADD_DATE="1269718212" PRIVATE="0" TAGS="framework,php">Cake Development Corporation, the CakePHP Framework Experts</A></DT>
+<DT><A HREF="http://tinymce.moxiecode.com/" ADD_DATE="1269717989" PRIVATE="0" TAGS="tool,javascript,html">TinyMCE - Home</A></DT>
+<DT><A HREF="http://script.aculo.us/" ADD_DATE="1269717923" PRIVATE="0" TAGS="library,javascript,framework">script.aculo.us - web 2.0 javascript</A></DT>
+<DT><A HREF="http://www.prototypejs.org/" ADD_DATE="1269717873" PRIVATE="0" TAGS="library,javascript,framework">Prototype JavaScript framework: Easy Ajax and DOM manipulation for dynamic web applications</A></DT>
+<DT><A HREF="http://jquery.com/" ADD_DATE="1269717819" PRIVATE="0" TAGS="library,javascript,framework,jquery">jQuery: The Write Less, Do More, JavaScript Library</A></DT>
+<DT><A HREF="http://www.pixelcase.com.au/" ADD_DATE="1269426550" PRIVATE="0" TAGS="photography">Pixelcase HD Photography and Video tours - Virtual tours Australia Wide - Perth, Sydney, Melbourne, Adelaide, Brisbane - Pixelcase</A></DT>
+<DT><A HREF="http://design.fh-potsdam.de/" ADD_DATE="1269425892" PRIVATE="0" TAGS="design,school,information.design,interface">Fachbereich Design der Fachhochschule Potsdam</A></DT>
+<DT><A HREF="http://quince.infragistics.com/UX-Design-Patterns.aspx" ADD_DATE="1269425162" PRIVATE="0" TAGS="interface.pattern,design,interface,library,usability">http://quince.infragistics.com/UX-Design-Patterns.aspx</A></DT>
+<DT><A HREF="http://www.siggraph.org/" ADD_DATE="1269424995" PRIVATE="0" TAGS="computer.graphics,3d,research">ACM SIGGRAPH News — siggraph.org</A></DT>
+<DT><A HREF="http://www.naturaldocs.org/" ADD_DATE="1269356864" PRIVATE="0" TAGS="code,documentation,tool">Natural Docs</A></DT>
+<DT><A HREF="http://visiblearea.com/visdoc/" ADD_DATE="1269356854" PRIVATE="0" TAGS="code,documentation,tool">VisDoc - FREE Code documentation generator for Flash ActionScript 2.0, ActionScript 3.0 and Java</A></DT>
+<DT><A HREF="http://msdevstudio.com/blog/2008/07/29/30-classes-as3-bem-teis/" ADD_DATE="1269355462" PRIVATE="0" TAGS="actionscript,library">30 Classes AS3 bem úteis! | TSW - That Should Work</A></DT>
+<DT><A HREF="http://flare.prefuse.org/" ADD_DATE="1269355370" PRIVATE="0" TAGS="visualization,flash,actionscript,library">Flare | Data Visualization for the Web</A></DT>
+<DT><A HREF="http://casalib.org/" ADD_DATE="1269355346" PRIVATE="0" TAGS="actionscript,library,framework">CASA Lib: An Open Source Code Library for ActionScript 2.0 and 3.0</A></DT>
+<DT><A HREF="http://code.google.com/p/asaplibrary/" ADD_DATE="1269355335" PRIVATE="0" TAGS="framework,library,actionscript">asaplibrary - Project Hosting on Google Code</A></DT>
+<DT><A HREF="http://saravananrk.wordpress.com/2009/06/24/15-awesome-actionscript-3-frameworks-to-inspire-your-next-project/" ADD_DATE="1269355138" PRIVATE="0" TAGS="actionscript,framework,library">15 Awesome ActionScript 3 Frameworks To Inspire Your Next Project « rksaran</A></DT>
+<DT><A HREF="http://www.moped.fi/materiaali/materiaalit-www1.html" ADD_DATE="1268170688" PRIVATE="0" TAGS="finnish,language">Moped: Materiaalit</A></DT>
+<DT><A HREF="http://www.helsinki.fi/hum/skl/ihmiset/silfverbergl/peruskurssi/etusivu.htm" ADD_DATE="1268170637" PRIVATE="0" TAGS="finnish,language">Suomi 1</A></DT>
+<DT><A HREF="http://issuu.com/" ADD_DATE="1268170550" PRIVATE="0" TAGS="publishing,writing,tool">Issuu - You Publish</A></DT>
+<DT><A HREF="http://www.virtuaaliyliopisto.fi/en/index.html" ADD_DATE="1268170261" PRIVATE="0" TAGS="finnish,language">Finnish Virtual University</A></DT>
+<DT><A HREF="http://developer.yahoo.com/ypatterns/about/stencils/" ADD_DATE="1268145515" PRIVATE="0" TAGS="wireframe,interface,library,tool">Design Stencils - Design Pattern Library - YDN</A></DT>
+<DT><A HREF="http://www.uie.com/brainsparks/feed/" ADD_DATE="1267784802" PRIVATE="0" TAGS="usability,design,interface">UIE Brain Sparks</A></DT>
+<DT><A HREF="http://flashonthebeach.com/" ADD_DATE="1267438422" PRIVATE="0" TAGS="flash,design,event">Flash on the Beach 09 - Sept 20-23</A></DT>
+<DT><A HREF="http://hitask.com/" ADD_DATE="1266919423" PRIVATE="0" TAGS="management,project,tool">HiTask - free online task management</A></DT>
+<DT><A HREF="http://www.fdt.powerflasher.com/" ADD_DATE="1266319119" PRIVATE="0" TAGS="flash,actionscript,software,programming,tool">Powerflasher Solutions - Home</A></DT>
+<DT><A HREF="http://www.nlphotographer.com/" ADD_DATE="1266243931" PRIVATE="0" TAGS="photography,portfolio">Nuno Lobito Photographer</A></DT>
+<DT><A HREF="http://www.artfromcode.com/" ADD_DATE="1266237481" PRIVATE="0" TAGS="art,programming">Art From Code : Generative Graphics</A></DT>
+<DT><A HREF="http://www.stanwinstonstudio.com/home.html" ADD_DATE="1266068844" PRIVATE="0" TAGS="animation,company,character.animation,specialeffect">Stan Winston Studio</A></DT>
+<DT><A HREF="http://hydraulx.com/2008/04demo/reels.html" ADD_DATE="1266068800" PRIVATE="0" TAGS="3d,company,specialeffect,motion.graphic">Hydraulx Demo Reels</A></DT>
+<DT><A HREF="http://www.hybride.com/" ADD_DATE="1266068684" PRIVATE="0" TAGS="animation,company,3d,specialeffect">HYBRIDE : A UBISOFT Division - une filiale d'UBISOFT</A></DT>
+<DT><A HREF="http://www.framestore-cfc.com/" ADD_DATE="1266068644" PRIVATE="0" TAGS="animation,3d,company">Framestore /Home</A></DT>
+<DT><A HREF="http://www.wetafx.co.nz/reels/environments/" ADD_DATE="1266068542" PRIVATE="0" TAGS="motion.graphic,3d,specialeffect,animation,company">Weta Digital</A></DT>
+<DT><A HREF="http://www.giantstudios.com/" ADD_DATE="1266068445" PRIVATE="0" TAGS="3d,specialeffect,character.animation,company,motion.track">Giant Studios - Leading The Way In Performance Capture Technology</A></DT>
+<DT><A HREF="http://levitated.net/" ADD_DATE="1266064937" PRIVATE="0" TAGS="programming,actionscript,visualization,experiment,computer.graphics">Levitated | the Exploration of Computation</A></DT>
+<DT><A HREF="http://yugop.com/" ADD_DATE="1266064732" PRIVATE="0" TAGS="flash,actionscript,experiment">yugop.com</A></DT>
+<DT><A HREF="http://www.joshuadavis.com/" ADD_DATE="1266064660" PRIVATE="0" TAGS="design,portfolio,flash,programming,art,actionscript">Joshua Davis | Studios</A></DT>
+<DT><A HREF="http://www.bit-101.com/blog/" ADD_DATE="1266064594" PRIVATE="0" TAGS="javascript,flash,actionscript,programming,stack-Web-Development">BIT-101 Flash ActionScript</A></DT>
+<DT><A HREF="http://www.flickr.com/photos/alanjaras/sets/72057594061844447/" ADD_DATE="1264965004" PRIVATE="0" TAGS="photography">Bending Light – un set su Flickr</A></DT>
+<DT><A HREF="http://www.slowlight.net/blog/" ADD_DATE="1264964979" PRIVATE="0" TAGS="photography">slowlight</A></DT>
+<DT><A HREF="http://www.stroboscopicartefacts.com/" ADD_DATE="1264589884" PRIVATE="0" TAGS="music">Stroboscopic Artefacts // electronic music record label</A></DT>
+<DT><A HREF="http://abc-cineclube.blogspot.com/" ADD_DATE="1264369109" PRIVATE="0" TAGS="community,cinema">ABC CINECLUBE</A></DT>
+<DT><A HREF="http://www.janeriksvendsen.no/" ADD_DATE="1264014344" PRIVATE="0" TAGS="photography,portfolio,design">JAN ERIK SVENDESEN/ PHOTOGRAPHER</A></DT>
+<DT><A HREF="http://leadinganswers.typepad.com/" ADD_DATE="1263826811" PRIVATE="0" TAGS="management,process,project">LeadingAnswers: Leadership and Agile Project Management Blog</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/IBM_Rational_Unified_Process" ADD_DATE="1263825490" PRIVATE="0" TAGS="process,management,project">IBM Rational Unified Process - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Software_development_process" ADD_DATE="1263819205" PRIVATE="0" TAGS="software,process,management,project">Software development process - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://martinfowler.com/articles/itsNotJustStandingUp.html" ADD_DATE="1263818532" PRIVATE="0" TAGS="management,process,project">http://martinfowler.com/articles/itsNotJustStandingUp.html</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2008/11/13/15-useful-project-management-tools/" ADD_DATE="1263817670" PRIVATE="0" TAGS="management,project,tool">15 Useful Project Management Tools - Smashing Magazine</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/06/11/effective-strategy-to-estimate-time-for-your-design-projects/" ADD_DATE="1263817443" PRIVATE="0" TAGS="management,project,process">Effective Strategy To Estimate Time For Your Design Projects - Smashing Magazine</A></DT>
+<DT><A HREF="http://devgirl.wordpress.com/2009/06/16/livecycle-data-services-lcds-quick-start/" ADD_DATE="1263406516" PRIVATE="0" TAGS="adobe,dataservice">LiveCycle Data Services (LCDS) – Quick Start « Devgirl's Weblog</A></DT>
+<DT><A HREF="http://coenraets.org/blog/2007/12/blazeds-open-sourcing-remoting-and-messaging/" ADD_DATE="1263406472" PRIVATE="0" TAGS="adobe,dataservice">BlazeDS: Open Sourcing Remoting and Messaging</A></DT>
+<DT><A HREF="http://www.fubiz.net/category/Music/" ADD_DATE="1263393759" PRIVATE="0" TAGS="music">Music | Fubiz™</A></DT>
+<DT><A HREF="http://tlt.its.psu.edu/suggestions/international/accents/codealt.html" ADD_DATE="1263207450" PRIVATE="0" TAGS="encoding,windows">Windows Alt Key Codes</A></DT>
+<DT><A HREF="http://tlt.its.psu.edu/suggestions/international/accents/charmap.html" ADD_DATE="1263207431" PRIVATE="0" TAGS="encoding,windows">Character Map Windows XP</A></DT>
+<DT><A HREF="http://makela.info/nettiradiot/" ADD_DATE="1262546573" PRIVATE="0" TAGS="radio,Finland">Nettiradiot Suomessa ja maailmalla</A></DT>
+<DT><A HREF="http://socialmediarockstar.com/history-of-social-media" ADD_DATE="1262172658" PRIVATE="0" TAGS="history,social,web,culture,research,network">A Brief History Of Social Media</A></DT>
+<DT><A HREF="http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html" ADD_DATE="1262172543" PRIVATE="0" TAGS="history,social,web,culture,research,network">Social Network Sites: Definition, History, and Scholarship</A></DT>
+<DT><A HREF="http://www.webdesignerdepot.com/2009/10/the-history-and-evolution-of-social-media/" ADD_DATE="1262172453" PRIVATE="0" TAGS="history,social,web,culture">The History and Evolution of Social Media | Webdesigner Depot</A></DT>
+<DT><A HREF="http://wireframes.linowski.ca/" ADD_DATE="1262015177" PRIVATE="0" TAGS="usability,design,visualization,interface,wireframe">Wireframes Magazine</A></DT>
+<DT><A HREF="http://www.livemocha.com/sihp" ADD_DATE="1261672315" PRIVATE="0" TAGS="community,language">Livemocha: Language Learning with Livemocha | Learn a Language Online - Free!</A></DT>
+<DT><A HREF="http://altlab.org/projects/" ADD_DATE="1261579517" PRIVATE="0" TAGS="interaction,research,programming,hardware">About » AltLab - DIY Creativity</A></DT>
+<DT><A HREF="http://kuler.adobe.com/" ADD_DATE="1261567584" PRIVATE="0" TAGS="color,tool">kuler</A></DT>
+<DT><A HREF="http://cnx.org/content/m12968/latest/" ADD_DATE="1261334102" PRIVATE="0" TAGS="computer.graphics,tutorial,programming">Programming in Processing</A></DT>
+<DT><A HREF="http://www.freesound.org/" ADD_DATE="1260467705" PRIVATE="0" TAGS="library,sound">freesound :: home page</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/02/26/10-steps-to-the-perfect-portfolio-website/" ADD_DATE="1259074283" PRIVATE="0" TAGS="portfolio,showcase">10 Steps To The Perfect Portfolio Website - Smashing Magazine</A></DT>
+<DT><A HREF="http://foliofocus.com/" ADD_DATE="1259074256" PRIVATE="0" TAGS="portfolio,design,showcase">Portfolio Websites | Folio Focus - Gallery of Design Portfolios</A></DT>
+<DT><A HREF="http://www.pixelperfectportfolios.com/" ADD_DATE="1259074248" PRIVATE="0" TAGS="portfolio,design,showcase">Flash Portfolios + Flash Gallery Showcase | Pixel Perfect Portfolios.</A></DT>
+<DT><A HREF="http://www.foliostars.net/" ADD_DATE="1259074234" PRIVATE="0" TAGS="portfolio,design,showcase">Foliostars - A showcase of exquisite portfolios</A></DT>
+<DT><A HREF="http://www.style-force.net/" ADD_DATE="1259074183" PRIVATE="0" TAGS="portfolio,design">Semplice - Création Graphique</A></DT>
+<DT><A HREF="http://www.markdearman.com/" ADD_DATE="1259074164" PRIVATE="0" TAGS="portfolio,design">Mark Dearman ~ Art Direction and Design</A></DT>
+<DT><A HREF="http://mlab.taik.fi/" ADD_DATE="1258812089" PRIVATE="0" TAGS="research,school,newmedia">Media Lab Helsinki</A></DT>
+<DT><A HREF="http://dm.risd.edu/" ADD_DATE="1258812036" PRIVATE="0" TAGS="school,newmedia">Digital + Media</A></DT>
+<DT><A HREF="http://www.fondation-langlois.org/html/f/" ADD_DATE="1258810466" PRIVATE="0" TAGS="interaction,research,art,newmedia,installation">La fondation Daniel Langlois - Accueil</A></DT>
+<DT><A HREF="http://www.miguel-chevalier.com/" ADD_DATE="1258809037" PRIVATE="0" TAGS="interaction,art,newmedia,installation">www.miguel-chevalier.com</A></DT>
+<DT><A HREF="http://www.artcom.de/" ADD_DATE="1258554771" PRIVATE="0" TAGS="art,newmedia,interaction,research,installation">ART+COM - Home</A></DT>
+<DT><A HREF="http://angesleva.iki.fi/" ADD_DATE="1258554584" PRIVATE="0" TAGS="Finland,interaction,research,installation">Jussi Ängeslevä | Archive of Works</A></DT>
+<DT><A HREF="http://osflash.org/open_source_flash_projects" ADD_DATE="1258023250" PRIVATE="0" TAGS="actionscript,tool,library">Open Source Flash Projects Open Source Flash</A></DT>
+<DT><A HREF="http://www.adrianparr.com/?p=83" ADD_DATE="1258023150" PRIVATE="0" TAGS="actionscript,library">Adrian Parr’s Blog » Blog Archive » AS3 Code Libraries</A></DT>
+<DT><A HREF="http://labcd.org/" ADD_DATE="1257809537" PRIVATE="0" TAGS="community,art,newmedia,venue">Laboratório de Criação Digital -</A></DT>
+<DT><A HREF="http://geraldine-lisboa.com/" ADD_DATE="1257809435" PRIVATE="0" TAGS="venue,culture">GERALDINE</A></DT>
+<DT><A HREF="http://www.audienciazero.org/cct/" ADD_DATE="1257720730" PRIVATE="0" TAGS="newmedia,school">Audiência Zero - CCT</A></DT>
+<DT><A HREF="http://wonder-wall.com/#project/en" ADD_DATE="1257267597" PRIVATE="0" TAGS="portfolio,3d,showcase,architecture">Wonderwall</A></DT>
+<DT><A HREF="http://www.whitevoid.com/portfolio/" ADD_DATE="1257267540" PRIVATE="0" TAGS="portfolio,3d,showcase">WHITEvoid Portfolio</A></DT>
+<DT><A HREF="http://filext.com/" ADD_DATE="1256915493" PRIVATE="0" TAGS="web,computer,server,file">FILExt - The File Extension Source</A></DT>
+<DT><A HREF="http://labs.adobe.com/" ADD_DATE="1256828456" PRIVATE="0" TAGS="flash,adobe,research">Adobe Labs - Homepage</A></DT>
+<DT><A HREF="http://active.tutsplus.com/tutorials/effects/create-custom-filters-using-the-pixel-bender-toolkit/" ADD_DATE="1256828410" PRIVATE="0" TAGS="pixelbender,image,image.processing,computer.graphics">Create Custom Filters Using the Pixel Bender Toolkit - Activetuts+</A></DT>
+<DT><A HREF="http://docs.google.com/View?id=d755mfb_49ch5rkcdc" ADD_DATE="1256665256" PRIVATE="0" TAGS="augmentedreality">Augmented reality (AR)</A></DT>
+<DT><A HREF="http://blogof.francescomugnai.com/2009/10/35-stunning-examples-of-examples-of-augmented-reality/" ADD_DATE="1256664342" PRIVATE="0" TAGS="augmentedreality">FrancescoMugnai.com » 35 stunning examples of examples of augmented reality</A></DT>
+<DT><A HREF="http://www.youtube.com/watch?v=AENJxqR0g48" ADD_DATE="1256663411" PRIVATE="0" TAGS="augmentedreality,physics">YouTube - Deep Green and Augmented Reality Pool</A></DT>
+<DT><A HREF="http://www.priberam.pt/dlpo/" ADD_DATE="1256396385" PRIVATE="0" TAGS="dictionary">Dicionário Priberam da Língua Portuguesa</A></DT>
+<DT><A HREF="http://mapki.com/wiki/Google_Map_Parameters" ADD_DATE="1256144267" PRIVATE="0" TAGS="map">Google Map Parameters - Google Mapki</A></DT>
+<DT><A HREF="http://maps.google.com/maps?q=@38.723887,-9.161501&amp;z=16" ADD_DATE="1256144199" PRIVATE="0" TAGS="map">Google Maps Url Syntax Example</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/10/09/iphone-app-design-trends/" ADD_DATE="1255366724" PRIVATE="0" TAGS="interface,mobile">iPhone App Design Trends « Smashing Magazine</A></DT>
+<DT><A HREF="http://weareorganizedchaos.com/" ADD_DATE="1255079546" PRIVATE="0" TAGS="newmedia,interaction,augmentedreality,marketing">We Are Organized Chaos - An Interactive Marketing and Advertising Blog</A></DT>
+<DT><A HREF="http://augmentedrealitywiki.com/Main_Page" ADD_DATE="1255079332" PRIVATE="0" TAGS="augmentedreality">Augmented Reality Wiki</A></DT>
+<DT><A HREF="http://flash.tarotaro.org/blog/2009/07/12/mgo2/" ADD_DATE="1255024640" PRIVATE="0" TAGS="tool,augmentedreality">ARToolKit Marker Generator Online released! « flash.tarotaro.org.blog</A></DT>
+<DT><A HREF="http://www.personalizemedia.com/16-top-augmented-reality-business-models/" ADD_DATE="1255023086" PRIVATE="0" TAGS="theory,augmentedreality,research">16 Top Augmented Reality Business Models | PERSONALIZE MEDIA</A></DT>
+<DT><A HREF="http://www.businessweek.com/innovate/next/" ADD_DATE="1255022680" PRIVATE="0" TAGS="idea,research,marketing">BusinessWeek - Next blog</A></DT>
+<DT><A HREF="http://www.ydreams.com/" ADD_DATE="1255019714" PRIVATE="0" TAGS="technology,interaction,augmentedreality,computer.vision">YDreams - Home</A></DT>
+<DT><A HREF="http://www.metaio.com/" ADD_DATE="1255019456" PRIVATE="0" TAGS="technology,augmentedreality">Metaio : Augmented Reality, Mixed, software, product, systems, solutions, consulting, applications, presentation: Home</A></DT>
+<DT><A HREF="http://www.ydreams.com/blog/" ADD_DATE="1255018839" PRIVATE="0" TAGS="interaction,augmentedreality,research,theory">.yd - The YDreams Blog</A></DT>
+<DT><A HREF="http://www.boffswana.com/news/" ADD_DATE="1255013277" PRIVATE="0" TAGS="3d,showcase,augmentedreality">Boffswana</A></DT>
+<DT><A HREF="http://layar.com/" ADD_DATE="1255012073" PRIVATE="0" TAGS="augmentedreality,mobile">Layar</A></DT>
+<DT><A HREF="http://www.libspark.org/wiki/WikiStart/en" ADD_DATE="1255011159" PRIVATE="0" TAGS="community,flash,actionscript,library">WikiStart/en - Spark project</A></DT>
+<DT><A HREF="http://www.imagination.at/en/" ADD_DATE="1255010518" PRIVATE="0" TAGS="technology,interaction,augmentedreality,physicalcomputing">Imagination - Home</A></DT>
+<DT><A HREF="http://www.mikkoh.com/blog/2008/12/05/flartoolkitflash-augmented-realitygetting-started/" ADD_DATE="1254935740" PRIVATE="0" TAGS="actionscript,flash,augmentedreality">FlarToolkit/Flash Augmented RealityGetting Started | Mikko Haapoja's Blog</A></DT>
+<DT><A HREF="http://www.w3.org/QA/2002/04/valid-dtd-list.html#DTD" ADD_DATE="1253785160" PRIVATE="0" TAGS="web,html">W3C QA - Recommended list of DTDs you can use in your Web document</A></DT>
+<DT><A HREF="http://www.ehow.com/" ADD_DATE="1252942250" PRIVATE="0" TAGS="life,diy">eHow | How To Do Just About Everything! | How To Videos and Articles</A></DT>
+<DT><A HREF="http://www.infomus.org/" ADD_DATE="1252931140" PRIVATE="0" TAGS="research,music,visual.programming,interaction,sensor,programming,computer.vision">InfoMus Lab</A></DT>
+<DT><A HREF="http://adaptivepath.com/ideas/" ADD_DATE="1252576098" PRIVATE="0" TAGS="userexperience,web,design,usability,idea,research">adaptive path » user experience ideas</A></DT>
+<DT><A HREF="http://www.blender.org/" ADD_DATE="1252329868" PRIVATE="0" TAGS="3d,software">blender.org - Home</A></DT>
+<DT><A HREF="http://patterntap.com/" ADD_DATE="1252322624" PRIVATE="0" TAGS="interface.pattern,design,interface,showcase,usability">Pattern Tap : Organized Web Design Collection of User Interfaces for Inspiration and Ideas. The CSS Gallery Alternative - Pattern Tap</A></DT>
+<DT><A HREF="http://dpreview.com/" ADD_DATE="1252100687" PRIVATE="0" TAGS="photography">Digital Camera Reviews and News: Digital Photography Review: Forums, Glossary, FAQ</A></DT>
+<DT><A HREF="http://papervision3d.googlecode.com/svn/trunk/as3/trunk/docs/index.html" ADD_DATE="1251812603" PRIVATE="0" TAGS="actionscript,flash,library,3d,documentation">All Packages - Papervision3D Official Documentation</A></DT>
+<DT><A HREF="http://www.elisidman.com/nature_of_neptune/installation_art/" ADD_DATE="1251468110" PRIVATE="0" TAGS="art,installation">Nature of Neptune: Installation Art</A>
+<DD>The Way Things Go</DD></DT>
+<DT><A HREF="http://docs.google.com/Doc?docid=0AR60rS5z4Y_5ZDc1NW1mYl8zZmtyMnZqY3I" ADD_DATE="1251198115" PRIVATE="0" TAGS="project,management">Gestão de Projecto em Web e S...</A></DT>
+<DT><A HREF="http://docs.google.com/Doc?docid=0AR60rS5z4Y_5ZDc1NW1mYl8yOWNoNWtqc2d0" ADD_DATE="1250069766" PRIVATE="0" TAGS="project,management">Documento especificacoes</A></DT>
+<DT><A HREF="http://pingmag.jp/2005/12/09/the-website-development-process/" ADD_DATE="1250009987" PRIVATE="0" TAGS="project,process">PingMag - The Tokyo-based magazine about “Design and Making Things” » Archive » The Website Development Process</A></DT>
+<DT><A HREF="http://woork.blogspot.com/2009/01/structured-process-you-must-know-to.html" ADD_DATE="1250009965" PRIVATE="0" TAGS="project,process">Structured process you must know to develop a web application</A></DT>
+<DT><A HREF="http://gettingreal.37signals.com/toc.php" ADD_DATE="1250009945" PRIVATE="0" TAGS="book,management,process">Getting Real</A></DT>
+<DT><A HREF="http://www.asual.com/swfaddress/" ADD_DATE="1250000480" PRIVATE="0" TAGS="actionscript,library,flash,navigation">Asual | SWFAddress - Deep linking for Flash and Ajax</A></DT>
+<DT><A HREF="http://aviary.com/apps/flash/aviary/index.aspx" ADD_DATE="1249898702" PRIVATE="0" TAGS="tool,color">Aviary's Color Editor - Toucan</A></DT>
+<DT><A HREF="http://saravananrk.wordpress.com/2008/03/10/compile-as3-with-flashdevelop3-using-flex-sdk3-compiler/" ADD_DATE="1249380350" PRIVATE="0" TAGS="tool,compiler,flex">Compile AS3 with FlashDevelop3 using Flex sdk3 compiler. « RIAdobe</A></DT>
+<DT><A HREF="http://code.google.com/intl/pt-PT/apis/maps/documentation/flash/tutorial-flex.html" ADD_DATE="1249380213" PRIVATE="0" TAGS="map,api,flex">Google Maps API for Flash - Flex SDK Tutorial - Google Maps API for Flash - Google Code</A></DT>
+<DT><A HREF="http://www.cairngormdocs.org/" ADD_DATE="1246314077" PRIVATE="0" TAGS="documentation,flex,framework">Cairngorm Microarchitecture for Adobe Flex Documentation Group</A></DT>
+<DT><A HREF="http://opensource.adobe.com/wiki/display/flexsdk/Coding+Conventions" ADD_DATE="1246313857" PRIVATE="0" TAGS="flex,programming,actionscript">Coding Conventions - Flex SDK - Confluence</A></DT>
+<DT><A HREF="http://docs.google.com/View?id=d755mfb_31c4vb56dx" ADD_DATE="1245975474" PRIVATE="0" TAGS="interaction">Tendências em sistemas interactivos</A></DT>
+<DT><A HREF="http://benchun.net/flosc/" ADD_DATE="1245970910" PRIVATE="0" TAGS="flash,communication">flosc: Flash Open Sound Control « benchun.net</A></DT>
+<DT><A HREF="http://ccv.nuigroup.com/" ADD_DATE="1245970847" PRIVATE="0" TAGS="interface,interaction,library,motion.track,multitouch,computer.vision">Community Core Vision</A></DT>
+<DT><A HREF="http://www.nuigroup.com/touchlib/" ADD_DATE="1245970756" PRIVATE="0" TAGS="interface,interaction,library,motion.track,multitouch,computer.vision">Touchlib - Home</A></DT>
+<DT><A HREF="http://nuigroup.com/" ADD_DATE="1245969496" PRIVATE="0" TAGS="interface,interaction,community,hardware">NUI Group - Natural User Interface Group</A></DT>
+<DT><A HREF="http://www.uipatterns.net/" ADD_DATE="1245364442" PRIVATE="0" TAGS="interface.pattern,interface,design,showcase">UI Patterns — Comprehensive User Interface Design Pattern Library</A></DT>
+<DT><A HREF="http://www.typetester.org/" ADD_DATE="1245073697" PRIVATE="0" TAGS="css,typography">Typetester – Compare fonts for the screen</A></DT>
+<DT><A HREF="http://www.kenrockwell.com/tech/format.htm" ADD_DATE="1244246335" PRIVATE="0" TAGS="photography">Film Formats Compared</A></DT>
+<DT><A HREF="http://www.kenrockwell.com/nikon/nikkor.htm" ADD_DATE="1244243830" PRIVATE="0" TAGS="photography,lens,camera">Nikon Nikkor Lenses</A></DT>
+<DT><A HREF="http://lab.kapit.fr/display/kaplabhome/Home" ADD_DATE="1244023350" PRIVATE="0" TAGS="tool,visualization,component,flex">Home - Kap Lab Home - Confluence</A></DT>
+<DT><A HREF="http://www.yle.fi/radio/" ADD_DATE="1243893904" PRIVATE="0" TAGS="radio,Finland">Radio on kaikkialla | yle.fi</A></DT>
+<DT><A HREF="http://www.semanticstudios.com/" ADD_DATE="1243863888" PRIVATE="0" TAGS="usability,information.architecture">Information Architecture Consulting by Peter Morville</A></DT>
+<DT><A HREF="http://www.adaptenv.org/" ADD_DATE="1243863733" PRIVATE="0" TAGS="design,usability,ergonomics,accessibility">Institute for Human Centered Design - Home</A></DT>
+<DT><A HREF="http://www.infosthetics.com/" ADD_DATE="1243863497" PRIVATE="0" TAGS="visualization,information.design,interface,stack-Data-Visualization--Information-Design">information aesthetics - Information Visualization and Visual Communication</A></DT>
+<DT><A HREF="http://www.iainstitute.org/" ADD_DATE="1243862970" PRIVATE="0" TAGS="usability,information.architecture">The Information Architecture Institute</A></DT>
+<DT><A HREF="http://www.scribd.com/" ADD_DATE="1243606166" PRIVATE="0" TAGS="tool,book,writing">Scribd</A></DT>
+<DT><A HREF="http://www.youtube.com/watch?v=tvVyDmTCNwE" ADD_DATE="1243604643" PRIVATE="0" TAGS="motion.track">YouTube - Webcam Motion Detection and Audio Detection</A></DT>
+<DT><A HREF="http://www.elsevier.com/wps/find/journaldescription.cws_home/30409/description#description" ADD_DATE="1243588122" PRIVATE="0" TAGS="design,magazine,theory,research">Design Studies - Elsevier</A></DT>
+<DT><A HREF="http://www.mitpressjournals.org/di" ADD_DATE="1243587919" PRIVATE="0" TAGS="design,magazine,theory,research">MIT Press Journals - Design Issues</A></DT>
+<DT><A HREF="http://design-ergonomia.blogspot.com/" ADD_DATE="1243587126" PRIVATE="0" TAGS="design,usability,ergonomics">:: o design e a ergonomia ::</A></DT>
+<DT><A HREF="http://wpdfd.com/articles/" ADD_DATE="1243586853" PRIVATE="0" TAGS="web,design">Web Design Article Index | Web Page Design for Designers ©</A></DT>
+<DT><A HREF="http://www.webreference.com/" ADD_DATE="1243586605" PRIVATE="0" TAGS="web,programming">Web Development and Design Tutorials, Tips and Reviews - WebReference.com</A></DT>
+<DT><A HREF="http://ajaxian.com/" ADD_DATE="1243503041" PRIVATE="0" TAGS="css,javascript,ajax,stack-Web-Development">Ajaxian</A></DT>
+<DT><A HREF="http://www.usabilidade.org/" ADD_DATE="1243502696" PRIVATE="0" TAGS="design,usability,ergonomics,stack-Interface-Design--Interaction-Design">APPU: Associação Portuguesa de Profissionais de Usabilidade</A></DT>
+<DT><A HREF="http://www.infomus.org/EywIndex.html" ADD_DATE="1243378438" PRIVATE="0" TAGS="visual.programming,computer.vision,interaction,programming">InfoMus Lab</A></DT>
+<DT><A HREF="http://puredata.info/" ADD_DATE="1243378403" PRIVATE="0" TAGS="sensor,visual.programming,interaction,music,programming">Pure Data — PD Community Site</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/ASCII" ADD_DATE="1243351969" PRIVATE="0" TAGS="encoding">ASCII - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.unitzeroone.com/blog/" ADD_DATE="1243258704" PRIVATE="0" TAGS="actionscript,3d,stack-3D-Graphics">UnitZeroOne</A></DT>
+<DT><A HREF="http://joshblog.net/" ADD_DATE="1243258469" PRIVATE="0" TAGS="flash,actionscript,flex">Josh Talks Flash - Formerly Zeus Labs. Josh Tynjala explores Flash, Flex, and ActionScript.</A></DT>
+<DT><A HREF="http://mate.asfusion.com/" ADD_DATE="1243258022" PRIVATE="0" TAGS="framework,flex">Mate Flex Framework — A tag-based event-driven Flex framework</A></DT>
+<DT><A HREF="http://developer.yahoo.com/ypatterns/" ADD_DATE="1243249094" PRIVATE="0" TAGS="interface.pattern,design,interface,library">Yahoo! Design Pattern Library</A></DT>
+<DT><A HREF="http://developer.yahoo.com/flash/astra-flash/" ADD_DATE="1243248197" PRIVATE="0" TAGS="flash,interface,component,library">Yahoo! - ASTRA Flash Components</A></DT>
+<DT><A HREF="http://www.random-walk.com/index_en.htm" ADD_DATE="1243083125" PRIVATE="0" TAGS="visualization,programming,mathematics">Random Walk / Daniel A. Becker</A></DT>
+<DT><A HREF="http://mitpress.mit.edu/catalog/item/default.asp?tid=8134&amp;ttype=2" ADD_DATE="1242979531" PRIVATE="0" TAGS="programming,language">Programming Linguistics - The MIT Press</A></DT>
+<DT><A HREF="http://www.world66.com/" ADD_DATE="1242947357" PRIVATE="0" TAGS="community,travel">World travel guide</A></DT>
+<DT><A HREF="http://wikitravel.org/it/Pagina_principale" ADD_DATE="1242947345" PRIVATE="0" TAGS="travel">Pagina principale - Wikitravel</A></DT>
+<DT><A HREF="http://www.savonlinna.travel/Kesa.iw3" ADD_DATE="1242947277" PRIVATE="0" TAGS="">Savonlinnan Lomaseutu - savonlinna.travel- matkailuportaali</A></DT>
+<DT><A HREF="http://wikitravel.org/en/Savonlinna" ADD_DATE="1242947263" PRIVATE="0" TAGS="">Savonlinna travel guide - Wikitravel</A></DT>
+<DT><A HREF="http://www.world66.com/europe/finland/savonlinna" ADD_DATE="1242947240" PRIVATE="0" TAGS="">Savonlinna travel guide</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Savonlinna_Opera_Festival" ADD_DATE="1242947227" PRIVATE="0" TAGS="">Savonlinna Opera Festival - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://digitalvaults.org/" ADD_DATE="1242811833" PRIVATE="0" TAGS="interface,library,photography,history">National Archives Experience</A></DT>
+<DT><A HREF="http://www.moma.org/interactives/exhibitions/2008/elasticmind/" ADD_DATE="1242811785" PRIVATE="0" TAGS="art,gallery,navigation,interface">MoMA.org | Design and the Elastic Mind</A></DT>
+<DT><A HREF="http://puremvc.org/pages/docs/AS3/standard/framework_asdoc/" ADD_DATE="1242637950" PRIVATE="0" TAGS="actionscript,framework,documentation">pureMVC - API Documentation</A></DT>
+<DT><A HREF="http://trac.puremvc.org/PureMVC_AS3/" ADD_DATE="1242637889" PRIVATE="0" TAGS="actionscript,framework">PureMVC Manifold - AS3 Port [ Standard Version ] / PureMVC Framework for ActionScript 3 - Trac</A></DT>
+<DT><A HREF="http://blogs.warwick.ac.uk/stevencarpenter/entry/flex_mvc_frameworks/" ADD_DATE="1242636631" PRIVATE="0" TAGS="actionscript,framework">Flex: MVC frameworks comparison, 28/01/08, [Ux]</A></DT>
+<DT><A HREF="http://en.wiktionary.org/wiki/Wiktionary:Main_Page" ADD_DATE="1242584542" PRIVATE="0" TAGS="dictionary,language">Wiktionary, the free dictionary</A></DT>
+<DT><A HREF="http://createdigitalmotion.com/" ADD_DATE="1242516450" PRIVATE="0" TAGS="art,newmedia,video,motion.graphic">Create Digital Motion</A></DT>
+<DT><A HREF="http://opensoundcontrol.org/" ADD_DATE="1242516372" PRIVATE="0" TAGS="interaction,communication,protocol,physicalcomputing">opensoundcontrol.org</A></DT>
+<DT><A HREF="http://www.amazon.com/Publicize-Your-Book-Updated-Attention/dp/B001R23FP2/" ADD_DATE="1242491396" PRIVATE="0" TAGS="book,writing,marketing">Amazon.com: Publicize Your Book (Updated): An Insider's Guide to Getting Your Book the Attention It Deserves: Jacqueline Deval: Books</A></DT>
+<DT><A HREF="http://www.amazon.com/First-Five-Pages-Writers-Rejection/dp/068485743X/" ADD_DATE="1242488269" PRIVATE="0" TAGS="book,writing">Amazon.com: The First Five Pages: A Writer's Guide to Staying Out of the Rejection Pile: Noah Lukeman: Books</A></DT>
+<DT><A HREF="http://www.amazon.com/Formatting-Submitting-Manuscript-Cynthia-Laufenber/dp/1582972907/" ADD_DATE="1242488198" PRIVATE="0" TAGS="book,writing">Amazon.com: Formatting and Submitting Your Manuscript: Cynthia Laufenber: Books</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Savonia_(historical_province)" ADD_DATE="1242423684" PRIVATE="0" TAGS="">Savonia (historical province) - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Olavinlinna" ADD_DATE="1242423532" PRIVATE="0" TAGS="">Olavinlinna - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Saimaa" ADD_DATE="1242423278" PRIVATE="0" TAGS="">Saimaa - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Savonlinna" ADD_DATE="1242423269" PRIVATE="0" TAGS="">Savonlinna - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://lab.polygonal.de/" ADD_DATE="1242309034" PRIVATE="0" TAGS="actionscript,physics">polygonal labs</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/05/12/10-ways-to-put-your-content-in-front-of-more-people/" ADD_DATE="1242206280" PRIVATE="0" TAGS="social,content">10 Ways To Put Your Content In Front Of More People | How-To | Smashing Magazine</A></DT>
+<DT><A HREF="http://www.sebleedelisle.com/" ADD_DATE="1242136209" PRIVATE="0" TAGS="actionscript,javascript,stack-3D-Graphics">Seb Lee-Delisle</A></DT>
+<DT><A HREF="http://artimes.rouli.net/" ADD_DATE="1242136131" PRIVATE="0" TAGS="3d,augmentedreality">Augmented Times</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/05/11/15-fresh-high-quality-free-fonts/" ADD_DATE="1242125092" PRIVATE="0" TAGS="typography">15 Fresh High-Quality Free Fonts | Fonts | Smashing Magazine</A></DT>
+<DT><A HREF="http://www.dafont.com/geobats.font" ADD_DATE="1242060278" PRIVATE="0" TAGS="map,typography,geography">GeoBats Font | dafont.com</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/03/19/getting-started-with-ruby-on-rails/" ADD_DATE="1242048938" PRIVATE="0" TAGS="tutorial,rubyonrails,ruby">Getting Started With Ruby On Rails | How-To | Smashing Magazine</A></DT>
+<DT><A HREF="http://ministryoftype.co.uk/" ADD_DATE="1242048867" PRIVATE="0" TAGS="design,typography">The Ministry of Type</A></DT>
+<DT><A HREF="http://reactivision.sourceforge.net/" ADD_DATE="1241992350" PRIVATE="0" TAGS="interaction,augmentedreality,framework,multitouch,computer.vision">reacTIVision</A></DT>
+<DT><A HREF="http://www.openframeworks.cc/" ADD_DATE="1241991943" PRIVATE="0" TAGS="programming,interaction,framework">openFrameworks</A></DT>
+<DT><A HREF="http://www.multitouch-barcelona.com/" ADD_DATE="1241991868" PRIVATE="0" TAGS="multitouch,performance,interface,interaction,physicalcomputing">Multitouch Barcelona</A></DT>
+<DT><A HREF="http://www.prologue.com/" ADD_DATE="1241991817" PRIVATE="0" TAGS="design,video,motion.graphic">PROLOGUE</A></DT>
+<DT><A HREF="http://www.aaronkoblin.com/work.html" ADD_DATE="1241991730" PRIVATE="0" TAGS="actionscript,programming,idea,interface">Aaron Koblin - Work</A></DT>
+<DT><A HREF="http://www.uva.co.uk/" ADD_DATE="1241991662" PRIVATE="0" TAGS="interaction,installation,physicalcomputing">UnitedVisualArtists » Selected Projects</A></DT>
+<DT><A HREF="http://www.designboom.com/contemporary/windtolight.html" ADD_DATE="1241991572" PRIVATE="0" TAGS="idea,interaction,lighting">wind to light installation by jason bruges</A></DT>
+<DT><A HREF="http://www.jasonbruges.com/" ADD_DATE="1241991493" PRIVATE="0" TAGS="interaction,architecture,installation,lighting">Jason Bruges Studio | Welcome</A></DT>
+<DT><A HREF="http://vimeo.com/postspectacular/videos" ADD_DATE="1241991442" PRIVATE="0" TAGS="interaction,installation">postspectacular's videos on Vimeo</A></DT>
+<DT><A HREF="http://postspectacular.com/" ADD_DATE="1241991357" PRIVATE="0" TAGS="computer.graphics,interaction,installation">PostSpectacular</A></DT>
+<DT><A HREF="http://thingsihavelearnedinmylife.com/" ADD_DATE="1241990415" PRIVATE="0" TAGS="idea,life">Things I have learned in my life so far</A></DT>
+<DT><A HREF="http://www.restart.pt/" ADD_DATE="1241977745" PRIVATE="0" TAGS="art,newmedia,school">RESTART | escola de criatividade e novas tecnologias</A></DT>
+<DT><A HREF="http://www.atmosferas.net/" ADD_DATE="1241977702" PRIVATE="0" TAGS="art,interaction,newmedia,school">Atmosferas</A></DT>
+<DT><A HREF="http://www.cada1.net/" ADD_DATE="1241977637" PRIVATE="0" TAGS="interaction,technology,school">CADA</A></DT>
+<DT><A HREF="http://www.elasticspace.com/" ADD_DATE="1241976150" PRIVATE="0" TAGS="interaction,augmentedreality">Timo Arnall</A></DT>
+<DT><A HREF="http://interactionfield.de/" ADD_DATE="1241975847" PRIVATE="0" TAGS="interaction,architecture,installation">Interactionfield - public space</A></DT>
+<DT><A HREF="http://universaleverything.com/" ADD_DATE="1241975572" PRIVATE="0" TAGS="interaction,installation,physicalcomputing">Universal Everything / Index</A></DT>
+<DT><A HREF="http://code.google.com/intl/en/apis/youtube/flash_api_reference.html" ADD_DATE="1241622311" PRIVATE="0" TAGS="actionscript,flash,api,video">YouTube ActionScript 3.0 Player API Reference</A></DT>
+<DT><A HREF="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html" ADD_DATE="1240846765" PRIVATE="0" TAGS="http">HTTP/1.1: Status Code Definitions</A></DT>
+<DT><A HREF="http://aviary.com/home" ADD_DATE="1240495043" PRIVATE="0" TAGS="tool,image">Aviary</A></DT>
+<DT><A HREF="http://www.josefhoflehner.com/" ADD_DATE="1240493347" PRIVATE="0" TAGS="portfolio,photography">Josef Hoflehner // Nature Photographer of the Year</A></DT>
+<DT><A HREF="http://www.swfir.com/" ADD_DATE="1240382447" PRIVATE="0" TAGS="text,tool,image">swfIR: swf Image Replacement</A></DT>
+<DT><A HREF="http://www.dynamicdiagrams.com/index.php" ADD_DATE="1240382329" PRIVATE="0" TAGS="visualization,information.design">Dynamic Diagrams :</A></DT>
+<DT><A HREF="http://www.jiglibflash.com/blog/" ADD_DATE="1240322167" PRIVATE="0" TAGS="actionscript,library,3d,physics">JiglibFlash - 3D Physics Engine AS3 - jiglib</A></DT>
+<DT><A HREF="http://drawlogic.com/" ADD_DATE="1240321992" PRIVATE="0" TAGS="web,game,flash,3d,news">*drawlogic - interactive and game development technologies for the web - flash, flex, unity3d, silverlight, javascript [ draw.logic ]</A></DT>
+<DT><A HREF="http://mtg.upf.edu/reactable/?media" ADD_DATE="1240270478" PRIVATE="0" TAGS="interaction,music,physicalcomputing">reactable media</A></DT>
+<DT><A HREF="http://www.mtad.dsi.uminho.pt/" ADD_DATE="1240267386" PRIVATE="0" TAGS="art,newmedia,school">Mestrado em Tecnologia e Arte Digital</A></DT>
+<DT><A HREF="http://www.janvaneyck.nl/" ADD_DATE="1240267180" PRIVATE="0" TAGS="design,theory,school,research">Jan van Eyck Academie</A></DT>
+<DT><A HREF="http://sourceforge.net/adobe/cairngorm/home/Home/" ADD_DATE="1240227619" PRIVATE="0" TAGS="flex,actionscript,framework">Cairngorm - Cairngorm - Confluence</A></DT>
+<DT><A HREF="http://www.adobe.com/devnet/flex/articles/cairngorm_pt1.html" ADD_DATE="1240227535" PRIVATE="0" TAGS="actionscript,tutorial,framework,flex">Developing Flex RIAs with Cairngorm microarchitecture – Part 1: Introducing Cairngorm | Adobe Developer Connection</A></DT>
+<DT><A HREF="http://puremvc.org/content/view/67/178/" ADD_DATE="1240226942" PRIVATE="0" TAGS="actionscript,framework">PureMVC - About</A></DT>
+<DT><A HREF="http://www.photomichaelwolf.com/intro/index.html" ADD_DATE="1240144443" PRIVATE="0" TAGS="photography,architecture,urbanism">MICHAEL WOLF | PHOTOGRAPHY | HONGKONG</A></DT>
+<DT><A HREF="http://www.youtube.com/watch?v=AklKy2NDpqs&amp;feature=related" ADD_DATE="1240090762" PRIVATE="0" TAGS="interaction,music,physicalcomputing">YouTube - the reacTogon - chain reactive performance arpeggiator</A></DT>
+<DT><A HREF="http://www.barebones.com/products/TextWrangler/" ADD_DATE="1240008925" PRIVATE="0" TAGS="programming,tool">Bare Bones Software | TextWrangler</A></DT>
+<DT><A HREF="http://theflashblog.com/?p=901" ADD_DATE="1239993674" PRIVATE="0" TAGS="flash,3d,tutorial,augmentedreality">The Flash Blog » New video tutorial on augmented reality</A></DT>
+<DT><A HREF="http://wiiflash.bytearray.org/" ADD_DATE="1239977658" PRIVATE="0" TAGS="actionscript,interaction,api,augmentedreality">WiiFlash.org : Wiimote and Flash</A></DT>
+<DT><A HREF="http://www.bytearray.org/" ADD_DATE="1239977580" PRIVATE="0" TAGS="actionscript,tutorial">ByteArray.org > Actionscript 3 Experiments</A></DT>
+<DT><A HREF="http://theflashblog.com/" ADD_DATE="1239976053" PRIVATE="0" TAGS="flash,actionscript,tutorial">The Flash Blog</A></DT>
+<DT><A HREF="http://www.iconpot.com/" ADD_DATE="1239718201" PRIVATE="0" TAGS="icon">iconPot - totally free icons</A></DT>
+<DT><A HREF="http://www.degrafa.org/" ADD_DATE="1239717395" PRIVATE="0" TAGS="flash,graphic,framework">Degrafa : Declarative Graphics Framework</A></DT>
+<DT><A HREF="http://haxe.org/doc/start/flash" ADD_DATE="1239631510" PRIVATE="0" TAGS="programming,language,actionscript,tool,compiler">haXe - Começando com haXe / Flash</A></DT>
+<DT><A HREF="http://haxe.org/" ADD_DATE="1239631174" PRIVATE="0" TAGS="actionscript,tool">haXe - Bem-vindo ao haXe !</A></DT>
+<DT><A HREF="http://www.sepy.it/" ADD_DATE="1239630928" PRIVATE="0" TAGS="actionscript,tool">SE|PY, the editor, the blog</A></DT>
+<DT><A HREF="http://jedit.sourceforge.net/index.php?page=quickstart" ADD_DATE="1239630578" PRIVATE="0" TAGS="actionscript,tool">jEdit - Programmer's Text Editor - quick start guide</A></DT>
+<DT><A HREF="http://osflash.org/projects" ADD_DATE="1239630399" PRIVATE="0" TAGS="flash,actionscript,tool,library">Projects Open Source Flash</A></DT>
+<DT><A HREF="http://www.f-i.com/work/all" ADD_DATE="1239264647" PRIVATE="0" TAGS="company,interface,design,web,portfolio">Fi – The Interactive Firm: Our Work</A></DT>
+<DT><A HREF="http://stamen.com/" ADD_DATE="1239264080" PRIVATE="0" TAGS="geography,visualization,information.design,interface,map,stack-Data-Visualization--Information-Design">stamen design | big ideas worth pursuing</A></DT>
+<DT><A HREF="http://www.gaiaflashframework.com/" ADD_DATE="1239263896" PRIVATE="0" TAGS="actionscript,library,framework">Gaia Framework for Adobe Flash</A></DT>
+<DT><A HREF="http://www.hcibib.org/" ADD_DATE="1239263794" PRIVATE="0" TAGS="interaction,book">HCI Bibliography : Human-Computer Interaction / User Interface Usability</A></DT>
+<DT><A HREF="http://www.uie.com/brainsparks/" ADD_DATE="1239263423" PRIVATE="0" TAGS="interface,web,usability,stack-Interface-Design--Interaction-Design">UIE Brain Sparks</A></DT>
+<DT><A HREF="http://www.boxesandarrows.com/" ADD_DATE="1239263285" PRIVATE="0" TAGS="interaction,web,usability,information.architecture">Boxes and Arrows: The design behind the design</A></DT>
+<DT><A HREF="http://www.uie.com/" ADD_DATE="1239262893" PRIVATE="0" TAGS="interface,web,usability">User Interface Engineering - Usability Research, Training, and Events - UIE</A></DT>
+<DT><A HREF="http://www.blooberry.com/indexdot/html/topics/urlencoding.htm" ADD_DATE="1239033752" PRIVATE="0" TAGS="encoding">URL Encoding</A></DT>
+<DT><A HREF="http://www.kvarch.com.br/" ADD_DATE="1238767783" PRIVATE="0" TAGS="flash,design">Königsberger Vannucchi</A></DT>
+<DT><A HREF="http://www.pokelondon.com/portfolio/orange/balloonacy/" ADD_DATE="1238767205" PRIVATE="0" TAGS="web,idea">Balloonacy for Orange | POKE</A></DT>
+<DT><A HREF="http://blog.jwwisman.nl/2009/03/23/flartoolkit-single-multiplemarker-detection/" ADD_DATE="1238683089" PRIVATE="0" TAGS="actionscript,library,augmentedreality">FLARToolkit Single and MultipleMarker Detection : CODEXPERIMENTS</A></DT>
+<DT><A HREF="http://www.libspark.org/wiki/saqoosha/FLARToolKit/en" ADD_DATE="1238683014" PRIVATE="0" TAGS="actionscript,library,3d,augmentedreality">saqoosha/FLARToolKit/en - Spark project</A></DT>
+<DT><A HREF="http://blog.jwwisman.nl/" ADD_DATE="1238681837" PRIVATE="0" TAGS="computer.graphics,programming,actionscript,experiment">CODEXPERIMENTS</A></DT>
+<DT><A HREF="http://www.stumbleupon.com/" ADD_DATE="1238681392" PRIVATE="0" TAGS="bookmarking">StumbleUpon: Personalized Recommendations to Help You Discover the Best of the Web</A></DT>
+<DT><A HREF="http://thetravelersnotebook.com/" ADD_DATE="1238681356" PRIVATE="0" TAGS="travel">Travel Writing | Travel Photography | Travel Tips | Green Travel -- TheTravelersNotebook.com</A></DT>
+<DT><A HREF="http://www.ixda.org/" ADD_DATE="1238680570" PRIVATE="0" TAGS="design,interaction,usability">Interaction Design Association</A></DT>
+<DT><A HREF="http://informationdesign.org/" ADD_DATE="1238659730" PRIVATE="0" TAGS="information.design,interface,design,interaction">InfoDesign: Understanding by Design - News</A></DT>
+<DT><A HREF="http://vimeo.com/user1128734" ADD_DATE="1238659569" PRIVATE="0" TAGS="design,interaction">Interaction Design Association on Vimeo</A></DT>
+<DT><A HREF="http://cadre.sjsu.edu/" ADD_DATE="1238658756" PRIVATE="0" TAGS="art,technology,newmedia,newmedia">The CADRE Laboratory for New Media</A></DT>
+<DT><A HREF="http://at-c.org/" ADD_DATE="1238658591" PRIVATE="0" TAGS="multimedia,music,electronics,performance">@c</A></DT>
+<DT><A HREF="http://www.chromazone-imaging.co.uk/flashindex.html" ADD_DATE="1238496084" PRIVATE="0" TAGS="flash,design,navigation,3d">Chromazone - About Us - Digital Imaging for Display, Exhibition and Point of Sale Graphics</A></DT>
+<DT><A HREF="http://fluid.nl/" ADD_DATE="1238491098" PRIVATE="0" TAGS="web,design">Fluid | Remon Tijssen | Dynamic Media Design</A></DT>
+<DT><A HREF="http://www.tutorial9.net/" ADD_DATE="1238432672" PRIVATE="0" TAGS="camera,css,html,web,photography,tutorial">Tutorial9 - The Best Tutorials and Resources. Free.</A></DT>
+<DT><A HREF="http://www.flasheff.com/freedownload/" ADD_DATE="1238422900" PRIVATE="0" TAGS="flash,component">Flasheff</A></DT>
+<DT><A HREF="http://www.grafikonstruct.com.br/activity/" ADD_DATE="1238403124" PRIVATE="0" TAGS="company,web,portfolio,design">Grafikonstruct Activity</A></DT>
+<DT><A HREF="http://www.itsnicethat.com/" ADD_DATE="1238084829" PRIVATE="0" TAGS="image,bookmarking">It's Nice That</A></DT>
+<DT><A HREF="http://www.imgspark.com/" ADD_DATE="1238079403" PRIVATE="0" TAGS="image,bookmarking">Image Spark</A></DT>
+<DT><A HREF="http://the99percent.com/" ADD_DATE="1237992156" PRIVATE="0" TAGS="management,process,creativity,idea,news,stack-Research-Science-Future">Making Ideas Happen</A></DT>
+<DT><A HREF="http://whos.amung.us/" ADD_DATE="1237991077" PRIVATE="0" TAGS="internet,tool,web,analytics">whos.amung.us</A></DT>
+<DT><A HREF="http://www.ted.com/index.php/" ADD_DATE="1237552358" PRIVATE="0" TAGS="technology,news">TED: Ideas worth spreading</A></DT>
+<DT><A HREF="http://five3d.mathieu-badimon.com/" ADD_DATE="1237459423" PRIVATE="0" TAGS="actionscript,library,3d">Mathieu Badimon | FIVe3D</A></DT>
+<DT><A HREF="http://lab.mathieu-badimon.com/" ADD_DATE="1237459209" PRIVATE="0" TAGS="flash,actionscript,showcase">LAB | Mathieu Badimon</A></DT>
+<DT><A HREF="http://www.flashmagazine.com/" ADD_DATE="1237454249" PRIVATE="0" TAGS="flash,actionscript,tutorial,news">Home > Flash Magazine</A></DT>
+<DT><A HREF="http://www.flashmagazine.com/Tutorials/detail/flash_3d_basics/" ADD_DATE="1237454128" PRIVATE="0" TAGS="actionscript,3d,tutorial">Flash 3D Basics > Tutorials > Flash Magazine</A></DT>
+<DT><A HREF="http://vi.sualize.us/" ADD_DATE="1237453429" PRIVATE="0" TAGS="image,bookmarking">social bookmarking for images on vi.sualize.us</A></DT>
+<DT><A HREF="http://weheartit.com/" ADD_DATE="1237453389" PRIVATE="0" TAGS="image,bookmarking">We heart it / Visual bookmark for everyone</A></DT>
+<DT><A HREF="http://ffffound.com/" ADD_DATE="1237453355" PRIVATE="0" TAGS="image,bookmarking">FFFFOUND!</A></DT>
+<DT><A HREF="http://www.bittbox.com/resources/35-stunning-hi-res-public-domain-astronomy-images/" ADD_DATE="1237195528" PRIVATE="0" TAGS="image,astronomy">35 Stunning Hi-Res “Public Domain” Astronomy Images | BittBox</A></DT>
+<DT><A HREF="http://www.arpitonline.com/blog/" ADD_DATE="1236939761" PRIVATE="0" TAGS="flash,technology">code zen</A></DT>
+<DT><A HREF="http://www.sapdesignguild.org/community/book_people/review_tech_experience.asp" ADD_DATE="1236939550" PRIVATE="0" TAGS="technology,userexperience">Book Review: Technology as Experience</A></DT>
+<DT><A HREF="http://books.google.com/books/mitpress?id=HNoFHl5FQq4C&amp;printsec=frontcover&amp;hl=pt-PT&amp;source=gbs_ViewAPI#PPA79,M1" ADD_DATE="1236939489" PRIVATE="0" TAGS="technology,userexperience">Technology as Experience - Pesquisa de livros do Google</A></DT>
+<DT><A HREF="http://www.adaptivepath.com/blog/category/physical-computing/" ADD_DATE="1236903918" PRIVATE="0" TAGS="interaction,physicalcomputing">adaptive path : physical computing</A></DT>
+<DT><A HREF="http://www.adaptivepath.com/blog/category/project-management/" ADD_DATE="1236903818" PRIVATE="0" TAGS="project,management">adaptive path : project management</A></DT>
+<DT><A HREF="http://www.adaptivepath.com/blog/2008/07/09/adventures-in-physical-computing-part-1-adaptive-paths-interaction-design-lab/" ADD_DATE="1236903525" PRIVATE="0" TAGS="interaction,electronics,physicalcomputing">adaptive path : physical computing lab</A></DT>
+<DT><A HREF="http://tenser.typepad.com/tenser_said_the_tensor/2006/04/the_embedding_b.html" ADD_DATE="1236902088" PRIVATE="0" TAGS="book,language">The Embedding by Ian Watson</A></DT>
+<DT><A HREF="http://www.makingmeaning.org/meanings.html" ADD_DATE="1236901676" PRIVATE="0" TAGS="design,book,userexperience">Making Meaning | 15 Meanings</A></DT>
+<DT><A HREF="http://www.alistapart.com/topics/process" ADD_DATE="1236901343" PRIVATE="0" TAGS="process,project,management">A List Apart: Topics: Process</A></DT>
+<DT><A HREF="http://www.adaptivepath.com/" ADD_DATE="1236901005" PRIVATE="0" TAGS="userexperience,design,web,usability">adaptive path » product experience strategy and design</A></DT>
+<DT><A HREF="http://www.interaction-design.org/" ADD_DATE="1236900933" PRIVATE="0" TAGS="design,interaction,usability,stack-Interface-Design--Interaction-Design">Interaction-Design.org</A></DT>
+<DT><A HREF="http://www.nathan.com/" ADD_DATE="1236900904" PRIVATE="0" TAGS="design,interaction,usability">Nathan Shedroff's World</A></DT>
+<DT><A HREF="http://www.alistapart.com/" ADD_DATE="1236900822" PRIVATE="0" TAGS="design,web">A List Apart: A List Apart</A></DT>
+<DT><A HREF="http://www.sciencegallery.com/" ADD_DATE="1236268978" PRIVATE="0" TAGS="art,gallery,technology,science,stack-Research-Science-Future">Science Gallery</A></DT>
+<DT><A HREF="http://www.chrisoshea.org/" ADD_DATE="1236265841" PRIVATE="0" TAGS="art,interaction">Chris O'Shea</A></DT>
+<DT><A HREF="http://www.apple.com/aperture/" ADD_DATE="1236264623" PRIVATE="0" TAGS="tool,photography">Apple - Aperture</A></DT>
+<DT><A HREF="http://thewadebrothers.com/" ADD_DATE="1236092318" PRIVATE="0" TAGS="portfolio,photography">Lyndon Wade | Photographer</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2009/03/02/twitter-web-designer-and-developer-toolbox-api-and-tutorials/" ADD_DATE="1236075715" PRIVATE="0" TAGS="api,tutorial">50 Twitter Tools and Tutorials For Designers and Developers | Developer's Toolbox | Smashing Magazine</A></DT>
+<DT><A HREF="http://www.electronicbookreview.com/" ADD_DATE="1236073197" PRIVATE="0" TAGS="writing,culture,web,newmedia,book,stack-Research-Science-Future">electronicbookreview.com</A></DT>
+<DT><A HREF="http://www.sfmoma.org/" ADD_DATE="1236072862" PRIVATE="0" TAGS="art,gallery">San Francisco Museum of Modern Art</A></DT>
+<DT><A HREF="http://away3d.com/livedocs/" ADD_DATE="1235989639" PRIVATE="0" TAGS="actionscript,3d">Object3D - Away3D API Reference</A></DT>
+<DT><A HREF="http://stimulant.io/" ADD_DATE="1235815476" PRIVATE="0" TAGS="interface,design">Stimulant</A></DT>
+<DT><A HREF="http://www.google.com/analytics/" ADD_DATE="1235814898" PRIVATE="0" TAGS="tool,web,analytics">Google Analytics</A></DT>
+<DT><A HREF="http://who.is/" ADD_DATE="1235814869" PRIVATE="0" TAGS="tool,search,dns">Who.is: Universal Whois Lookup</A></DT>
+<DT><A HREF="http://www.alexa.com/" ADD_DATE="1235814832" PRIVATE="0" TAGS="tool,web,search,analytics">Alexa the Web Information Company</A></DT>
+<DT><A HREF="http://www.nextnature.net/?page_id=3112" ADD_DATE="1235746809" PRIVATE="0" TAGS="technology,idea">A visual introduction into Next Nature</A></DT>
+<DT><A HREF="http://hehe.org.free.fr/" ADD_DATE="1235746722" PRIVATE="0" TAGS="installation,interaction,physicalcomputing">HeHe</A></DT>
+<DT><A HREF="http://www.visualcomplexity.com/vc/" ADD_DATE="1235667299" PRIVATE="0" TAGS="showcase,visualization,information.design,interface,stack-Data-Visualization--Information-Design">visualcomplexity.com | A visual exploration on mapping complex networks</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Latin_characters_in_Unicode" ADD_DATE="1235644718" PRIVATE="0" TAGS="encoding,text">Latin characters in Unicode - Wikipedia, the free encyclopedia</A></DT>
+<DT><A HREF="http://www.unicode.org/charts/" ADD_DATE="1235644573" PRIVATE="0" TAGS="encoding,text">Code Charts - Scripts</A></DT>
+<DT><A HREF="http://www.fincd.com/" ADD_DATE="1235492897" PRIVATE="0" TAGS="finnish,dictionary">English Finnish Dictionary, Finish dictionary translate-Finnish to English translation, try Finnish translator to English translation to help you learn Finnish language, Finnish English and English Finnish translation both way, Finnish English online transl</A></DT>
+<DT><A HREF="http://www.creativecloseup.com/15-incredible-conceptual-designs-you-wish-existed" ADD_DATE="1235040905" PRIVATE="0" TAGS="design,idea,idea">15 Incredible Conceptual Designs You Wish Existed</A></DT>
+<DT><A HREF="http://www.studioroosegaarde.nl/" ADD_DATE="1234967487" PRIVATE="0" TAGS="installation,art,interaction,physicalcomputing">Studio Roosegaarde 4.0 - explorations in art and technology - Daan Roosegaarde</A></DT>
+<DT><A HREF="http://opensource.adobe.com/wiki/display/site/Home" ADD_DATE="1234954848" PRIVATE="0" TAGS="software,actionscript,community,stack-Web-Development">Home - Adobe Open Source - Confluence</A></DT>
+<DT><A HREF="http://www.flashdevelop.org/wikidocs/index.php?title=Features" ADD_DATE="1234953769" PRIVATE="0" TAGS="actionscript,tool">FlashDevelop</A></DT>
+<DT><A HREF="http://www.columbia.edu/kermit/utf8-t1.html" ADD_DATE="1234807269" PRIVATE="0" TAGS="encoding,text">Unicode 4.0 / ISO 10646 Plane 0</A></DT>
+<DT><A HREF="http://blog.botnik.net/" ADD_DATE="1234625745" PRIVATE="0" TAGS="web,art">something for the mess age</A></DT>
+<DT><A HREF="http://elgoog.rb-hosting.de/index.cgi" ADD_DATE="1234625542" PRIVATE="0" TAGS="web,tool,politics">elgooG</A></DT>
+<DT><A HREF="http://michaelkargl.com/" ADD_DATE="1234625232" PRIVATE="0" TAGS="web,art,portfolio">carlos katastrofsky</A></DT>
+<DT><A HREF="http://www.netmag.co.uk/" ADD_DATE="1234624982" PRIVATE="0" TAGS="web,design,magazine,stack-Web-Development">Home - .net magazine</A></DT>
+<DT><A HREF="http://www.radio24.ilsole24ore.com/" ADD_DATE="1234624887" PRIVATE="0" TAGS="Italia,radio">Radio 24: news in diretta e in tempo reale, mp3 e podcast</A></DT>
+<DT><A HREF="http://www.shift.pt/" ADD_DATE="1234624613" PRIVATE="0" TAGS="technology,event,social">SHiFT'08</A></DT>
+<DT><A HREF="http://offf.ws/" ADD_DATE="1234624570" PRIVATE="0" TAGS="art,newmedia,event">OFFF Oeiras'09 · 7, 8, 9 May 2009 · Fail Gracefully @ OFFF</A></DT>
+<DT><A HREF="http://www.manovich.net/" ADD_DATE="1234624476" PRIVATE="0" TAGS="newmedia,theory">Lev Manovich</A></DT>
+<DT><A HREF="http://www.bestiario.org/" ADD_DATE="1234624249" PRIVATE="0" TAGS="interaction,visualization,information.design,navigation,interface,3d">http://www.bestiario.org/</A></DT>
+<DT><A HREF="http://getfirebug.com/" ADD_DATE="1234620840" PRIVATE="0" TAGS="tool">Firebug - Web Development Evolved</A></DT>
+<DT><A HREF="http://karmatics.com/aardvark/" ADD_DATE="1234620810" PRIVATE="0" TAGS="css,tool">Aardvark Firefox Extension</A></DT>
+<DT><A HREF="http://docs.google.com/Doc?id=d755mfb_18f26d7xdm" ADD_DATE="1234617599" PRIVATE="0" TAGS="web,art,technology">ARTE E TÉCNICA</A></DT>
+<DT><A HREF="http://www.flashcomponents.net/" ADD_DATE="1234459577" PRIVATE="0" TAGS="flash,component">Flash Components - Menu, Gallery, Slideshow, FLV player component</A></DT>
+<DT><A HREF="http://flashloaded.com/" ADD_DATE="1234459568" PRIVATE="0" TAGS="flash,component">Flash Components | Menu, Gallery, Slideshow, FLV Player component</A></DT>
+<DT><A HREF="http://away3d.com/" ADD_DATE="1234443830" PRIVATE="0" TAGS="actionscript,flash,library,3d">Away3D Flash Engine</A></DT>
+<DT><A HREF="http://www.flashsandy.org/download" ADD_DATE="1234443822" PRIVATE="0" TAGS="actionscript,flash,library,3d">Sandy 3D engine (AS3 and AS2) for Adobe Flash/download</A></DT>
+<DT><A HREF="http://www.thefwa.com/" ADD_DATE="1234175049" PRIVATE="0" TAGS="flash,showcase,stack-Web-Development">The FWA: Favourite Website Awards - Web awards at the cutting edge</A></DT>
+<DT><A HREF="http://www.webdesignerwall.com/" ADD_DATE="1234174895" PRIVATE="0" TAGS="stack-Web-Development,showcase,design,css">Web Designer Wall - Design Trends and Tutorials</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/" ADD_DATE="1234174845" PRIVATE="0" TAGS="showcase,design,stack-Web-Development">Smashing Magazine</A></DT>
+<DT><A HREF="http://www.smashingmagazine.com/2007/10/30/65-excellent-flash-designs/" ADD_DATE="1234174811" PRIVATE="0" TAGS="flash,design,showcase">65 Excellent Flash Designs | Design Showcase | Smashing Magazine</A></DT>
+<DT><A HREF="http://128.111.69.4/~jevbratt/lifelike/artists/goldin/index.html" ADD_DATE="1234123714" PRIVATE="0" TAGS="web,art">ron goldin</A></DT>
+<DT><A HREF="http://128.111.69.4/~jevbratt/lifelike/artists/prisco/index.html" ADD_DATE="1234123682" PRIVATE="0" TAGS="web,art">giuseppe prisco</A></DT>
+<DT><A HREF="http://www.jtnimoy.net/textension/" ADD_DATE="1234122032" PRIVATE="0" TAGS="newmedia,art">Textension, 10 Interactive Typing Experiences by Josh Nimoy</A></DT>
+<DT><A HREF="http://www.mozbox.org/pub/demos/svg/foreignobject.svg" ADD_DATE="1234120765" PRIVATE="0" TAGS="svg">http://www.mozbox.org/pub/demos/svg/foreignobject.svg</A></DT>
+<DT><A HREF="http://www.jimpunk.com/www.-reverse.-flash-.-.back-/" ADD_DATE="1234119625" PRIVATE="0" TAGS="web,art">www.-reverse.-flash-.-.back-</A></DT>
+<DT><A HREF="http://rhizome.org/art/exhibition/artbase101/" ADD_DATE="1234118925" PRIVATE="0" TAGS="web,art">Rhizome | RHIZOME ARTBASE 101</A></DT>
+<DT><A HREF="http://www.neonsky.com/" ADD_DATE="1234118449" PRIVATE="0" TAGS="photography,portfolio,tool">Neon Sky Creative Media, Inc. | Interactive Design and Professional Online Portfolios</A></DT>
+<DT><A HREF="https://developer.mozilla.org/en/SVG" ADD_DATE="1234117438" PRIVATE="0" TAGS="svg">SVG - MDC</A></DT>
+<DT><A HREF="http://googlegeodevelopers.blogspot.com/" ADD_DATE="1233923688" PRIVATE="0" TAGS="map,api,geography">Geo Developers Blog</A></DT>
+<DT><A HREF="http://code.google.com/intl/pt-PT/apis/maps/documentation/flash/" ADD_DATE="1233923611" PRIVATE="0" TAGS="map,flash,api">Google Maps API for Flash - Google Code</A></DT>
+<DT><A HREF="http://wwwwwwwww.jodi.org/" ADD_DATE="1233785406" PRIVATE="0" TAGS="web,art">%Location | http://wwwwwwwww.jodi.org</A></DT>
+<DT><A HREF="http://www.bio-bak.nl/" ADD_DATE="1233785139" PRIVATE="0" TAGS="web,art,flash">bio-bak.nl - now featured in 1000 megapixels!</A></DT>
+<DT><A HREF="http://deepsites.maxbruinsma.nl/" ADD_DATE="1233785076" PRIVATE="0" TAGS="web,design,showcase">Deep Sites</A></DT>
+<DT><A HREF="http://jevbratt.com/projects.html" ADD_DATE="1233785030" PRIVATE="0" TAGS="database,web,art,research">Lisa Jevbratt</A></DT>
+<DT><A HREF="http://www.artcoup.com/movie.html" ADD_DATE="1233325389" PRIVATE="0" TAGS="photography,portfolio">boogie | photographer</A></DT>
+<DT><A HREF="https://developer.mozilla.org/En/Demos_of_open_web_technologies" ADD_DATE="1233317076" PRIVATE="0" TAGS="web,technology">Demos of open web technologies - MDC</A></DT>
+<DT><A HREF="http://www.w3.org/TR/SVG/interact.html" ADD_DATE="1233314055" PRIVATE="0" TAGS="svg,javascript,interaction">Interactivity - SVG 1.1 - 20030114</A></DT>
+<DT><A HREF="http://www.mikeindustries.com/blog/sifr/" ADD_DATE="1233164296" PRIVATE="0" TAGS="flash,typography">Mike Davidson - sIFR</A></DT>
+<DT><A HREF="http://www.christeso.com/index.php/tag/webcam/" ADD_DATE="1233161084" PRIVATE="0" TAGS="motion.track,video,interaction">Webcam | Chris Teso - Director of Interactive : Flash Designer Developer : Portland Photographer</A></DT>
+<DT><A HREF="http://www.pagecrush.net/" ADD_DATE="1233137697" PRIVATE="0" TAGS="flash,design,showcase">PageCrush - Inspirational Design Hub™</A></DT>
+<DT><A HREF="http://www.strangefruits.nl/" ADD_DATE="1233137060" PRIVATE="0" TAGS="flash,design,showcase,stack-Web-Development">SF art and design portal</A></DT>
+<DT><A HREF="http://www.edificiabbandonati.com/" ADD_DATE="1231923523" PRIVATE="0" TAGS="photography,Italia">Fotografie e notizie di edifici abbandonati in Italia</A></DT>
+<DT><A HREF="http://vimeo.com/432353" ADD_DATE="1230632951" PRIVATE="0" TAGS="sensor,interaction,physicalcomputing">Theremug on Vimeo</A></DT>
+<DT><A HREF="http://www.masternewmedia.org/news/2006/04/06/video_editing_publishing_and_remixing.htm" ADD_DATE="1227628334" PRIVATE="0" TAGS="video">Video Editing, Publishing And Remixing Online Is Here - Robin Good's Latest News</A></DT>
+<DT><A HREF="http://www.smartdraw.com/specials/ppc/flow-chart.htm?id=48763&amp;gclid=CK_l0_rEgZcCFQKfnAod9Bq7Xg" ADD_DATE="1227113399" PRIVATE="0" TAGS="tool,visualization">Flow chart Software - Download SmartDraw FREE for easy flow chart and process flow documentation tools and resources!</A></DT>
+<DT><A HREF="http://marstonstudio.com/2007/07/09/question-about-rest-and-as3/" ADD_DATE="1227090973" PRIVATE="0" TAGS="flash,webservice">question about rest xml and flash as3 — Marston Development Studio</A></DT>
+<DT><A HREF="http://www.makingthings.com/" ADD_DATE="1227085000" PRIVATE="0" TAGS="sensor,hardware,interaction,physicalcomputing">Welcome — MakingThings</A></DT>
+<DT><A HREF="http://www.physicalinteractionlab.com/" ADD_DATE="1227084713" PRIVATE="0" TAGS="interaction,hardware,sensor,physicalcomputing">Physical Interaction Lab - News</A></DT>
+<DT><A HREF="http://www.gotoandlearn.com/" ADD_DATE="1223478893" PRIVATE="0" TAGS="actionscript,flash,tutorial,stack-Web-Development">gotoandlearn.com - Free video tutorials by Lee Brimelow on the Flash Platform</A></DT>
+<DT><A HREF="http://efe.scape.net/index.php" ADD_DATE="1221726697" PRIVATE="0" TAGS="language,finnish,dictionary">English-Finnish-English Online Dictionary</A></DT>
+<DT><A HREF="http://donnerwetter.kielikeskus.helsinki.fi/FinnishForForeigners/" ADD_DATE="1221726670" PRIVATE="0" TAGS="language,finnish">Tavataan taas!</A></DT>
+<DT><A HREF="http://www.uuno.tamk.fi/" ADD_DATE="1221726638" PRIVATE="0" TAGS="finnish,Finland">:: UUNO Portal ::</A></DT>
+<DT><A HREF="http://www.riapt.org/" ADD_DATE="1221212983" PRIVATE="0" TAGS="interface.development,flash,community">Comunidade Portuguesa de Rich Internet Applications</A></DT>
+<DT><A HREF="http://ajaxian.com/archives/interface-elements-for-jquery" ADD_DATE="1220271216" PRIVATE="0" TAGS="javascript,library,jquery">Ajaxian » Interface Elements for jQuery</A></DT>
+<DT><A HREF="http://128.111.69.4/~jevbratt/lifelike/" ADD_DATE="1219138340" PRIVATE="0" TAGS="web,art">Mapping The Web Infome</A></DT>
+<DT><A HREF="http://www.banffcentre.ca/" ADD_DATE="1219138311" PRIVATE="0" TAGS="art">Banff Centre</A></DT>
+<DT><A HREF="https://domize.com/" ADD_DATE="1219073867" PRIVATE="0" TAGS="dns">Domize - The Better Instant Domain Name Search Tool. Described by Mashable.com as "The Fastest Domain Name Search Ever"!</A></DT>
+<DT><A HREF="http://tools.dynamicdrive.com/favicon/" ADD_DATE="1216390807" PRIVATE="0" TAGS="icon">Dynamic Drive- FavIcon Generator</A></DT>
+<DT><A HREF="http://www.web-design-list.com/" ADD_DATE="1216287673" PRIVATE="0" TAGS="web,design,directory,css">Web Design Resources - Web Design List</A></DT>
+<DT><A HREF="http://www.campaignmonitor.com/" ADD_DATE="1216204444" PRIVATE="0" TAGS="email">Email Newsletter Software for Web Designers - Campaign Monitor</A></DT>
+<DT><A HREF="http://docs.jquery.com/Main_Page" ADD_DATE="1215610339" PRIVATE="0" TAGS="documentation,javascript,library,jquery">Main Page - jQuery JavaScript Library</A></DT>
+<DT><A HREF="http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery" ADD_DATE="1215600634" PRIVATE="0" TAGS="javascript,library,jquery">Tutorials:Getting Started with jQuery - jQuery JavaScript Library</A></DT>
+<DT><A HREF="http://www.w3schools.com/default.asp" ADD_DATE="1215600608" PRIVATE="0" TAGS="web,tutorial">W3Schools Online Web Tutorials</A></DT>
+<DT><A HREF="http://www.uie.com/brainsparks/2008/06/16/spoolcast-ajax-then-and-now-with-jeremy-keith/" ADD_DATE="1215600583" PRIVATE="0" TAGS="ajax,usability">SpoolCast: Ajax Then and Now with Jeremy Keith » UIE Brain Sparks</A></DT>
+<DT><A HREF="http://interface.eyecon.ro/download" ADD_DATE="1215192551" PRIVATE="0" TAGS="javascript,library,jquery">Interface elements for jQuery - Download Interface</A></DT>
+</DL>
+
+</html>

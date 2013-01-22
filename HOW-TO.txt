@@ -1,0 +1,3 @@
+Actualizar delicious.xml
+Abrir no browser
+Copiar o output para bookmarks.html
