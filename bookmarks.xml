@@ -104,7 +104,7 @@ https://addons.mozilla.org/pt-PT/firefox/addon/firefox-os-simulator/</DD></DT>
 <DT><A HREF="http://www.trip-trail.com/" ADD_DATE="1344085193" PRIVATE="0" TAGS="trail.running">TripTrail</A></DT>
 <DT><A HREF="http://caminharemportugal.com/" ADD_DATE="1344084806" PRIVATE="0" TAGS="trekking,community">Caminhar em Portugal</A></DT>
 <DT><A HREF="http://shelflists.com/" ADD_DATE="1343898083" PRIVATE="0" TAGS="tool,book">- shelflists.com</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/List_of_basic_mathematics_topics" ADD_DATE="1343726609" PRIVATE="0" TAGS=",stack-Mathematics">Outline of mathematics - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/List_of_basic_mathematics_topics" ADD_DATE="1343726609" PRIVATE="0" TAGS="stack-Mathematics">Outline of mathematics - Wikipedia,the free encyclopedia</A></DT>
 <DT><A HREF="http://www.propor2012.org/index.html" ADD_DATE="1343383448" PRIVATE="0" TAGS="Portugal,language.processing,event,stack-Semantic-Data--Language-Processing--Text-Mining">Propor 2012</A></DT>
 <DT><A HREF="http://www.w3avenue.com/" ADD_DATE="1343296013" PRIVATE="0" TAGS="javascript,html,css,tutorial,web,stack-Web-Development">W3Avenue - Advice and Resources For Rapid Web Development (CSS,JavaScript,jQuery,PHP,Libraries,Resources,and More...)</A></DT>
 <DT><A HREF="http://www.periscopic.com/" ADD_DATE="1343208883" PRIVATE="0" TAGS="social,information.design,visualization,stack-Data-Visualization--Information-Design">Periscopic: Do good with data</A></DT>
@@ -507,7 +507,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.gimp.org/" ADD_DATE="1296493731" PRIVATE="0" TAGS="software,image">GIMP - The GNU Image Manipulation Program</A></DT>
 <DT><A HREF="http://inkscape.org/" ADD_DATE="1296493697" PRIVATE="0" TAGS="drawing,software,svg,image,vector.graphic">Inkscape. Draw Freely.</A></DT>
 <DT><A HREF="http://www.travelblog.org/" ADD_DATE="1296467723" PRIVATE="0" TAGS="travel,writing">Travel Blogs,Photos,Videos and Maps</A></DT>
-<DT><A HREF="http://www.w3schools.com/TAGS/ref_urlencode.asp" ADD_DATE="1295607970" PRIVATE="0" TAGS="">HTML URL Encoding Reference</A></DT>
+<DT><A HREF="http://www.w3schools.com/TAGS/ref_urlencode.asp" ADD_DATE="1295607970" PRIVATE="0" TAGS="web,html,encoding">HTML URL Encoding Reference</A></DT>
 <DT><A HREF="http://www.architonic.com/ntsht/-harmonious-anarchy-revisiting-hak-nam-hong-kong-s-slum-city/7000463" ADD_DATE="1294671901" PRIVATE="0" TAGS="urbanism,urbanism,architecture">'Harmonious Anarchy': revisiting Hak Nam,Hong Kong's slum city</A></DT>
 <DT><A HREF="http://deathproofarchitecture.blogspot.com/2007/11/edificio-copan-sao-paulo-oscar-niemeyer.html" ADD_DATE="1294671864" PRIVATE="0" TAGS="architecture">DEATH PROOF ARCHITECTURE: Edificio Copan,Sao Paulo,Oscar Niemeyer</A></DT>
 <DT><A HREF="http://dictionary.reference.com/" ADD_DATE="1294497881" PRIVATE="0" TAGS="dictionary,language">Dictionary.com | Find the Meanings and Definitions of Words at Dictionary.com</A></DT>
@@ -699,8 +699,8 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://telegraphics.com.au/sw/#icoformat" ADD_DATE="1273828621" PRIVATE="0" TAGS="icon,tool">Telegraphics - Free plugins for Photoshop and Illustrator...and other software</A></DT>
 <DT><A HREF="http://dev.w3.org/html5/spec/" ADD_DATE="1273502438" PRIVATE="0" TAGS="html">HTML5</A></DT>
 <DT><A HREF="http://www.w3schools.com/jquery/default.asp" ADD_DATE="1273152862" PRIVATE="0" TAGS="javascript,tutorial,ajax,jquery">jQuery Tutorial</A></DT>
-<DT><A HREF="http://code.google.com/intl/fi-FI/apis/chart/" ADD_DATE="1273082528" PRIVATE="0" TAGS="javascript,visualization,library,api">Using Visualizations - Google Chart Tools</A></DT>
-<DT><A HREF="http://code.google.com/intl/en/apis/visualization/documentation/using_overview.html" ADD_DATE="1273082488" PRIVATE="0" TAGS="">Using Visualizations - Google Chart Tools / Interactive Charts (aka Visualization API) - Google Code</A></DT>
+<DT><A HREF="https://developers.google.com/chart/?hl=en-UK" ADD_DATE="1273082528" PRIVATE="0" TAGS="javascript,visualization,library,api">Using Visualizations - Google Chart Tools</A></DT>
+<DT><A HREF="https://developers.google.com/chart/interactive/docs/?hl=en" ADD_DATE="1273082488" PRIVATE="0" TAGS="javascript,visualization,library,api">Using Visualizations - Google Chart Tools / Interactive Charts (aka Visualization API) - Google Code</A></DT>
 <DT><A HREF="http://www.reynoldsftw.com/2009/03/javascript-chart-alternatives/" ADD_DATE="1273082366" PRIVATE="0" TAGS="javascript,visualization,library">5 Javascript Chart Alternatives</A></DT>
 <DT><A HREF="http://www.jqplot.com/" ADD_DATE="1273082347" PRIVATE="0" TAGS="javascript,visualization,library">jqPlot Charts and Graphs for jQuery</A></DT>
 <DT><A HREF="http://flixel.org/" ADD_DATE="1272532386" PRIVATE="0" TAGS="actionscript,game,library">flixel.org v2.0</A></DT>
@@ -904,10 +904,9 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://mitpress.mit.edu/catalog/item/default.asp?tid=8134&amp;ttype=2" ADD_DATE="1242979531" PRIVATE="0" TAGS="programming,language">Programming Linguistics - The MIT Press</A></DT>
 <DT><A HREF="http://www.world66.com/" ADD_DATE="1242947357" PRIVATE="0" TAGS="community,travel">World travel guide</A></DT>
 <DT><A HREF="http://wikitravel.org/it/Pagina_principale" ADD_DATE="1242947345" PRIVATE="0" TAGS="travel">Pagina principale - Wikitravel</A></DT>
-<DT><A HREF="http://www.savonlinna.travel/Kesa.iw3" ADD_DATE="1242947277" PRIVATE="0" TAGS="">Savonlinnan Lomaseutu - savonlinna.travel- matkailuportaali</A></DT>
-<DT><A HREF="http://wikitravel.org/en/Savonlinna" ADD_DATE="1242947263" PRIVATE="0" TAGS="">Savonlinna travel guide - Wikitravel</A></DT>
-<DT><A HREF="http://www.world66.com/europe/finland/savonlinna" ADD_DATE="1242947240" PRIVATE="0" TAGS="">Savonlinna travel guide</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/Savonlinna_Opera_Festival" ADD_DATE="1242947227" PRIVATE="0" TAGS="">Savonlinna Opera Festival - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://www.savonlinna.travel/Kesa.iw3" ADD_DATE="1242947277" PRIVATE="0" TAGS="Finland">Savonlinnan Lomaseutu - savonlinna.travel- matkailuportaali</A></DT>
+<DT><A HREF="http://wikitravel.org/en/Savonlinna" ADD_DATE="1242947263" PRIVATE="0" TAGS="Finland">Savonlinna travel guide - Wikitravel</A></DT>
+<DT><A HREF="http://www.world66.com/europe/finland/savonlinna" ADD_DATE="1242947240" PRIVATE="0" TAGS="Finland">Savonlinna travel guide</A></DT>
 <DT><A HREF="http://digitalvaults.org/" ADD_DATE="1242811833" PRIVATE="0" TAGS="interface,library,photography,history">National Archives Experience</A></DT>
 <DT><A HREF="http://www.moma.org/interactives/exhibitions/2008/elasticmind/" ADD_DATE="1242811785" PRIVATE="0" TAGS="art,gallery,navigation,interface">MoMA.org | Design and the Elastic Mind</A></DT>
 <DT><A HREF="http://puremvc.org/pages/docs/AS3/standard/framework_asdoc/" ADD_DATE="1242637950" PRIVATE="0" TAGS="actionscript,framework,documentation">pureMVC - API Documentation</A></DT>
@@ -919,10 +918,10 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.amazon.com/Publicize-Your-Book-Updated-Attention/dp/B001R23FP2/" ADD_DATE="1242491396" PRIVATE="0" TAGS="book,writing,marketing">Amazon.com: Publicize Your Book (Updated): An Insider's Guide to Getting Your Book the Attention It Deserves: Jacqueline Deval: Books</A></DT>
 <DT><A HREF="http://www.amazon.com/First-Five-Pages-Writers-Rejection/dp/068485743X/" ADD_DATE="1242488269" PRIVATE="0" TAGS="book,writing">Amazon.com: The First Five Pages: A Writer's Guide to Staying Out of the Rejection Pile: Noah Lukeman: Books</A></DT>
 <DT><A HREF="http://www.amazon.com/Formatting-Submitting-Manuscript-Cynthia-Laufenber/dp/1582972907/" ADD_DATE="1242488198" PRIVATE="0" TAGS="book,writing">Amazon.com: Formatting and Submitting Your Manuscript: Cynthia Laufenber: Books</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/Savonia_(historical_province)" ADD_DATE="1242423684" PRIVATE="0" TAGS="">Savonia (historical province) - Wikipedia,the free encyclopedia</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/Olavinlinna" ADD_DATE="1242423532" PRIVATE="0" TAGS="">Olavinlinna - Wikipedia,the free encyclopedia</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/Saimaa" ADD_DATE="1242423278" PRIVATE="0" TAGS="">Saimaa - Wikipedia,the free encyclopedia</A></DT>
-<DT><A HREF="http://en.wikipedia.org/wiki/Savonlinna" ADD_DATE="1242423269" PRIVATE="0" TAGS="">Savonlinna - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Savonia_(historical_province)" ADD_DATE="1242423684" PRIVATE="0" TAGS="Finland,history">Savonia (historical province) - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Olavinlinna" ADD_DATE="1242423532" PRIVATE="0" TAGS="Finland,history">Olavinlinna - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Saimaa" ADD_DATE="1242423278" PRIVATE="0" TAGS="Finland">Saimaa - Wikipedia,the free encyclopedia</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/Savonlinna" ADD_DATE="1242423269" PRIVATE="0" TAGS="Finland">Savonlinna - Wikipedia,the free encyclopedia</A></DT>
 <DT><A HREF="http://lab.polygonal.de/" ADD_DATE="1242309034" PRIVATE="0" TAGS="actionscript,physics">polygonal labs</A></DT>
 <DT><A HREF="http://www.smashingmagazine.com/2009/05/12/10-ways-to-put-your-content-in-front-of-more-people/" ADD_DATE="1242206280" PRIVATE="0" TAGS="social,content">10 Ways To Put Your Content In Front Of More People | How-To | Smashing Magazine</A></DT>
 <DT><A HREF="http://www.sebleedelisle.com/" ADD_DATE="1242136209" PRIVATE="0" TAGS="actionscript,javascript,stack-3D-Graphics">Seb Lee-Delisle</A></DT>

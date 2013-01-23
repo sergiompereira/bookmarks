@@ -1,5 +1,5 @@
 TODO
 
-- Toggle button: order list of tags by count or alphabetically
-- Filter by tag on click
++ Toggle button: order list of tags by count or alphabetically
++ Filter by tag on click
 - Multiple tags selection (AND, OR)

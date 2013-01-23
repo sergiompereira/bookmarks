@@ -1,0 +1,93 @@
+body{
+	font-family:sans-serif;
+	font-size:80%;
+}
+h1{
+	font-size:1.6em;
+	color:#444;
+}
+h2{
+	font-size:1.6em;
+	display:inline;
+	color:#339;
+}
+div#sort{
+	padding-bottom:0.5em;
+}
+div#sort a{
+	color:#99f;
+	text-decoration:none;
+	font-weight:bold;
+}
+div#sort a:hover, div#sort a:active{
+	color:#66f;
+}
+div#sort a.active{
+	color:#66f;
+}
+span.datetime{
+	padding-left:1em;
+	color:#999;
+}
+a.url{
+	color:#333;
+	margin:0.5em 0;
+	text-decoration:none;
+	display:block;
+}
+a.url:hover{
+	text-decoration:underline;
+}
+div.tags{
+	padding:0.5em 0.8em;
+	display:inline-block;
+	font-weight:bold;
+	color:#393;
+	
+}
+div.bookmark{
+	padding:1.4em 0;
+	border-top:0.2em solid #ccc;
+}
+div.bookmark  p{
+	border:0.2em solid #e0e0e0;
+	padding:1em;
+	background-color:#eef;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+ul#tags-collection li{
+	font-size:0.9em;
+	list-style:none;
+	font-weight:bold;
+	padding:0.2em 0.5em;
+	margin:0.2em 0.5em;
+	background-color:#eef;
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	border-radius: 0.3em;
+	display:inline-block;
+	color:#999;
+}
+ul#tags-collection li.active{
+	background-color:#99a;
+	color:#fff;
+}
+ul#tags-collection li.active a{
+	background-color:#99a;
+	color:#fff;
+	font-weight:bold;
+}
+ul#tags-collection li a{
+	color:#333;
+	font-weight:normal;
+	text-decoration:none;
+}
+ul#tags-collection li a:hover{
+	color:#000;
+}
+ul#tags-collection li:hover{
+	box-shadow:0px 1px 2px 1px #aaa;
+}
