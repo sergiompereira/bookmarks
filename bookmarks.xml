@@ -13,6 +13,7 @@ xslt > lista de links (com tags) e lista de tags
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
+<DT><A HREF="http://www.w3.org/RDF/Validator/" ADD_DATE="1358953568" PRIVATE="0" TAGS="semantic.web,rdf,standard">Check and Visualize your RDF documents</A></DT>
 <DT><A HREF="http://www.udacity.com/" ADD_DATE="1358849141" PRIVATE="0" TAGS="education">Udacity,free online courses</A></DT>
 <DT><A HREF="https://www.coursera.org/" ADD_DATE="1358849057" PRIVATE="0" TAGS="education">Coursera,free online courses</A></DT>
 <DT><A HREF="http://ocw.mit.edu/index.htm" ADD_DATE="1358848965" PRIVATE="0" TAGS="education">MIT OpenCourseWare | Free online courses</A></DT>
