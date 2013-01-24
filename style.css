@@ -18,18 +18,22 @@ h2{
 	display:inline;
 	color:#339;
 }
-div#sort{
-	padding-bottom:0.5em;
+div#tag-tools{
+	padding-bottom:1.5em;
 }
-div#sort a{
+div#tag-tools span{
+	font-weight:bold;
+	color:#444;
+}
+div#tag-tools a{
 	color:#99f;
 	text-decoration:none;
 	font-weight:bold;
 }
-div#sort a:hover, div#sort a:active{
+div#tag-tools a:hover, div#tag-tools a:active{
 	color:#66f;
 }
-div#sort a.active{
+div#tag-tools a.active{
 	color:#66f;
 }
 span.datetime{

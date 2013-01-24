@@ -71,10 +71,25 @@
 		 * Handle tags sorting
 		 */
 		 var activeSort = "alpha";
-		 var sortLinks = document.getElementById("sort").getElementsByTagName("a");
+		 var sortLinks = document.getElementById("tag-tools").getElementsByTagName("a");
 		 for(i=0; i<sortLinks.length; i++){
 			sortLinks[i].addEventListener("click",onSortClick);
 		 }
+		 
+		 /**
+		  * Handle multiple selection operators
+		  */
+		  var activeOperator;
+		  var opInputs = document.getElementById("tag-tools").getElementsByTagName("input");
+		  for(i=0; i<opInputs.length; i++){
+		  console.log(opInputs[i].getAttribute("checked"));
+			if(opInputs[i].getAttribute("checked") == "checked"){
+			console.log(opInputs[i].getAttribute("value"));
+				activeOperator = opInputs[i].getAttribute("value");
+			}
+			opInputs[i].addEventListener("change",onOperatorChange);
+		  }
+		  
 		 
 		 /**
 		  * Show totals
@@ -84,9 +99,14 @@
 		  
 		
 		//handlers
+		function onOperatorChange(evt){
+			activeOperator = evt.currentTarget.value;
+			filter();
+		}
+		
 		function onTagClick(evt){
 			var target = evt.currentTarget;
-			var i,j, bookmarksCount = bookmarks.length, bookmarkTags,touched = 0;
+			var i;
 			
 			if(target.parentNode.className != "active") {
 				
@@ -102,6 +122,12 @@
 				}
 				
 			}
+			
+			filter();
+		}
+		
+		function filter(){
+			var i,j, bookmarksCount = bookmarks.length, bookmarkTags,touched = 0;
 			if(activeTags.length == 0){
 				for(i = 0; i<bookmarksCount; i++){
 					bookmarks[i].style.display = "block";
@@ -115,11 +141,23 @@
 							touched++;
 						}
 					}
-					if(touched == activeTags.length){
-						bookmarks[i].style.display = "block";
-					}else{
-						bookmarks[i].style.display = "none";
+					switch(activeOperator){
+						case "OR":
+							if(touched > 0){
+								bookmarks[i].style.display = "block";
+							}else{
+								bookmarks[i].style.display = "none";
+							}
+							break;
+						default:
+							//AND
+							if(touched == activeTags.length){
+								bookmarks[i].style.display = "block";
+							}else{
+								bookmarks[i].style.display = "none";
+							}
 					}
+					
 				}
 			}
 			

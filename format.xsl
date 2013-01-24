@@ -14,7 +14,14 @@
 			<body>
 				<section id="tags">
 					<header><h1>Tags</h1> <span class="total"></span></header>
-					<div id="sort">Sort: <a href="#sort-alpha" class="active">Alpha</a> | <a href="#sort-count">Count</a></div>
+					<div id="tag-tools">
+						<div><span class="label">Sort: </span> <a href="#sort-alpha" class="active">Alpha</a> | <a href="#sort-count">Count</a></div>
+						<div>
+							<span class="label">Multiple selection: </span> 
+							<label>AND</label> <input type="radio" name="selection_operator" value="AND" checked="checked"/>
+							<label>OR</label> <input type="radio" name="selection_operator" value="OR"/>
+						</div>
+					</div>
 					<ul></ul>
 				</section>
 				<section id="bookmarks">
