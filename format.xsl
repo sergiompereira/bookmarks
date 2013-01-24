@@ -12,10 +12,13 @@
 				
 			</head>
 			<body>
-				<h1>Tags</h1>
-				<div id="sort">Sort: <a href="#sort-alpha" class="active">Alpha</a> | <a href="#sort-count">Count</a></div>
-				<ul id="tags-collection"></ul>
-				<div id="main">
+				<section id="tags">
+					<header><h1>Tags</h1> <span class="total"></span></header>
+					<div id="sort">Sort: <a href="#sort-alpha" class="active">Alpha</a> | <a href="#sort-count">Count</a></div>
+					<ul></ul>
+				</section>
+				<section id="bookmarks">
+					<header><h1>Bookmarks</h1> <span class="total"></span></header>
 					<xsl:for-each select="html/DL/DT">
 						<div class="bookmark">
 							<h2 ><xsl:value-of select="A" /></h2> 
@@ -29,7 +32,7 @@
 						</div>
 						
 					</xsl:for-each>
-				</div>
+				</section>
 				
 				<script type="text/javascript" src="script.js"></script>
 			</body>

@@ -5,6 +5,13 @@ body{
 h1{
 	font-size:1.6em;
 	color:#444;
+	display:inline-block;
+}
+header span.total{
+	display:inline-block;
+	font-weight:bold;
+	color:#444;
+	padding-left:0.5em;
 }
 h2{
 	font-size:1.6em;
@@ -38,12 +45,15 @@ a.url{
 a.url:hover{
 	text-decoration:underline;
 }
-div.tags{
+div.tags span{
 	padding:0.5em 0.8em;
 	display:inline-block;
 	font-weight:bold;
 	color:#393;
-	
+}
+
+div.tags span:nth-child(2n){
+	color:#050;
 }
 div.bookmark{
 	padding:1.4em 0;
@@ -58,7 +68,7 @@ ul{
 	margin:0;
 	padding:0;
 }
-ul#tags-collection li{
+#tags ul li{
 	font-size:0.9em;
 	list-style:none;
 	font-weight:bold;
@@ -71,23 +81,23 @@ ul#tags-collection li{
 	display:inline-block;
 	color:#999;
 }
-ul#tags-collection li.active{
+#tags ul li.active{
 	background-color:#99a;
 	color:#fff;
 }
-ul#tags-collection li.active a{
+#tags ul li.active a{
 	background-color:#99a;
 	color:#fff;
 	font-weight:bold;
 }
-ul#tags-collection li a{
+#tags ul li a{
 	color:#333;
 	font-weight:normal;
 	text-decoration:none;
 }
-ul#tags-collection li a:hover{
+#tags ul li a:hover{
 	color:#000;
 }
-ul#tags-collection li:hover{
+#tags ul li:hover{
 	box-shadow:0px 1px 2px 1px #aaa;
 }
