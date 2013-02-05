@@ -31,7 +31,7 @@
 							<h2 ><xsl:value-of select="A" /></h2> 
 							<span class="datetime"><xsl:value-of select="A/@ADD_DATE"/></span>
 							<br/>
-							<a class="url" href="{A/@HREF}"><xsl:value-of select="A/@HREF" /></a>
+							<a class="url" href="{A/@HREF}" target="_blank"><xsl:value-of select="A/@HREF" /></a>
 							<div class="tags"><xsl:value-of select="A/@TAGS" /></div>
 							<xsl:if test="DD != ''">
 								<p><xsl:value-of select="DD" /></p>
