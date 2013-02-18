@@ -10,8 +10,10 @@
 
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
--->
 
+-->
+<DT><A HREF="http://microjs.com/" ADD_DATE="1361185044" PRIVATE="0" TAGS="javascript,library,performance,directory">Microjs: Fantastic Micro-Frameworks and Micro-Libraries</A></DT>
+<DT><A HREF="http://codepen.io/" ADD_DATE="1360924932" PRIVATE="0" TAGS="community,programming,tool,collaboration">Pens picked by the Editors of CodePen</A></DT>
 <DT><A HREF="http://geekli.st/home" ADD_DATE="1360755217" PRIVATE="0" TAGS="community,programming">Geeklist - A place for geeks to share what they've done</A></DT>
 <DT><A HREF="http://olhares.sapo.pt/" ADD_DATE="1360361709" PRIVATE="0" TAGS="photography,community,Portugal">Olhares.com - Fotografia Online</A></DT>
 <DT><A HREF="http://www.indiegogo.com/" ADD_DATE="1360361566" PRIVATE="0" TAGS="community,crowdfunding">Indiegogo: An International Crowdfunding Platform to Raise Money</A></DT>
@@ -32,8 +34,8 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 <DT><A HREF="http://www.sitiodolivro.pt/" ADD_DATE="1358156345" PRIVATE="0" TAGS="book,publishing">Sítio do livro</A></DT>
 <DT><A HREF="http://html.adobe.com/" ADD_DATE="1357659311" PRIVATE="0" TAGS="tool,html,interface.development,adobe">Adobe and HTML</A>
 <DD>http://html.adobe.com/edge/code/faq.html</DD></DT>
-<DT><A HREF="http://brackets.io/" ADD_DATE="1357657063" PRIVATE="0" TAGS="adobe,programming,css,html,javascript,editor">Brackets</A></DT>
-<DT><A HREF="http://dabblet.com/" ADD_DATE="1357656673" PRIVATE="0" TAGS="editor,tool,css">The first commented line is your dabblet’s title  dabblet.com</A></DT>
+<DT><A HREF="http://brackets.io/" ADD_DATE="1357657063" PRIVATE="0" TAGS="adobe,programming,css,html,javascript">Brackets</A></DT>
+<DT><A HREF="http://dabblet.com/" ADD_DATE="1357656673" PRIVATE="0" TAGS="programming,tool,css">The first commented line is your dabblet’s title  dabblet.com</A></DT>
 <DT><A HREF="http://www.mozilla.org/en-US/firefoxos/" ADD_DATE="1357647674" PRIVATE="0" TAGS="operatingsystem,javascript,html,mobile">Mozilla — Firefox OS — mozilla.org</A>
 <DD>https://marketplace.firefox.com/developers/
 http://www.mozilla.org/en-US/apps/
