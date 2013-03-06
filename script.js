@@ -49,7 +49,8 @@
 		var tagsColl = tags.split(","), 
 			tagsCollLen = tagsColl.length, 
 			tagEl,tagLink,
-			tagsCollCont = document.getElementById("tags").getElementsByTagName("ul")[0];
+			tagsCollCont = document.getElementById("tags").getElementsByTagName("ul")[0],
+			letterCont;
 		
 		tagsColl.sort(function(a,b){
 					if (a.toLowerCase() < b.toLowerCase()) return -1;
@@ -58,13 +59,22 @@
 				});
 		
 		var activeTags = [];
+		var currentLetter;
 		for(i = 0; i<tagsCollLen; i++){
 			tagEl = document.createElement("li");
 			tagEl.innerHTML = '<a href="javascript:;">'+tagsColl[i]+'</a> | '+tagsData[tagsColl[i]].count;
+			if(currentLetter !== tagsColl[i].substr(0,1)){
+				currentLetter = tagsColl[i].substr(0,1);
+				letterCont = document.createElement("span");
+				letterCont.innerHTML = currentLetter;
+				tagEl.className = "letterTag";
+				tagEl.insertBefore(letterCont, tagEl.firstChild);
+			}
 			tagsData[tagsColl[i]].el = tagEl;
-			tagLink = tagEl.getElementsByTagName("a")[0];
-			tagLink.addEventListener("click", onTagClick);
+			tagEl.getElementsByTagName("a")[0].addEventListener("click", onTagClick);
 			tagsCollCont.appendChild(tagEl);
+			
+			
 		}
 		
 		/**
@@ -191,13 +201,10 @@
 						if (a.toLowerCase() > b.toLowerCase()) return 1;
 						return 0;
 					});
-					
-					
 			}
 			for(i=0; i<len; i++){
 				tagsCollCont.appendChild(tagsData[tagsColl[i]].el);
 			}
-			
 		}
 		
 		//utils
