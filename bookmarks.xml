@@ -7,16 +7,26 @@
 <DL>
 
 <!-- 
-TODO
-xslt > lista de links (com tags) e lista de tags
 
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
 
+<DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
+<DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
+<DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,nodejs">Grunt: The JavaScript Task Runner</A></DT>
+<DT><A HREF="http://leafletjs.com" ADD_DATE="1361808478" PRIVATE="0" TAGS="javascript,library,map,mobile">Leaflet - a JavaScript library for mobile-friendly maps</A></DT>
+<DT><A HREF="https://github.com/dannycoates/node-inspector" ADD_DATE="1361805688" PRIVATE="0" TAGS="javascript,debug,nodejs">node-inspector</A></DT>
 <DT><A HREF="http://groundwork.sidereel.com/?url=home" ADD_DATE="1361634115" PRIVATE="0" TAGS="css,responsive.design,framework,mobile">GroundworkCSS : A Responsive HTML5, CSS and Javascript Framework</A></DT>
+<DT><A HREF="http://jsdo.it/" ADD_DATE="1361372430" PRIVATE="0" TAGS="javascript,showcase,collaboration,stack-Web-Development">jsdo.it - Share JavaScript, HTML5 and CSS</A></DT>
+<DT><A HREF="http://codepen.io/hakimel" ADD_DATE="1361371972" PRIVATE="0" TAGS="javascript,showcase,computer.graphics,stack-Web-Development">Hakim El Hattab on CodePen</A></DT>
+<DT><A HREF="http://www.taffydb.com/" ADD_DATE="1361355508" PRIVATE="0" TAGS="javascript,library,database">TaffyDB - The JavaScript Database</A></DT>
+<DT><A HREF="http://microjs.com/" ADD_DATE="1361185044" PRIVATE="0" TAGS="javascript,library,performance,directory">Microjs: Fantastic Micro-Frameworks and Micro-Libraries</A></DT>
+<DT><A HREF="http://codepen.io/" ADD_DATE="1360924932" PRIVATE="0" TAGS="community,programming,tool,collaboration">Pens picked by the Editors of CodePen</A></DT>
+<DT><A HREF="http://geekli.st/home" ADD_DATE="1360755217" PRIVATE="0" TAGS="community,programming">Geeklist - A place for geeks to share what they've done</A></DT>
 <DT><A HREF="http://olhares.sapo.pt/" ADD_DATE="1360361709" PRIVATE="0" TAGS="photography,community,Portugal">Olhares.com - Fotografia Online</A></DT>
 <DT><A HREF="http://www.indiegogo.com/" ADD_DATE="1360361566" PRIVATE="0" TAGS="community,crowdfunding">Indiegogo: An International Crowdfunding Platform to Raise Money</A></DT>
+<DT><A HREF="http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references" ADD_DATE="1360151618" PRIVATE="0" TAGS="html,encoding">List of XML and HTML character entity references</A></DT>
 <DT><A HREF="http://www.dotjs.eu/" ADD_DATE="1360059821" PRIVATE="0" TAGS="event,javascript">dotJS - The largest JavaScript conference in France</A></DT>
 <DT><A HREF="http://www.w3.org/RDF/Validator/" ADD_DATE="1358953568" PRIVATE="0" TAGS="semantic.web,rdf,standard">Check and Visualize your RDF documents</A></DT>
 <DT><A HREF="http://www.udacity.com/" ADD_DATE="1358849141" PRIVATE="0" TAGS="education">Udacity,free online courses</A></DT>
@@ -33,8 +43,8 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 <DT><A HREF="http://www.sitiodolivro.pt/" ADD_DATE="1358156345" PRIVATE="0" TAGS="book,publishing">Sítio do livro</A></DT>
 <DT><A HREF="http://html.adobe.com/" ADD_DATE="1357659311" PRIVATE="0" TAGS="tool,html,interface.development,adobe">Adobe and HTML</A>
 <DD>http://html.adobe.com/edge/code/faq.html</DD></DT>
-<DT><A HREF="http://brackets.io/" ADD_DATE="1357657063" PRIVATE="0" TAGS="adobe,development,css,html,javascript,editor">Brackets</A></DT>
-<DT><A HREF="http://dabblet.com/" ADD_DATE="1357656673" PRIVATE="0" TAGS="editor,tool,css">The first commented line is your dabblet’s title  dabblet.com</A></DT>
+<DT><A HREF="http://brackets.io/" ADD_DATE="1357657063" PRIVATE="0" TAGS="adobe,programming,css,html,javascript">Brackets</A></DT>
+<DT><A HREF="http://dabblet.com/" ADD_DATE="1357656673" PRIVATE="0" TAGS="programming,tool,css">The first commented line is your dabblet’s title  dabblet.com</A></DT>
 <DT><A HREF="http://www.mozilla.org/en-US/firefoxos/" ADD_DATE="1357647674" PRIVATE="0" TAGS="operatingsystem,javascript,html,mobile">Mozilla — Firefox OS — mozilla.org</A>
 <DD>https://marketplace.firefox.com/developers/
 http://www.mozilla.org/en-US/apps/

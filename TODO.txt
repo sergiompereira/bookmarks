@@ -1,5 +1,0 @@
-TODO
-
-Done: Toggle button: order list of tags by count or alphabetically
-Done: Filter by tag on click
-Done: Multiple tags selection (AND, OR)

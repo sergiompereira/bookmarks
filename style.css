@@ -72,6 +72,19 @@ ul{
 	margin:0;
 	padding:0;
 }
+#tags ul li.letterTag{
+	margin-left:2em;
+	border-left:3px solid #bbb;
+	padding-left:0;
+}
+#tags ul li.letterTag span{
+	font-size:1.4em;
+	font-weight:bold;
+	color:#5c5;
+	text-transform:uppercase;
+	position:relative;
+	left:-1.5em;
+}
 #tags ul li{
 	font-size:0.9em;
 	list-style:none;
