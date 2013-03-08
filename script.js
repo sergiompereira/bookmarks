@@ -115,16 +115,18 @@
 		}
 		
 		function onTagClick(evt){
-			var target = evt.currentTarget;
-			var i;
+			var target = evt.currentTarget,
+				className = target.parentNode.className,
+				i;
 			
-			if(target.parentNode.className != "active") {
+			if(className.indexOf("active") < 0) {
 				
-				target.parentNode.className = "active";
+				className += " active";
 				activeTags.push(target.innerHTML);
 				
 			}else{
-				target.parentNode.className = "";
+			
+				className = className.replace("active","").replace(/\s{2,}/g,"");
 				for(i=0; i<activeTags.length; i++){
 					if(activeTags[i] == target.innerHTML){
 						activeTags.splice(i,1);
@@ -132,7 +134,7 @@
 				}
 				
 			}
-			
+			target.parentNode.className = className;
 			filter();
 		}
 		
