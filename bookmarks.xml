@@ -12,6 +12,10 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
 
+<DT><A HREF="http://worrydream.com/Tangle/" ADD_DATE="1362746059" PRIVATE="0" TAGS="javascript,library,interaction,data,visualization">Tangle: a JavaScript library for reactive documents</A></DT>
+<DT><A HREF="http://worrydream.com/" ADD_DATE="1362746051" PRIVATE="0" TAGS="mathematics,visualization,research,education">Bret Victor, beast of burden</A></DT>
+<DT><A HREF="http://betterexplained.com/" ADD_DATE="1362746377" PRIVATE="0" TAGS="mathematics,education">BetterExplained</A></DT>
+<DT><A HREF="https://github.com/unconed/MathBox.js" ADD_DATE="1362738496" PRIVATE="0" TAGS="javascript,mathematics,library,computer.graphics">MathBox.js</A></DT>
 <DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
 <DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
 <DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,nodejs">Grunt: The JavaScript Task Runner</A></DT>
