@@ -12,11 +12,19 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
 
+<DT><A HREF="http://uxdesign.smashingmagazine.com/" ADD_DATE="1363351772" PRIVATE="0" TAGS="interface,interaction,stack-interface-design--interaction-design,usability,information.architecture">Smashing UX Design — Usability, Psychology and Information Architecture</A></DT>
+<DT><A HREF="http://coding.smashingmagazine.com/" ADD_DATE="1363351765" PRIVATE="0" TAGS="javascript,html,css,interface.development,stack-web-development">Smashing Coding — Client-Side and Server-Side Development</A></DT>
+<DT><A HREF="https://developers.google.com/speed/pagespeed/service" ADD_DATE="1363351746" PRIVATE="0" TAGS="web,performance,tool,optimization">Turbocharge your web site with Google's PageSpeed Service</A></DT>
+<DT><A HREF="http://www.webpagetest.org" ADD_DATE="1363351728" PRIVATE="0" TAGS="web,performance,tool">WebPagetest - Website Performance and Optimization Test</A></DT>
+
+<DT><A HREF="http://www.browserstack.com/" ADD_DATE="1363005554" PRIVATE="0" TAGS="browser,debug,tool">Cross Browser Testing Tool. 100+ Browsers, Mobile, Real IE.</A></DT>
+<DT><A HREF="http://parsleyjs.org/" ADD_DATE="1362998548" PRIVATE="0" TAGS="javascript,validation,library">Parsley.js</A></DT>
+<DT><A HREF="http://qunitjs.com/" ADD_DATE="1362996493" PRIVATE="0" TAGS="javascript,development,test">QUnit</A></DT>
 <DT><A HREF="http://worrydream.com/Tangle/" ADD_DATE="1362746059" PRIVATE="0" TAGS="javascript,library,interaction,data,visualization">Tangle: a JavaScript library for reactive documents</A></DT>
 <DT><A HREF="http://worrydream.com/" ADD_DATE="1362746051" PRIVATE="0" TAGS="mathematics,visualization,research,education">Bret Victor, beast of burden</A></DT>
 <DT><A HREF="http://betterexplained.com/" ADD_DATE="1362746377" PRIVATE="0" TAGS="mathematics,education">BetterExplained</A></DT>
 <DT><A HREF="https://github.com/unconed/MathBox.js" ADD_DATE="1362738496" PRIVATE="0" TAGS="javascript,mathematics,library,computer.graphics">MathBox.js</A></DT>
-<DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
+<DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test,nodejs">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
 <DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
 <DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,nodejs">Grunt: The JavaScript Task Runner</A></DT>
 <DT><A HREF="http://leafletjs.com" ADD_DATE="1361808478" PRIVATE="0" TAGS="javascript,library,map,mobile">Leaflet - a JavaScript library for mobile-friendly maps</A></DT>
@@ -174,7 +182,7 @@ https://addons.mozilla.org/pt-PT/firefox/addon/firefox-os-simulator/</DD></DT>
 <DT><A HREF="http://email.about.com/library/misc/blmailto_encoder.htm" ADD_DATE="1337613713" PRIVATE="0" TAGS="encoding,tool,email">Mailto URL Encoder - About Email</A></DT>
 <DT><A HREF="https://groups.google.com/group/front-end-dev-trends?hl=pt" ADD_DATE="1337609968" PRIVATE="0" TAGS="stack-Community,css,html,javascript,interface.development,community">Front End Dev Trends | Grupos do Google</A></DT>
 <DT><A HREF="http://teamtreehouse.com/" ADD_DATE="1337540679" PRIVATE="0" TAGS="education,interface.development">Welcome to Treehouse,Start Learning Today</A></DT>
-<DT><A HREF="http://osswatch.jiscinvolve.org/wp/" ADD_DATE="1337247218" PRIVATE="0" TAGS="crowdsourcing,news,community,software,opensource">OSS Watch team blog</A></DT>
+<DT><A HREF="http://osswatch.jiscinvolve.org/wp/" ADD_DATE="1337247218" PRIVATE="0" TAGS="crowdsourcing,news,community,software">OSS Watch team blog</A></DT>
 <DT><A HREF="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html" ADD_DATE="1336643288" PRIVATE="0" TAGS="computer.graphics,svg,css">Filter Effects 1.0</A>
 <DD>Filter effects are a way of processing an element's rendering before it is displayed in the document. Typically,rendering an element via CSS or SVG can conceptually described as if the element,including its children,are drawn into a buffer (such as a raster image) and then that buffer is composited into the elements parent. Filters apply an effect before the compositing stage. Examples of such effects are blurring,changing color intensity and warping the image.
 Although originally designed for use in SVG,filter effects are a set a set of operations to apply on an image buffer and therefore can be applied to nearly any presentational environment,including CSS.</DD></DT>
@@ -475,7 +483,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://groups.google.com/group/riapt" ADD_DATE="1303983335" PRIVATE="0" TAGS="stack-Community,interface.development,event,community">Mailing List da Comunidade Portuguesa de Rich Internet Applications - www.riapt.org | Google-ryhmät</A></DT>
 <DT><A HREF="http://www.facebook.com/floridaafterseven" ADD_DATE="1303983236" PRIVATE="0" TAGS="stack-Community,event,community">Florida After Seven | Facebook</A></DT>
 <DT><A HREF="https://github.com/" ADD_DATE="1302862970" PRIVATE="0" TAGS="versioncontrol,collaboration">Your Dashboard - GitHub</A></DT>
-<DT><A HREF="http://gitorious.org/" ADD_DATE="1302862363" PRIVATE="0" TAGS="versioncontrol,collaboration">Gitorious</A></DT>
+<DT><A HREF="http://gitorious.org/" ADD_DATE="1302862363" PRIVATE="0" TAGS="versioncontrol,collaboration,hosting">Gitorious</A></DT>
 <DT><A HREF="http://www.kaleidoscopeapp.com/" ADD_DATE="1302793333" PRIVATE="0" TAGS="tool,file">Kaleidoscope — File comparison for Mac</A></DT>
 <DT><A HREF="http://www.kernel.org/pub/software/scm/git/docs/user-manual.html" ADD_DATE="1302617097" PRIVATE="0" TAGS="documentation,versioncontrol">Git User’s Manual (for version 1.5.3 or newer)</A></DT>
 <DT><A HREF="http://wiki.openstreetmap.org/wiki/Main_Page" ADD_DATE="1302603583" PRIVATE="0" TAGS="map,geography,community,collaboration">Main Page - OpenStreetMap Wiki</A></DT>
@@ -547,7 +555,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.dpreview.com/" ADD_DATE="1292244056" PRIVATE="0" TAGS="photography,camera,news">Digital Cameras: Digital Photography Review,News,Reviews,Forums,FAQ</A></DT>
 <DT><A HREF="http://eric.ed.gov/" ADD_DATE="1292090177" PRIVATE="0" TAGS="education,research,library">ERIC – World’s largest digital library of education literature</A></DT>
 <DT><A HREF="http://www.sitepen.com/blog/" ADD_DATE="1291903916" PRIVATE="0" TAGS="dojo,javascript,framework,tutorial,stack-Web-Development">SitePen</A></DT>
-<DT><A HREF="http://fnagel.github.com/jQuery-Accessible-RIA/Formular/" ADD_DATE="1291724438" PRIVATE="0" TAGS="javascript,form">ui.formValidator - standard demo - jQuery UI - Felix Nagel</A></DT>
+<DT><A HREF="http://fnagel.github.com/jQuery-Accessible-RIA/Formular/" ADD_DATE="1291724438" PRIVATE="0" TAGS="javascript,validation">ui.formValidator - standard demo - jQuery UI - Felix Nagel</A></DT>
 <DT><A HREF="http://video.pbs.org/" ADD_DATE="1291723796" PRIVATE="0" TAGS="video,education">Home | PBS Video</A></DT>
 <DT><A HREF="http://code.google.com/intl/en-US/apis/maps/documentation/flash/3d-maps.html" ADD_DATE="1291550319" PRIVATE="0" TAGS="map,geography,3d">Google Maps API for Flash - 3D Maps - Google Maps API for Flash - Google Code</A></DT>
 <DT><A HREF="http://mloss.org/software/" ADD_DATE="1291419733" PRIVATE="0" TAGS="machine.learning,software,research,library">mloss | All entries</A></DT>
@@ -641,7 +649,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.soundstep.com/blog/downloads/somaui/" ADD_DATE="1287065944" PRIVATE="0" TAGS="framework,actionscript">Soma Flash AS3 MVC Framework | Soundstep,daily ActionScript.</A></DT>
 <DT><A HREF="http://www.axiis.org/" ADD_DATE="1287065852" PRIVATE="0" TAGS="visualization,library,actionscript">Axiis : Data Visualization Framework</A></DT>
 <DT><A HREF="http://freetypography.com/" ADD_DATE="1287065827" PRIVATE="0" TAGS="typography">FreeTypography — only high quality free typography from the web</A></DT>
-<DT><A HREF="http://bassistance.de/jquery-plugins/jquery-plugin-validation/" ADD_DATE="1286787702" PRIVATE="0" TAGS="library,jquery,form,javascript">bassistance.de » jQuery plugin: Validation</A></DT>
+<DT><A HREF="http://bassistance.de/jquery-plugins/jquery-plugin-validation/" ADD_DATE="1286787702" PRIVATE="0" TAGS="library,jquery,validation,javascript">bassistance.de » jQuery plugin: Validation</A></DT>
 <DT><A HREF="http://justjs.org/js-oop/static-methods-in-javascript/" ADD_DATE="1286640233" PRIVATE="0" TAGS="javascript,tutorial">Static Methods in Javascript | justjs.org</A></DT>
 <DT><A HREF="http://justjs.org/object-oriented-javascript/" ADD_DATE="1286640201" PRIVATE="0" TAGS="javascript,tutorial">Object Oriented Javascript | justjs.org</A></DT>
 <DT><A HREF="http://www.howtocreate.co.uk/tutorials/javascript/objects" ADD_DATE="1286639400" PRIVATE="0" TAGS="javascript,tutorial">JavaScript tutorial - Creating objects</A></DT>
