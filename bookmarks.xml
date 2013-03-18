@@ -12,11 +12,17 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
 
+<DT><A HREF="http://www.hitchjs.com/" ADD_DATE="1363604196" PRIVATE="0" TAGS="css,polyfill,javascript,library">Hitch - A resource to add some expressive power to CSS for developers</A></DT>
+<DT><A HREF="http://www.uploadify.com/" ADD_DATE="1363604189" PRIVATE="0" TAGS="javascript,library,file">HTML5 File Upload Script, jQuery Multiple File Upload Plugin - Uploadify / UploadiFive - Uploadify</A></DT>
+<DT><A HREF="https://github.com/WebReflection/polpetta#-polpetta" ADD_DATE="1363604178" PRIVATE="0" TAGS="nodejs,framework,server">WebReflection/polpetta · GitHub</A></DT>
+<DT><A HREF="https://www.pythonanywhere.com/" ADD_DATE="1363604170" PRIVATE="0" TAGS="python,programming,collaboration,server,hosting">Python Programming in your Browser: PythonAnywhere</A></DT>
+<DT><A HREF="http://selection.datavisualization.ch/" ADD_DATE="1363604164" PRIVATE="0" TAGS="visualization,javascript,library,tool">Datavisualization.ch Selected Tools</A></DT>
+<DT><A HREF="http://www.longtailvideo.com/jw-player/about/" ADD_DATE="1363604156" PRIVATE="0" TAGS="video">About JW Player | Best HTML &amp; Flash Web Video Player | LongTail Video</A></DT>
+
 <DT><A HREF="http://uxdesign.smashingmagazine.com/" ADD_DATE="1363351772" PRIVATE="0" TAGS="interface,interaction,stack-interface-design--interaction-design,usability,information.architecture">Smashing UX Design — Usability, Psychology and Information Architecture</A></DT>
 <DT><A HREF="http://coding.smashingmagazine.com/" ADD_DATE="1363351765" PRIVATE="0" TAGS="javascript,html,css,interface.development,stack-web-development">Smashing Coding — Client-Side and Server-Side Development</A></DT>
 <DT><A HREF="https://developers.google.com/speed/pagespeed/service" ADD_DATE="1363351746" PRIVATE="0" TAGS="web,performance,tool,optimization">Turbocharge your web site with Google's PageSpeed Service</A></DT>
 <DT><A HREF="http://www.webpagetest.org" ADD_DATE="1363351728" PRIVATE="0" TAGS="web,performance,tool">WebPagetest - Website Performance and Optimization Test</A></DT>
-
 <DT><A HREF="http://www.browserstack.com/" ADD_DATE="1363005554" PRIVATE="0" TAGS="browser,debug,tool">Cross Browser Testing Tool. 100+ Browsers, Mobile, Real IE.</A></DT>
 <DT><A HREF="http://parsleyjs.org/" ADD_DATE="1362998548" PRIVATE="0" TAGS="javascript,validation,library">Parsley.js</A></DT>
 <DT><A HREF="http://qunitjs.com/" ADD_DATE="1362996493" PRIVATE="0" TAGS="javascript,development,test">QUnit</A></DT>
@@ -368,7 +374,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.survs.com/" ADD_DATE="1321655826" PRIVATE="0" TAGS="survey,tool">Survs - Online Survey Tool,Questionnaire Software</A></DT>
 <DT><A HREF="http://hakim.se/experiments" ADD_DATE="1321527907" PRIVATE="0" TAGS="html,experiment,computer.graphics,stack-3D-Graphics">Hakim El Hattab</A></DT>
 <DT><A HREF="http://html5pt.org/?page_id=286" ADD_DATE="1321527552" PRIVATE="0" TAGS="stack-Community,directory,html,community">Comunidade HTML5 – Portugal |  Recursos</A></DT>
-<DT><A HREF="http://expressjs.com/" ADD_DATE="1321438144" PRIVATE="0" TAGS="javascript,framework,nodejs">Express - node web framework</A></DT>
+<DT><A HREF="http://expressjs.com/" ADD_DATE="1321438144" PRIVATE="0" TAGS="javascript,framework,nodejs,server">Express - node web framework</A></DT>
 <DT><A HREF="http://www.nodejitsu.com/" ADD_DATE="1321438112" PRIVATE="0" TAGS="nodejs,javascript,hosting">Nodejitsu.com</A></DT>
 <DT><A HREF="http://flatironjs.org/" ADD_DATE="1321437985" PRIVATE="0" TAGS="javascript,nodejs,framework">http://flatironjs.org/</A></DT>
 <DT><A HREF="https://www.l2f.inesc-id.pt/wiki/index.php/Main_Page" ADD_DATE="1321314191" PRIVATE="0" TAGS="language.processing,computational.linguistics,stack-Semantic-Data--Language-Processing--Text-Mining">Welcome to the Spoken Language Systems Lab - L²F - Spoken Language Systems Laboratory</A></DT>
