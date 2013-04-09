@@ -12,13 +12,18 @@ Use http://www.epochconverter.com/ to convert current time to unix timestamp
 
 -->
 
+<DT><A HREF="http://24ways.org/2012/a-harder-working-class/" ADD_DATE="1365500082" PRIVATE="0" TAGS="css,tutorial,interface.development">24 ways: A Harder-Working Class</A></DT>
+<DT><A HREF="http://blog.cnizz.com/" ADD_DATE="1365500075" PRIVATE="0" TAGS="php,stack-web-development">Web Development Blog of Chris Nizzardini</A></DT>
+<DT><A HREF="http://cssmatter.com/" ADD_DATE="1365500066" PRIVATE="0" TAGS="css,stack-web-development">CSS Galleries - CSS Matter</A></DT>
+<DT><A HREF="https://docs.google.com/forms" ADD_DATE="1365500052" PRIVATE="0" TAGS="survey,tool">Google Forms</A></DT>
+<DT><A HREF="http://mediaelementjs.com/" ADD_DATE="1365500028" PRIVATE="0" TAGS="video,javascript,library">MediaElement.js - HTML5 video player and audio player with Flash and Silverlight shims</A></DT>
+<DT><A HREF="http://lea.verou.me/css3patterns/" ADD_DATE="1365500018" PRIVATE="0" TAGS="css,showcase,image">CSS3 Patterns Gallery</A></DT>
 <DT><A HREF="http://www.hitchjs.com/" ADD_DATE="1363604196" PRIVATE="0" TAGS="css,polyfill,javascript,library">Hitch - A resource to add some expressive power to CSS for developers</A></DT>
 <DT><A HREF="http://www.uploadify.com/" ADD_DATE="1363604189" PRIVATE="0" TAGS="javascript,library,file">HTML5 File Upload Script, jQuery Multiple File Upload Plugin - Uploadify / UploadiFive - Uploadify</A></DT>
 <DT><A HREF="https://github.com/WebReflection/polpetta#-polpetta" ADD_DATE="1363604178" PRIVATE="0" TAGS="nodejs,framework,server">WebReflection/polpetta · GitHub</A></DT>
 <DT><A HREF="https://www.pythonanywhere.com/" ADD_DATE="1363604170" PRIVATE="0" TAGS="python,programming,collaboration,server,hosting">Python Programming in your Browser: PythonAnywhere</A></DT>
 <DT><A HREF="http://selection.datavisualization.ch/" ADD_DATE="1363604164" PRIVATE="0" TAGS="visualization,javascript,library,tool">Datavisualization.ch Selected Tools</A></DT>
 <DT><A HREF="http://www.longtailvideo.com/jw-player/about/" ADD_DATE="1363604156" PRIVATE="0" TAGS="video">About JW Player | Best HTML &amp; Flash Web Video Player | LongTail Video</A></DT>
-
 <DT><A HREF="http://uxdesign.smashingmagazine.com/" ADD_DATE="1363351772" PRIVATE="0" TAGS="interface,interaction,stack-interface-design--interaction-design,usability,information.architecture">Smashing UX Design — Usability, Psychology and Information Architecture</A></DT>
 <DT><A HREF="http://coding.smashingmagazine.com/" ADD_DATE="1363351765" PRIVATE="0" TAGS="javascript,html,css,interface.development,stack-web-development">Smashing Coding — Client-Side and Server-Side Development</A></DT>
 <DT><A HREF="https://developers.google.com/speed/pagespeed/service" ADD_DATE="1363351746" PRIVATE="0" TAGS="web,performance,tool,optimization">Turbocharge your web site with Google's PageSpeed Service</A></DT>
@@ -173,7 +178,7 @@ https://addons.mozilla.org/pt-PT/firefox/addon/firefox-os-simulator/</DD></DT>
 <DT><A HREF="http://jsfiddle.net/" ADD_DATE="1338980506" PRIVATE="0" TAGS="interface.development,collaboration,tool,javascript">Create a new Fiddle - jsFiddle</A></DT>
 <DT><A HREF="http://c2.com/cgi/wiki?WikiPedia" ADD_DATE="1338805449" PRIVATE="0" TAGS="community,open.content,history">Wiki Pedia</A></DT>
 <DT><A HREF="http://captology.stanford.edu/" ADD_DATE="1338804370" PRIVATE="0" TAGS="culture,research,technology,psychology">Persuasive Tech</A></DT>
-<DT><A HREF="http://css-tricks.com/" ADD_DATE="1338459957" PRIVATE="0" TAGS="tutorial,html,css">CSS-Tricks</A></DT>
+<DT><A HREF="http://css-tricks.com/" ADD_DATE="1338459957" PRIVATE="0" TAGS="tutorial,html,css,stack-web-development">CSS-Tricks</A></DT>
 <DT><A HREF="http://semanticweb.org/wiki/Main_Page" ADD_DATE="1338391463" PRIVATE="0" TAGS="community,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">semanticweb.org</A></DT>
 <DT><A HREF="http://semanticweb.com/" ADD_DATE="1338391358" PRIVATE="0" TAGS="news,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">semanticweb.com - The Voice of Semantic Web Business</A></DT>
 <DT><A HREF="http://www.w3.org/2007/11/Talks/Semantic_Web.html" ADD_DATE="1338290934" PRIVATE="0" TAGS="tutorial,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Talks by W3C Speakers</A></DT>
