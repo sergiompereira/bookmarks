@@ -9,9 +9,18 @@
 <!-- 
 
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
+or
+
+alert(new Date().getTime());
 
 -->
 
+<DT><A HREF="http://www.google.com/webmasters/tools/richsnippets" ADD_DATE="1366390383" PRIVATE="0" TAGS="search,semantic.web,tool">Google Structured Data Testing Tool</A></DT>
+<DT><A HREF="http://tools.seomoves.org/microdata/" ADD_DATE="1366390344" PRIVATE="0" TAGS="search,semantic.web,tool">Microdata Parser</A></DT>
+<DT><A HREF="http://www.sencha.com/products/animator/download/" ADD_DATE="1366390300" PRIVATE="0" TAGS="css,animation,tool">Sencha Animator | CSS3 Animations Made Easy</A></DT>
+<DT><A HREF="http://line25.com/" ADD_DATE="1366390244" PRIVATE="0" TAGS="css,interface.development,tutorial,stack-web-development">Line25 Web Design Blog</A></DT>
+<DT><A HREF="http://coderbay.com/" ADD_DATE="1366390139" PRIVATE="0" TAGS="interface.development,stack-web-development,javascript,php,database">CoderBay - Essential Stuff For Web Developers &amp; Designers</A></DT>
+<DT><A HREF="http://mathjs.org/" ADD_DATE="1366390039" PRIVATE="0" TAGS="mathematics,javascript,library">math.js | an extensive math library for JavaScript and Node.js</A></DT>
 <DT><A HREF="http://24ways.org/2012/a-harder-working-class/" ADD_DATE="1365500082" PRIVATE="0" TAGS="css,tutorial,interface.development">24 ways: A Harder-Working Class</A></DT>
 <DT><A HREF="http://blog.cnizz.com/" ADD_DATE="1365500075" PRIVATE="0" TAGS="php,stack-web-development">Web Development Blog of Chris Nizzardini</A></DT>
 <DT><A HREF="http://cssmatter.com/" ADD_DATE="1365500066" PRIVATE="0" TAGS="css,stack-web-development">CSS Galleries - CSS Matter</A></DT>
