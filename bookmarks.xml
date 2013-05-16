@@ -11,10 +11,15 @@
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
 or
 
-alert(new Date().getTime());
+alert(new Date().getTime().toString().substr(0,10));
 
 -->
 
+<DT><A HREF="http://jekyllrb.com/" ADD_DATE="1368698732" PRIVATE="0" TAGS="cms">Jekyll : Simple, blog-aware, static sites</A></DT>
+<DT><A HREF="http://meteor.com/" ADD_DATE="1368698723" PRIVATE="0" TAGS="interface.development,framework">A better way to build apps</A></DT>
+<DT><A HREF="http://pages.github.com/" ADD_DATE="1368698711" PRIVATE="0" TAGS="hosting">GitHub Pages</A></DT>
+<DT><A HREF="http://regexpal.com/" ADD_DATE="1368698693" PRIVATE="0" TAGS="regularexpression,tool">Regex Tester</A></DT>
+<DT><A HREF="http://www.zeroemcomportamento.org/" ADD_DATE="1368698671" PRIVATE="0" TAGS="cinema">Zero em Comportamento</A></DT>
 <DT><A HREF="http://www.google.com/webmasters/tools/richsnippets" ADD_DATE="1366390383" PRIVATE="0" TAGS="search,semantic.web,tool">Google Structured Data Testing Tool</A></DT>
 <DT><A HREF="http://tools.seomoves.org/microdata/" ADD_DATE="1366390344" PRIVATE="0" TAGS="search,semantic.web,tool">Microdata Parser</A></DT>
 <DT><A HREF="http://www.sencha.com/products/animator/download/" ADD_DATE="1366390300" PRIVATE="0" TAGS="css,animation,tool">Sencha Animator | CSS3 Animations Made Easy</A></DT>
