@@ -11,10 +11,11 @@
 Use http://www.epochconverter.com/ to convert current time to unix timestamp
 or
 
-alert(new Date().getTime().toString().substr(0,10));
+data:text/html,<html><script>alert(new Date().getTime().toString().substr(0,10));</script></html>
 
 -->
 
+<DT><A HREF="http://beebook.pt/" ADD_DATE="1369732338" PRIVATE="0" TAGS="book,publishing">Beebook: quantos livros quer fazer</A></DT>
 <DT><A HREF="http://jekyllrb.com/" ADD_DATE="1368698732" PRIVATE="0" TAGS="cms">Jekyll : Simple, blog-aware, static sites</A></DT>
 <DT><A HREF="http://meteor.com/" ADD_DATE="1368698723" PRIVATE="0" TAGS="interface.development,framework">A better way to build apps</A></DT>
 <DT><A HREF="http://pages.github.com/" ADD_DATE="1368698711" PRIVATE="0" TAGS="hosting">GitHub Pages</A></DT>
