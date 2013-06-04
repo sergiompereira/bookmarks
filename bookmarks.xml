@@ -15,6 +15,7 @@ data:text/html,<html><script>alert(new Date().getTime().toString().substr(0,10))
 
 -->
 
+<DT><A HREF="http://dwave.wordpress.com/" ADD_DATE="1370336807" PRIVATE="0" TAGS="quantum.computing,computer,computer.science,research,programming,stack-Research-Science-Future">Hack The Multiverse | Programming quantum computers for fun and profit</A></DT>
 <DT><A HREF="http://beebook.pt/" ADD_DATE="1369732338" PRIVATE="0" TAGS="book,publishing">Beebook: quantos livros quer fazer</A></DT>
 <DT><A HREF="http://jekyllrb.com/" ADD_DATE="1368698732" PRIVATE="0" TAGS="cms">Jekyll : Simple, blog-aware, static sites</A></DT>
 <DT><A HREF="http://meteor.com/" ADD_DATE="1368698723" PRIVATE="0" TAGS="interface.development,framework">A better way to build apps</A></DT>
