@@ -13,8 +13,23 @@ or
 
 data:text/html,<html><script>alert(new Date().getTime().toString().substr(0,10));</script></html>
 
+template:
+<DT><A HREF="" ADD_DATE="" PRIVATE="0" TAGS=""></A></DT>
+
 -->
 
+<DT><A HREF="http://www.horizontes.com.pt/" ADD_DATE="1371567676" PRIVATE="0" TAGS="trail.running,bicycle">Horizontes, Turismo desportivo</A></DT>
+<DT><A HREF="http://www.aventura.go-outdoor.pt/" ADD_DATE="1371567669" PRIVATE="0" TAGS="trail.running">Go-Outdoor Desporto, Aventura e Ar Livre</A></DT>
+<DT><A HREF="https://gathercontent.com/" ADD_DATE="1371567019" PRIVATE="0" TAGS="content,management,writing,collaboration,tool">Website content planning made simple.</A></DT>
+<DT><A HREF="http://get.qualaroo.com/" ADD_DATE="1371566981" PRIVATE="0" TAGS="survey,tool">Understand needs through targeted questions</A></DT>
+<DT><A HREF="http://prezi.com/" ADD_DATE="1371566915" PRIVATE="0" TAGS="presentation,tool">Prezi is a presentation tool that helps you organize and share your ideas.</A></DT>
+<DT><A HREF="http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/" ADD_DATE="1371566860" PRIVATE="0" TAGS="interface.development,javascript,tutorial,mobile">Facing The Challenge: Building A Responsive Web Application</A></DT>
+<DT><A HREF="http://www.nirandfar.com/" ADD_DATE="1371566810" PRIVATE="0" TAGS="business,userexperience,entrepreneurship,stack-Research-Science-Future">A Blog About Business, Behavior, and the Brain</A></DT>
+<DT><A HREF="http://topachievement.com/" ADD_DATE="1371566735" PRIVATE="0" TAGS="idea,creativity,process,management,stack-Research-Science-Future">Top Achievement — Goal Setting And Self Improvement Community.</A></DT>
+<DT><A HREF="http://www.open.edu/" ADD_DATE="1371566681" PRIVATE="0" TAGS="education">Distance Learning Courses and Adult Education - The Open University</A></DT>
+<DT><A HREF="http://simplemaps.com/" ADD_DATE="1371566641" PRIVATE="0" TAGS="map,javascript,interaction,svg">HTML5, JavaScript and Flash Interactive Maps for Websites</A></DT>
+<DT><A HREF="http://facebook.github.io/react/" ADD_DATE="1371566576" PRIVATE="0" TAGS="javascript,interface.development,library">React | A JavaScript library for building user interfaces</A></DT>
+<DT><A HREF="http://cienciahoje.pt/136" ADD_DATE="1371566450" PRIVATE="0" TAGS="entrepreneurship,science">Empreendedorismo e Empresas</A></DT>
 <DT><A HREF="http://dwave.wordpress.com/" ADD_DATE="1370336807" PRIVATE="0" TAGS="quantum.computing,computer,computer.science,research,programming,stack-Research-Science-Future">Hack The Multiverse | Programming quantum computers for fun and profit</A></DT>
 <DT><A HREF="http://beebook.pt/" ADD_DATE="1369732338" PRIVATE="0" TAGS="book,publishing">Beebook: quantos livros quer fazer</A></DT>
 <DT><A HREF="http://jekyllrb.com/" ADD_DATE="1368698732" PRIVATE="0" TAGS="cms">Jekyll : Simple, blog-aware, static sites</A></DT>
@@ -498,7 +513,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.ramblers.org.uk/" ADD_DATE="1306082909" PRIVATE="0" TAGS="travel,trekking">Ramblers | Home</A></DT>
 <DT><A HREF="http://lakedistrictwalks.com/" ADD_DATE="1306082868" PRIVATE="0" TAGS="travel,trekking">Lake District Walks Title Page</A></DT>
 <DT><A HREF="http://www.walkingenglishman.com/" ADD_DATE="1306082847" PRIVATE="0" TAGS="travel,trekking">The website for Free Walks and Free Map and Route Downloads for Walks in England and the UK</A></DT>
-<DT><A HREF="http://betastart.beta-i.pt/" ADD_DATE="1305845038" PRIVATE="0" TAGS="entrepeneur,business,coaching">Betastart</A></DT>
+<DT><A HREF="http://betastart.beta-i.pt/" ADD_DATE="1305845038" PRIVATE="0" TAGS="entrepreneurship,business,coaching">Betastart</A></DT>
 <DT><A HREF="http://www.xiconeditor.com/" ADD_DATE="1305750480" PRIVATE="0" TAGS="icon,tool,image">X-Icon Editor</A></DT>
 <DT><A HREF="http://en.wikipedia.org/wiki/Symmetric_key_algorithm" ADD_DATE="1305113474" PRIVATE="0" TAGS="security,encryption">Symmetric-key algorithm - Wikipedia,the free encyclopedia</A></DT>
 <DT><A HREF="http://en.wikipedia.org/wiki/Digital_Signature_Algorithm" ADD_DATE="1305112384" PRIVATE="0" TAGS="security,encryption">Digital Signature Algorithm - Wikipedia,the free encyclopedia</A></DT>
