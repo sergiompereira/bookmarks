@@ -18,6 +18,19 @@ template:
 
 -->
 
+<DT><A HREF="http://hood.ie/" ADD_DATE="1372436624" PRIVATE="0" TAGS="interface.development,framework,server,api,javascript">Hoodie : Very fast web app development</A></DT>
+<DT><A HREF="http://www.campaignmonitor.com/" ADD_DATE="1372436580" PRIVATE="0" TAGS="email,tool,marketing">Send beautiful email newsletters with Campaign Monitor</A></DT>
+<DT><A HREF="http://mailchimp.com/" ADD_DATE="1372436514" PRIVATE="0" TAGS="email,tool,marketing">Easy Email Marketing | MailChimp</A></DT>
+<DT><A HREF="http://fluentconf.com/" ADD_DATE="1372436411" PRIVATE="0" TAGS="event,interface.development">Fluent - O'Reilly Conferences</A></DT>
+<DT><A HREF="http://front-trends.com/" ADD_DATE="1372436326" PRIVATE="0" TAGS="event,interface.development">A gathering where front-end lovers and tech entrepreneurs
+discover the latest trends in development and business</A></DT>
+<DT><A HREF="http://csswizardry.com/" ADD_DATE="1372436252" PRIVATE="0" TAGS="css,stack-web-development">Home - CSS Wizardry - CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts</A></DT>
+<DT><A HREF="http://dailyjs.com/" ADD_DATE="1372436144" PRIVATE="0" TAGS="javascript,stack-web-development">DailyJS: A JavaScript Blog</A></DT>
+<DT><A HREF="http://purecss.io/" ADD_DATE="1372436097" PRIVATE="0" TAGS="css,library,mobile">Pure : A set of small, responsive CSS modules that you can use in every web project.</A></DT>
+<DT><A HREF="http://svgjs.com/" ADD_DATE="1372436043" PRIVATE="0" TAGS="svg,javascript,library">svg.js - A lightweight JavaScript library for manipulating and animating svg</A></DT>
+<DT><A HREF="http://content-science.com/expertise/content-insights/p/1" ADD_DATE="1372435988" PRIVATE="0" TAGS="content">content insights blog - Page 1 - Expertise | Content Science</A></DT>
+<DT><A HREF="http://grabaperch.com/" ADD_DATE="1372435939" PRIVATE="0" TAGS="cms,content">Perch - The really little content management system (CMS)</A></DT>
+
 <DT><A HREF="http://www.horizontes.com.pt/" ADD_DATE="1371567676" PRIVATE="0" TAGS="trail.running,bicycle">Horizontes, Turismo desportivo</A></DT>
 <DT><A HREF="http://www.aventura.go-outdoor.pt/" ADD_DATE="1371567669" PRIVATE="0" TAGS="trail.running">Go-Outdoor Desporto, Aventura e Ar Livre</A></DT>
 <DT><A HREF="https://gathercontent.com/" ADD_DATE="1371567019" PRIVATE="0" TAGS="content,management,writing,collaboration,tool">Website content planning made simple.</A></DT>
@@ -41,7 +54,7 @@ template:
 <DT><A HREF="http://tools.seomoves.org/microdata/" ADD_DATE="1366390344" PRIVATE="0" TAGS="search,semantic.web,tool">Microdata Parser</A></DT>
 <DT><A HREF="http://www.sencha.com/products/animator/download/" ADD_DATE="1366390300" PRIVATE="0" TAGS="css,animation,tool">Sencha Animator | CSS3 Animations Made Easy</A></DT>
 <DT><A HREF="http://line25.com/" ADD_DATE="1366390244" PRIVATE="0" TAGS="css,interface.development,tutorial,stack-web-development">Line25 Web Design Blog</A></DT>
-<DT><A HREF="http://coderbay.com/" ADD_DATE="1366390139" PRIVATE="0" TAGS="interface.development,stack-web-development,javascript,php,database">CoderBay - Essential Stuff For Web Developers &amp; Designers</A></DT>
+<DT><A HREF="http://coderbay.com/" ADD_DATE="1366390139" PRIVATE="0" TAGS="interface.development,stack-web-development,javascript,php,database">CoderBay - Essential Stuff For Web Developers and Designers</A></DT>
 <DT><A HREF="http://mathjs.org/" ADD_DATE="1366390039" PRIVATE="0" TAGS="mathematics,javascript,library">math.js | an extensive math library for JavaScript and Node.js</A></DT>
 <DT><A HREF="http://24ways.org/2012/a-harder-working-class/" ADD_DATE="1365500082" PRIVATE="0" TAGS="css,tutorial,interface.development">24 ways: A Harder-Working Class</A></DT>
 <DT><A HREF="http://blog.cnizz.com/" ADD_DATE="1365500075" PRIVATE="0" TAGS="php,stack-web-development">Web Development Blog of Chris Nizzardini</A></DT>
@@ -54,7 +67,7 @@ template:
 <DT><A HREF="https://github.com/WebReflection/polpetta#-polpetta" ADD_DATE="1363604178" PRIVATE="0" TAGS="nodejs,framework,server">WebReflection/polpetta · GitHub</A></DT>
 <DT><A HREF="https://www.pythonanywhere.com/" ADD_DATE="1363604170" PRIVATE="0" TAGS="python,programming,collaboration,server,hosting">Python Programming in your Browser: PythonAnywhere</A></DT>
 <DT><A HREF="http://selection.datavisualization.ch/" ADD_DATE="1363604164" PRIVATE="0" TAGS="visualization,javascript,library,tool">Datavisualization.ch Selected Tools</A></DT>
-<DT><A HREF="http://www.longtailvideo.com/jw-player/about/" ADD_DATE="1363604156" PRIVATE="0" TAGS="video">About JW Player | Best HTML &amp; Flash Web Video Player | LongTail Video</A></DT>
+<DT><A HREF="http://www.longtailvideo.com/jw-player/about/" ADD_DATE="1363604156" PRIVATE="0" TAGS="video">About JW Player | Best HTML and Flash Web Video Player | LongTail Video</A></DT>
 <DT><A HREF="http://uxdesign.smashingmagazine.com/" ADD_DATE="1363351772" PRIVATE="0" TAGS="interface,interaction,stack-interface-design--interaction-design,usability,information.architecture">Smashing UX Design — Usability, Psychology and Information Architecture</A></DT>
 <DT><A HREF="http://coding.smashingmagazine.com/" ADD_DATE="1363351765" PRIVATE="0" TAGS="javascript,html,css,interface.development,stack-web-development">Smashing Coding — Client-Side and Server-Side Development</A></DT>
 <DT><A HREF="https://developers.google.com/speed/pagespeed/service" ADD_DATE="1363351746" PRIVATE="0" TAGS="web,performance,tool,optimization">Turbocharge your web site with Google's PageSpeed Service</A></DT>
@@ -88,7 +101,7 @@ template:
 <DT><A HREF="http://ocw.mit.edu/index.htm" ADD_DATE="1358848965" PRIVATE="0" TAGS="education">MIT OpenCourseWare | Free online courses</A></DT>
 <DT><A HREF="https://www.edx.org/" ADD_DATE="1358848853" PRIVATE="0" TAGS="education">Free courses,edX Universities</A></DT>
 <DT><A HREF="http://www.epochconverter.com/" ADD_DATE="1358506148" PRIVATE="0" TAGS="tool">Epoch Converter - Unix Timestamp Converter</A></DT>
-<DT><A HREF="http://refresh-sf.com/yui/" ADD_DATE="1358506075" PRIVATE="0" TAGS="tool,css,javascript">Javascript,CSS minimizer</A></DT>
+<DT><A HREF="http://refresh-sf.com/yui/" ADD_DATE="1358506075" PRIVATE="0" TAGS="tool,css,javascript,optimization">Javascript,CSS minimizer</A></DT>
 <DT><A HREF="http://www.w3.org/community/philoweb/wiki/Publications" ADD_DATE="1358506050" PRIVATE="0" TAGS="web,community,research,philosophy,stack-Research-Science-Future">Web Philosophy Community Group</A></DT>
 <DT><A HREF="http://www.semantic-web-journal.net/" ADD_DATE="1358506038" PRIVATE="0" TAGS="news,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Semantic Web Journal</A></DT>
 <DT><A HREF="http://www.w3.org/community/webed/" ADD_DATE="1358161535" PRIVATE="0" TAGS="web,standard,stack-web-development,community,education">Web Education Community Group</A></DT>
