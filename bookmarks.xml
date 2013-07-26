@@ -18,6 +18,12 @@ template:
 
 -->
 
+<DT><A HREF="https://www.pyrocms.com/" ADD_DATE="1374844793" PRIVATE="0" TAGS="cms,php">PyroCMS</A></DT>
+<DT><A HREF="http://typo3.org/" ADD_DATE="1374598974" PRIVATE="0" TAGS="cms,php">Typo3 : the entreprise open source CMS</A></DT>
+<DT><A HREF="http://www.concrete5.org/" ADD_DATE="1374598967" PRIVATE="0" TAGS="cms,php">Concrete5 : free CMS</A></DT>
+<DT><A HREF="http://www.dnnsoftware.com/" ADD_DATE="1374598959" PRIVATE="0" TAGS="cms,.net">DNN : free CMS</A></DT>
+<DT><A HREF="http://umbraco.com/" ADD_DATE="1374598950" PRIVATE="0" TAGS="cms,.net">Umbraco : Open source ASP.NET CMS</A></DT>
+<DT><A HREF="http://www.html5-css3.fr/" ADD_DATE="1374242553" PRIVATE="0" TAGS="javascript,html,stack-web-development">Tutoriels et démonstrations HTML5 et CSS3</A></DT>
 <DT><A HREF="http://html2canvas.hertzen.com/" ADD_DATE="1374240810" PRIVATE="0" TAGS="javascript,canvas,image,library">html2canvas : take "screenshots" of webpages or parts of it</A></DT>
 <DT><A HREF="http://larsjung.de/qrcode/" ADD_DATE="1374240799" PRIVATE="0" TAGS="javascript,library,qrcode,encode">jQuery.qrcode : generate QR codes dynamically</A></DT>
 <DT><A HREF="http://code.shutterstock.com/rickshaw/" ADD_DATE="1374240786" PRIVATE="0" TAGS="javascript,library,visualization,data,time">Rickshaw is a JavaScript toolkit for creating interactive time series graphs.</A></DT>
