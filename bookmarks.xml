@@ -28,11 +28,27 @@ template:
 <DT><A HREF="https://www.facebook.com/ScienceOffice" ADD_DATE="1374926373" PRIVATE="0" TAGS="science,communication,Portugal">Science Office : facebook</A></DT>
 <DT><A HREF="http://www.scienceoffice.org/" ADD_DATE="1374926325" PRIVATE="0" TAGS="science,communication,Portugal">Science Office</A></DT>
 <DT><A HREF="http://www.voi-communication.com/" ADD_DATE="1374926246" PRIVATE="0" TAGS="science,communication,Portugal">VOI Communication</A></DT>
+
+<DT><A HREF="https://www.pyrocms.com/" ADD_DATE="1374844793" PRIVATE="0" TAGS="cms,php">PyroCMS</A></DT>
+<DT><A HREF="http://typo3.org/" ADD_DATE="1374598974" PRIVATE="0" TAGS="cms,php">Typo3 : the entreprise open source CMS</A></DT>
+<DT><A HREF="http://www.concrete5.org/" ADD_DATE="1374598967" PRIVATE="0" TAGS="cms,php">Concrete5 : free CMS</A></DT>
+<DT><A HREF="http://www.dnnsoftware.com/" ADD_DATE="1374598959" PRIVATE="0" TAGS="cms,.net">DNN : free CMS</A></DT>
+<DT><A HREF="http://umbraco.com/" ADD_DATE="1374598950" PRIVATE="0" TAGS="cms,.net">Umbraco : Open source ASP.NET CMS</A></DT>
+
 <DT><A HREF="http://associacaotrailrunningportugal.pt/" ADD_DATE="1374345505" PRIVATE="0" TAGS="trail.running,Portugal">Associação de Trail Running de Portugal</A></DT>
 <DT><A HREF="http://www.justgiving.com/" ADD_DATE="1374135536" PRIVATE="0" TAGS="crowdfunding">Online fundraising donations and ideas - JustGiving</A></DT>
 <DT><A HREF="http://ppl.com.pt/" ADD_DATE="1374135473" PRIVATE="0" TAGS="crowdfunding,Portugal">PPL | Crowdfunding Portugal</A></DT>
 <DT><A HREF="http://esmateria.com/" ADD_DATE="1374135370" PRIVATE="0" TAGS="science,communication,Spain">Materia | La web de noticias de ciencia</A></DT>
 <DT><A HREF="http://purplefeather.co.uk" ADD_DATE="1373733039" PRIVATE="0" TAGS="content,web,writing,communication">Purple Feather: online content specialists</A></DT>
+
+<DT><A HREF="http://www.html5-css3.fr/" ADD_DATE="1374242553" PRIVATE="0" TAGS="javascript,html,stack-web-development">Tutoriels et démonstrations HTML5 et CSS3</A></DT>
+<DT><A HREF="http://html2canvas.hertzen.com/" ADD_DATE="1374240810" PRIVATE="0" TAGS="javascript,canvas,image,library">html2canvas : take "screenshots" of webpages or parts of it</A></DT>
+<DT><A HREF="http://larsjung.de/qrcode/" ADD_DATE="1374240799" PRIVATE="0" TAGS="javascript,library,qrcode,encode">jQuery.qrcode : generate QR codes dynamically</A></DT>
+<DT><A HREF="http://code.shutterstock.com/rickshaw/" ADD_DATE="1374240786" PRIVATE="0" TAGS="javascript,library,visualization,data,time">Rickshaw is a JavaScript toolkit for creating interactive time series graphs.</A></DT>
+<DT><A HREF="http://amplifyjs.com/" ADD_DATE="1374240221" PRIVATE="0" TAGS="javascript,library,data">Amplifyjs : A JavaScript Component Library</A></DT>
+<DT><A HREF="http://browsershots.org/" ADD_DATE="1373901067" PRIVATE="0" TAGS="browser,debug,tool">Browser Shots: Check Browser Compatibility</A></DT>
+<DT><A HREF="http://www.printfriendly.com/" ADD_DATE="1373897597" PRIVATE="0" TAGS="print,tool,content">PrintFriendly: Save Money and the Environment</A></DT>
+
 <DT><A HREF="https://www.facebook.com/groups/CONet/" ADD_DATE="1373222223" PRIVATE="0" TAGS="science,communication,community">SciCom Portugal</A></DT>
 <DT><A HREF="https://www.facebook.com/SciComPt" ADD_DATE="1373222207" PRIVATE="0" TAGS="science,communication,community,event">Congresso de Comunicação de Ciência : Facebook</A></DT>
 <DT><A HREF="http://comunicacaodeciencia.wordpress.com/" ADD_DATE="1373222143" PRIVATE="0" TAGS="science,communication,community,event">Congresso de Comunicação de Ciência</A></DT>
