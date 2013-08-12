@@ -17,6 +17,9 @@ template:
 <DT><A HREF="" ADD_DATE="" PRIVATE="0" TAGS=""></A></DT>
 
 -->
+<DT><A HREF="http://www.sublimetext.com/" ADD_DATE="1375177328" PRIVATE="0" TAGS="tool,programming">Sublime Text is a sophisticated text editor for code, markup and prose.</A></DT>
+<DT><A HREF="http://www.babylonjs.com/" ADD_DATE="1375177328" PRIVATE="0" TAGS="webgl,computer.graphics,library,javascript,3d,game">Babylon.js is a 3D engine based on webgl and javascript.</A></DT>
+<DT><A HREF="http://timechart.toolset.io/" ADD_DATE="1375177328" PRIVATE="0" TAGS="javascript,library,visualization,data,time">timechart is a powerful and simple to use chart library for creating time based charts in pure HTML5-JavaScript.</A></DT>
 
 <DT><A HREF="https://www.pyrocms.com/" ADD_DATE="1374844793" PRIVATE="0" TAGS="cms,php">PyroCMS</A></DT>
 <DT><A HREF="http://typo3.org/" ADD_DATE="1374598974" PRIVATE="0" TAGS="cms,php">Typo3 : the entreprise open source CMS</A></DT>
@@ -702,7 +705,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.derschmale.com/" ADD_DATE="1290079840" PRIVATE="0" TAGS="actionscript,3d,pixelbender,physics,computer.graphics,stack-3D-Graphics">Der Schmale - David Lenaerts’s blog</A>
 <DD>JITB player</DD></DT>
 <DT><A HREF="http://pixelero.wordpress.com/" ADD_DATE="1290078480" PRIVATE="0" TAGS="Finland,image.processing,actionscript,pixelbender,stack-3D-Graphics">Pixelero</A></DT>
-<DT><A HREF="http://code.google.com/webfonts" ADD_DATE="1289993272" PRIVATE="0" TAGS="css,font,typography,tool">Google Font Directory</A></DT>
+<DT><A HREF="http://www.google.com/fonts/" ADD_DATE="1289993272" PRIVATE="0" TAGS="css,font,typography,tool">Google Font Directory</A></DT>
 <DT><A HREF="http://www.fontspring.com/" ADD_DATE="1289993244" PRIVATE="0" TAGS="css,font,typography">Desktop and @font-face fonts | Fontspring</A></DT>
 <DT><A HREF="http://typefront.com/" ADD_DATE="1289993218" PRIVATE="0" TAGS="css,font,typography">TypeFront</A></DT>
 <DT><A HREF="http://www.fontslive.com/" ADD_DATE="1289993193" PRIVATE="0" TAGS="css,font,typography">Fonts Live - Expertly Crafted Web Fonts from Ascender</A></DT>
