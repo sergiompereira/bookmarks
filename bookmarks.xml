@@ -17,12 +17,19 @@ template:
 <DT><A HREF="" ADD_DATE="" PRIVATE="0" TAGS=""></A></DT>
 
 -->
+
+
 <DT><A HREF="http://www.ppa.co.uk/" ADD_DATE="1376585643" PRIVATE="0" TAGS="publishing,association">Professional Publishers Association</A></DT>
 <DT><A HREF="http://mrmagazine.wordpress.com/" ADD_DATE="1376585633" PRIVATE="0" TAGS="magazine,publishing">Mr. Magazine | The official blog of Mr. Magazine (TM) Samir A. Husni</A></DT>
 <DT><A HREF="http://mrmagazine.com/" ADD_DATE="1376585621" PRIVATE="0" TAGS="magazine,publishing">Mr. Magazine.com - The Official Site of Samir "Mr. Magazine" Husni, Ph.D.</A></DT>
 <DT><A HREF="http://www.epinions.com/?sb=1" ADD_DATE="1376585602" PRIVATE="0" TAGS="survey">Product Reviews and Consumer Reports | Epinions.com</A></DT>
+<DT><A HREF="http://www.turnjs.com/" ADD_DATE="1376326673" PRIVATE="0" TAGS="javascript,library,interface.development">TurnJS : flipbook library</A></DT>
+<DT><A HREF="http://tympanus.net/codrops/" ADD_DATE="1376326494" PRIVATE="0" TAGS="css,stack-web-development">Codrops</A></DT>
 <DT><A HREF="http://pt.surveymonkey.com/" ADD_DATE="1376242114" PRIVATE="0" TAGS="survey,tool">Survey Monkey</A></DT>
 <DT><A HREF="http://www.bbc.co.uk/news/business-22434141" ADD_DATE="1376240688" PRIVATE="0" TAGS="entrepreneurship">BBC Entrepreneurship</A></DT>
+<DT><A HREF="http://www.sublimetext.com/" ADD_DATE="1375177328" PRIVATE="0" TAGS="tool,programming">Sublime Text is a sophisticated text editor for code, markup and prose.</A></DT>
+<DT><A HREF="http://www.babylonjs.com/" ADD_DATE="1375177328" PRIVATE="0" TAGS="webgl,computer.graphics,library,javascript,3d,game">Babylon.js is a 3D engine based on webgl and javascript.</A></DT>
+<DT><A HREF="http://timechart.toolset.io/" ADD_DATE="1375177328" PRIVATE="0" TAGS="javascript,library,visualization,data,time">timechart is a powerful and simple to use chart library for creating time based charts in pure HTML5-JavaScript.</A></DT>
 <DT><A HREF="http://www.jornalismocientifico.com.br/index.htm" ADD_DATE="1375014205" PRIVATE="0" TAGS="science,communication,Brasil">Portal do Jornalismo Científico</A></DT>
 <DT><A HREF="http://www.nasw.org/" ADD_DATE="1375013369" PRIVATE="0" TAGS="writing,science,association">National Association of science writers</A></DT>
 <DT><A HREF="https://www.facebook.com/Comunicacao.Ciencia" ADD_DATE="1374938096" PRIVATE="0" TAGS="science,communication,Portugal">Gobius, Comunicação e Ciência : facebook</A></DT>
@@ -33,19 +40,16 @@ template:
 <DT><A HREF="https://www.facebook.com/ScienceOffice" ADD_DATE="1374926373" PRIVATE="0" TAGS="science,communication,Portugal">Science Office : facebook</A></DT>
 <DT><A HREF="http://www.scienceoffice.org/" ADD_DATE="1374926325" PRIVATE="0" TAGS="science,communication,Portugal">Science Office</A></DT>
 <DT><A HREF="http://www.voi-communication.com/" ADD_DATE="1374926246" PRIVATE="0" TAGS="science,communication,Portugal">VOI Communication</A></DT>
-
 <DT><A HREF="https://www.pyrocms.com/" ADD_DATE="1374844793" PRIVATE="0" TAGS="cms,php">PyroCMS</A></DT>
 <DT><A HREF="http://typo3.org/" ADD_DATE="1374598974" PRIVATE="0" TAGS="cms,php">Typo3 : the entreprise open source CMS</A></DT>
 <DT><A HREF="http://www.concrete5.org/" ADD_DATE="1374598967" PRIVATE="0" TAGS="cms,php">Concrete5 : free CMS</A></DT>
 <DT><A HREF="http://www.dnnsoftware.com/" ADD_DATE="1374598959" PRIVATE="0" TAGS="cms,.net">DNN : free CMS</A></DT>
 <DT><A HREF="http://umbraco.com/" ADD_DATE="1374598950" PRIVATE="0" TAGS="cms,.net">Umbraco : Open source ASP.NET CMS</A></DT>
-
 <DT><A HREF="http://associacaotrailrunningportugal.pt/" ADD_DATE="1374345505" PRIVATE="0" TAGS="trail.running,Portugal">Associação de Trail Running de Portugal</A></DT>
 <DT><A HREF="http://www.justgiving.com/" ADD_DATE="1374135536" PRIVATE="0" TAGS="crowdfunding">Online fundraising donations and ideas - JustGiving</A></DT>
 <DT><A HREF="http://ppl.com.pt/" ADD_DATE="1374135473" PRIVATE="0" TAGS="crowdfunding,Portugal">PPL | Crowdfunding Portugal</A></DT>
 <DT><A HREF="http://esmateria.com/" ADD_DATE="1374135370" PRIVATE="0" TAGS="science,communication,Spain">Materia | La web de noticias de ciencia</A></DT>
 <DT><A HREF="http://purplefeather.co.uk" ADD_DATE="1373733039" PRIVATE="0" TAGS="content,web,writing,communication">Purple Feather: online content specialists</A></DT>
-
 <DT><A HREF="http://www.html5-css3.fr/" ADD_DATE="1374242553" PRIVATE="0" TAGS="javascript,html,stack-web-development">Tutoriels et démonstrations HTML5 et CSS3</A></DT>
 <DT><A HREF="http://html2canvas.hertzen.com/" ADD_DATE="1374240810" PRIVATE="0" TAGS="javascript,canvas,image,library">html2canvas : take "screenshots" of webpages or parts of it</A></DT>
 <DT><A HREF="http://larsjung.de/qrcode/" ADD_DATE="1374240799" PRIVATE="0" TAGS="javascript,library,qrcode,encode">jQuery.qrcode : generate QR codes dynamically</A></DT>
@@ -726,7 +730,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.derschmale.com/" ADD_DATE="1290079840" PRIVATE="0" TAGS="actionscript,3d,pixelbender,physics,computer.graphics,stack-3D-Graphics">Der Schmale - David Lenaerts’s blog</A>
 <DD>JITB player</DD></DT>
 <DT><A HREF="http://pixelero.wordpress.com/" ADD_DATE="1290078480" PRIVATE="0" TAGS="Finland,image.processing,actionscript,pixelbender,stack-3D-Graphics">Pixelero</A></DT>
-<DT><A HREF="http://code.google.com/webfonts" ADD_DATE="1289993272" PRIVATE="0" TAGS="css,font,typography,tool">Google Font Directory</A></DT>
+<DT><A HREF="http://www.google.com/fonts/" ADD_DATE="1289993272" PRIVATE="0" TAGS="css,font,typography,tool">Google Font Directory</A></DT>
 <DT><A HREF="http://www.fontspring.com/" ADD_DATE="1289993244" PRIVATE="0" TAGS="css,font,typography">Desktop and @font-face fonts | Fontspring</A></DT>
 <DT><A HREF="http://typefront.com/" ADD_DATE="1289993218" PRIVATE="0" TAGS="css,font,typography">TypeFront</A></DT>
 <DT><A HREF="http://www.fontslive.com/" ADD_DATE="1289993193" PRIVATE="0" TAGS="css,font,typography">Fonts Live - Expertly Crafted Web Fonts from Ascender</A></DT>
