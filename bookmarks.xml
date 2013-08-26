@@ -17,6 +17,12 @@ template:
 <DT><A HREF="" ADD_DATE="" PRIVATE="0" TAGS=""></A></DT>
 
 -->
+
+<DT><A HREF="http://www.wufoo.com/" ADD_DATE="1377514169" PRIVATE="0" TAGS="form">WuFoo - The Online Form Builder</A></DT>
+<DT><A HREF="https://zapier.com/zapbook/mailchimp/mailgun/" ADD_DATE="1377514140" PRIVATE="0" TAGS="email,marketing,integration">MailChimp and Mailgun Integrations - Zapbook - Zapier</A></DT>
+<DT><A HREF="https://zapier.com/" ADD_DATE="1377514112" PRIVATE="0" TAGS="webservice,integration,api,automation">Automate the Web - Zapier enables you to automate tasks between other online services </A></DT>
+<DT><A HREF="http://www.mailgun.com/" ADD_DATE="1377514073" PRIVATE="0" TAGS="email,development,api">Mailgun: Programmable Mail Servers</A></DT>
+<DT><A HREF="http://sendgrid.com/" ADD_DATE="1377514055" PRIVATE="0" TAGS="email,tool,marketing">Email Delivery and Transactional Email Servers | SendGrid</A></DT>
 <DT><A HREF="http://www.turnjs.com/" ADD_DATE="1376326673" PRIVATE="0" TAGS="javascript,library,interface.development">TurnJS : flipbook library</A></DT>
 <DT><A HREF="http://tympanus.net/codrops/" ADD_DATE="1376326494" PRIVATE="0" TAGS="css,stack-web-development">Codrops</A></DT>
 <DT><A HREF="http://www.bbc.co.uk/news/business-22434141" ADD_DATE="1376240688" PRIVATE="0" TAGS="entrepreneurship">BBC Entrepreneurship</A></DT>
@@ -143,7 +149,7 @@ discover the latest trends in development and business</A></DT>
 <DT><A HREF="https://github.com/unconed/MathBox.js" ADD_DATE="1362738496" PRIVATE="0" TAGS="javascript,mathematics,library,computer.graphics">MathBox.js</A></DT>
 <DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test,nodejs">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
 <DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
-<DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,nodejs">Grunt: The JavaScript Task Runner</A></DT>
+<DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,automation,nodejs">Grunt: The JavaScript Task Runner</A></DT>
 <DT><A HREF="http://leafletjs.com" ADD_DATE="1361808478" PRIVATE="0" TAGS="javascript,library,map,mobile">Leaflet - a JavaScript library for mobile-friendly maps</A></DT>
 <DT><A HREF="https://github.com/dannycoates/node-inspector" ADD_DATE="1361805688" PRIVATE="0" TAGS="javascript,debug,nodejs">node-inspector</A></DT>
 <DT><A HREF="http://groundwork.sidereel.com/?url=home" ADD_DATE="1361634115" PRIVATE="0" TAGS="css,responsive.design,framework,mobile">GroundworkCSS : A Responsive HTML5, CSS and Javascript Framework</A></DT>
