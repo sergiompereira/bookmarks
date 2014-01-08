@@ -18,6 +18,16 @@ template:
 
 -->
 
+<DT><A HREF="http://devdocs.io/" ADD_DATE="1389180506" PRIVATE="0" TAGS="documentation,programming">DevDocs: API documentation agregator</A></DT>
+<DT><A HREF="http://uxpin.com/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">UXPin: UX Design &amp; Wireframing Tools As Beautiful As Your Work</A></DT>
+<DT><A HREF="http://www.hotgloo.com/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">HogGloo Wireframe Prototyping</A></DT>
+<DT><A HREF="http://balsamiq.com/products/mockups/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">Balsamiq Mockups</A></DT>
+<DT><A HREF="https://moqups.com/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">Moqups</A></DT>
+<DT><A HREF="http://thenextweb.com/" ADD_DATE="1386583884" PRIVATE="0" TAGS="stack-interface-design--interaction-design,mobile">The Next Web - International technology news, business &amp; culture</A></DT>
+<DT><A HREF="http://infogr.am/" ADD_DATE="1385978066" PRIVATE="0" TAGS="infographics,information.design,tool">Create Interactive Infographics</A></DT>
+<DT><A HREF="http://mediaqueri.es/" ADD_DATE="1385717955" PRIVATE="0" TAGS="showcase,responsive.design,mobile,design">Media Queries Showcase</A></DT>
+<DT><A HREF="http://www.jordanm.co.uk/" ADD_DATE="1385373393" PRIVATE="0" TAGS="design,stack-interface-design--interaction-design">Jordan Moore - Web Designer and Front End Developer</A></DT>
+<DT><A HREF="https://github.com/43081j/funky" ADD_DATE="1383817660" PRIVATE="0" TAGS="video,image.processing,javascript,library">Library to add some funky effects and other transformations to webcam media using WebRTC and CSS filters</A></DT>
 <DT><A HREF="http://latex2html5.com/" ADD_DATE="1382605766" PRIVATE="0" TAGS="mathematics,learning,infographics,html">Author interactive math equations and diagrams</A></DT>
 <DT><A HREF="https://mathapedia.com/" ADD_DATE="1382605784" PRIVATE="0" TAGS="mathematics,learning,infographics">Author interactive math textbooks online</A></DT>
 <DT><A HREF="http://www.mathjax.org/" ADD_DATE="1382605818" PRIVATE="0" TAGS="mathematics,javascript">Beautiful math in all browsers</A></DT>
@@ -343,7 +353,6 @@ Although originally designed for use in SVG,filter effects are a set a set of op
 <DT><A HREF="http://buddycloud.com/" ADD_DATE="1335109427" PRIVATE="0" TAGS="social,collaboration,tool">buddycloud</A></DT>
 <DT><A HREF="http://www.subblue.com/gallery/album/37" ADD_DATE="1334918689" PRIVATE="0" TAGS="webgl,computer.graphics,fractal">Gallery of Mathematical and Generative Art • subblue</A></DT>
 <DT><A HREF="http://www.subblue.com/gallery/album/89" ADD_DATE="1334918657" PRIVATE="0" TAGS="webgl,computer.graphics,fractal">Gallery of Mathematical and Generative Art • subblue</A></DT>
-<DT><A HREF="http://www.createjs.com/#!/CreateJS" ADD_DATE="1334917165" PRIVATE="0" TAGS="html,interface.development,library,javascript">CreateJS | A suite of Javascript libraries and tools designed for working with HTML5</A></DT>
 <DT><A HREF="http://cordis.europa.eu/fp7/ict/language-technologies/news_en.html" ADD_DATE="1334570851" PRIVATE="0" TAGS="news,technology,language,stack-Semantic-Data--Language-Processing--Text-Mining">European Commission : CORDIS : FP7 : ICT : Language Technologies : News</A></DT>
 <DT><A HREF="http://www.jisc.ac.uk/" ADD_DATE="1334568950" PRIVATE="0" TAGS="data,language.processing,text.mining,information,research,stack-Semantic-Data--Language-Processing--Text-Mining">JISC : Inspiring innovation</A></DT>
 <DT><A HREF="http://www.associacaomundodacorrida.com/UTSesimbra12.htm" ADD_DATE="1333654277" PRIVATE="0" TAGS="running">Associação Desportiva O Mundo da Corrida</A></DT>
@@ -405,7 +414,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.w3.org/standards/xml/transformation" ADD_DATE="1328704886" PRIVATE="0" TAGS="publishing,web,markup,xslt,xml">Transformation - W3C</A></DT>
 <DT><A HREF="http://www.w3.org/standards/xml/" ADD_DATE="1328703708" PRIVATE="0" TAGS="web,markup,standard,xml">XML Technology - W3C</A></DT>
 <DT><A HREF="http://www.w3.org/TR/rdf-sparql-query/" ADD_DATE="1328703536" PRIVATE="0" TAGS="semantic.web,sparql,rdf">SPARQL Query Language for RDF</A></DT>
-<DT><A HREF="http://www.w3.org/DesignIssues/" ADD_DATE="1328627362" PRIVATE="0" TAGS="philosophy,markup,html,future,idea,semantic.web,web">Design Issues for the World Wide Web</A></DT>
+<DT><A HREF="http://www.w3.org/DesignIssues/" ADD_DATE="1328627362" PRIVATE="0" TAGS="philosophy,markup,html,future,idea,semantic.web,web,research,stack-Research-Science-Future">Design Issues for the World Wide Web</A></DT>
 <DT><A HREF="http://www.archive.org/" ADD_DATE="1328285580" PRIVATE="0" TAGS="search,history,web">Internet Archive: Digital Library of Free Books,Movies,Music and Wayback Machine</A></DT>
 <DT><A HREF="http://www.w3.org/standards/semanticweb/" ADD_DATE="1328283879" PRIVATE="0" TAGS="metadata,rdf,standard,information.retrieval,web,semantic,semantic.web,stack-Semantic-Data--Language-Processing--Text-Mining">Semantic Web - W3C</A></DT>
 <DT><A HREF="http://caniuse.com/" ADD_DATE="1328282985" PRIVATE="0" TAGS="browser,standard,web">When can I use... Support tables for HTML5,CSS3,etc</A></DT>
@@ -596,7 +605,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://blog.theflashblog.com/presentations/bytearrays.html" ADD_DATE="1306488533" PRIVATE="0" TAGS="computer,actionscript,mathematics">http://blog.theflashblog.com/presentations/bytearrays.html</A></DT>
 <DT><A HREF="http://www.rfi.fr/aef_player_popup/rfi_player" ADD_DATE="1306481016" PRIVATE="0" TAGS="radio,news">Ecouter RFI - player</A></DT>
 <DT><A HREF="http://www.france24.com/fr/aef_player_popup/france24_player" ADD_DATE="1306444487" PRIVATE="0" TAGS="television,news,France,radio">Regarder FRANCE 24 - FRANCE 24</A></DT>
-<DT><A HREF="http://www.createjs.com/" ADD_DATE="1306361663" PRIVATE="0" TAGS="computer.graphics,javascript,html,library">CreateJS | A suite of Javascript libraries and tools for building rich,interactive experiences with HTML5</A></DT>
+<DT><A HREF="http://www.createjs.com/" ADD_DATE="1306361663" PRIVATE="0" TAGS="interface.development,computer.graphics,javascript,html,library">CreateJS | A suite of Javascript libraries and tools for building rich,interactive experiences with HTML5</A></DT>
 <DT><A HREF="http://areena.yle.fi/radio/soitin/yle-puhe" ADD_DATE="1306353125" PRIVATE="0" TAGS="radio,Finland">YLE Areena</A></DT>
 <DT><A HREF="http://www.radio24.ilsole24ore.com/player/diretta.php" ADD_DATE="1306353080" PRIVATE="0" TAGS="Italia,radio">Radio 24 Live</A></DT>
 <DT><A HREF="http://lab.andre-michelle.com/revive-physics-engine" ADD_DATE="1306331439" PRIVATE="0" TAGS="actionscript,physics,library">aM laboratory</A></DT>
@@ -782,7 +791,7 @@ https://codebits.eu/sergiopereira</DD></DT>
 <DT><A HREF="http://www.box2dflash.org/" ADD_DATE="1288886003" PRIVATE="0" TAGS="actionscript,physics,library">Box2DFlash</A></DT>
 <DT><A HREF="http://hopl.murdoch.edu.au/" ADD_DATE="1288778520" PRIVATE="0" TAGS="history,language,programming">The Encyclopedia of Computer Languages</A></DT>
 <DT><A HREF="http://www.tlfq.ulaval.ca/axl/" ADD_DATE="1288692474" PRIVATE="0" TAGS="language,geography">L'aménagement linguistique dans le monde</A></DT>
-<DT><A HREF="http://optional.is/" ADD_DATE="1288633287" PRIVATE="0" TAGS="research,information.design,interaction">(optional.is)</A></DT>
+<DT><A HREF="http://optional.is/" ADD_DATE="1288633287" PRIVATE="0" TAGS="research,information.design,interaction,stack-Data-Visualization--Information-Design">(optional.is)</A></DT>
 <DT><A HREF="http://developer.yahoo.com/yql/" ADD_DATE="1287659756" PRIVATE="0" TAGS="api,webservice">Yahoo! Query Language - YDN</A></DT>
 <DT><A HREF="http://www.corridadaluz.pt/" ADD_DATE="1287329510" PRIVATE="0" TAGS="running">Corrida da Luz 2008 | Lisboa</A></DT>
 <DT><A HREF="http://www.meiamaratonadelisboa.com/" ADD_DATE="1287329480" PRIVATE="0" TAGS="running">20º Meia Maratona de Lisboa :: Atletas residentes no estrangeiro / Foreign athletes</A></DT>
