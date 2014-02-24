@@ -18,6 +18,19 @@ template:
 
 -->
 
+<DT><A HREF="http://demo.pattern-lab.info/" ADD_DATE="1393236664" PRIVATE="0" TAGS="design,interface,interface.pattern">Pattern Lab</A></DT>
+<DT><A HREF="http://readwrite.com" ADD_DATE="1392901190" PRIVATE="0" TAGS="news,technolgoy,stack-Research-Science-Future">ReadWrite : Web,Technology and Social</A></DT>
+<DT><A HREF="http://www.webpagetest.org/" ADD_DATE="1392636522" PRIVATE="0" TAGS="performance,tool">WebPageTest : Test a website's performance</A></DT>
+<DT><A HREF="http://developer.yahoo.com/yslow/" ADD_DATE="1392636516" PRIVATE="0" TAGS="performance,tool">YSlow</A></DT>
+<DT><A HREF="http://visionmedia.github.io/move.js/" ADD_DATE="1392372425" PRIVATE="0" TAGS="animation,css,javascript">Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant</A></DT>
+<DT><A HREF="http://software.intel.com/en-us/html5/tools" ADD_DATE="1392026796" PRIVATE="0" TAGS="tool,ide,html,mobile">Intel&#174; XDK</A></DT>
+<DT><A HREF="http://www.svgeneration.com/" ADD_DATE="1392026787" PRIVATE="0" TAGS="svg">SVGGeneration</A></DT>
+<DT><A HREF="http://h5bp.github.io/Effeckt.css/dist/" ADD_DATE="1389980310" PRIVATE="0" TAGS="css,animation,showcase">Performant CSS transitions and animations</A></DT>
+<DT><A HREF="http://purecss.io/" ADD_DATE="1389979686" PRIVATE="0" TAGS="css,library">PureCSS : A set of small, responsive CSS modules</A></DT>
+<DT><A HREF="http://slimerjs.org/" ADD_DATE="1389955873" PRIVATE="0" TAGS="tool,automation,test,javascript,browser">SlimerJS : A scriptable browser for Web developers</A></DT>
+<DT><A HREF="http://www.gootechnologies.com/products/create/" ADD_DATE="1389955866" PRIVATE="0" TAGS="3d,tool,computer.graphics">Goo Create : A 3D editor for the web</A></DT>
+<DT><A HREF="http://www.clara.io" ADD_DATE="1389955858" PRIVATE="0" TAGS="3d,tool,computer.graphics">Clara.io is a powerful, full-featured 3D editor that runs in your browser.</A></DT>
+<DT><A HREF="http://www.textise.net/" ADD_DATE="1389884012" PRIVATE="0" TAGS="tool,text">Textise : the text-only internet tool</A></DT>
 <DT><A HREF="http://devdocs.io/" ADD_DATE="1389180506" PRIVATE="0" TAGS="documentation,programming">DevDocs: API documentation agregator</A></DT>
 <DT><A HREF="http://uxpin.com/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">UXPin: UX Design &amp; Wireframing Tools As Beautiful As Your Work</A></DT>
 <DT><A HREF="http://www.hotgloo.com/" ADD_DATE="1386842341" PRIVATE="0" TAGS="wireframe,interface,tool">HogGloo Wireframe Prototyping</A></DT>
@@ -176,7 +189,7 @@ discover the latest trends in development and business</A></DT>
 <DT><A HREF="http://betterexplained.com/" ADD_DATE="1362746377" PRIVATE="0" TAGS="mathematics,education">BetterExplained</A></DT>
 <DT><A HREF="https://github.com/unconed/MathBox.js" ADD_DATE="1362738496" PRIVATE="0" TAGS="javascript,mathematics,library,computer.graphics">MathBox.js</A></DT>
 <DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test,nodejs">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
-<DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
+<DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser,tool,test">PhantomJS: Headless WebKit with JavaScript API</A></DT>
 <DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,automation,nodejs">Grunt: The JavaScript Task Runner</A></DT>
 <DT><A HREF="http://leafletjs.com" ADD_DATE="1361808478" PRIVATE="0" TAGS="javascript,library,map,mobile">Leaflet - a JavaScript library for mobile-friendly maps</A></DT>
 <DT><A HREF="https://github.com/dannycoates/node-inspector" ADD_DATE="1361805688" PRIVATE="0" TAGS="javascript,debug,nodejs">node-inspector</A></DT>
