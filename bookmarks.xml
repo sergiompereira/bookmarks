@@ -19,6 +19,28 @@ template:
 -->
 
 
+<DT><A HREF="http://contentsmagazine.com/" ADD_DATE="1397034126" PRIVATE="0" TAGS="content,news,writing,web">Contents: content strategy, online publishing, and new-school editorial work.</A></DT>
+<DT><A HREF="http://emberjs.com/about/" ADD_DATE="1396601826" PRIVATE="0" TAGS="framework,javascript">EmberJS: a framework for creating ambitious web applications</A></DT>
+<DT><A HREF="http://marquee.by/" ADD_DATE="1395654550" PRIVATE="0" TAGS="content,management,tool,api">Marquee: easier, faster, beautiful publishing</A></DT>
+<DT><A HREF="http://www.wellspringworldwide.com/" ADD_DATE="1393842796" PRIVATE="0" TAGS="collaboration,crowdsourcing,innovation">Wellspring: innovation management and knowledge transfer</A></DT>
+<DT><A HREF="http://www.imaginatik.com/" ADD_DATE="1393842661" PRIVATE="0" TAGS="collaboration,crowdsourcing,innovation">Imaginatik: innovation management</A></DT>
+<DT><A HREF="http://www.innovation-community.net/" ADD_DATE="1393841737" PRIVATE="0" TAGS=" collaboration,crowdsourcing,innovation">Innovation community</A></DT>
+<DT><A HREF="http://www.hypios.com/" ADD_DATE="1393841437" PRIVATE="0" TAGS="collaboration,crowdsourcing,innovation">Hypios: open problem solving</A></DT>
+<DT><A HREF="http://www.innocentive.com/" ADD_DATE="1393841432" PRIVATE="0" TAGS="collaboration,crowdsourcing,innovation">Innocentive: innovation management and crowdsourcing</A></DT>
+<DT><A HREF="http://www.boardofinnovation.com/" ADD_DATE="1393841424" PRIVATE="0" TAGS="collaboration,crowdsourcing,innovation">Board of Innovation: We make corporates innovate like startups</A></DT>
+<DT><A HREF="https://github.com/maryrosecook/isla/wiki/Isla-language-guide" ADD_DATE="1393599276" PRIVATE="0" TAGS="programming,education,language">Isla language guide</A></DT>
+<DT><A HREF="https://floobits.com/" ADD_DATE="1393597243" PRIVATE="0" TAGS="programming,collaboration,tool">Floobits: use native text editors to collaborate on code in real-time. </A></DT>
+<DT><A HREF="http://nerdydata.com/" ADD_DATE="1393597155" PRIVATE="0" TAGS="search,programming,tool,code">NerdyData: A Search Engine for Source Code</A></DT>
+<DT><A HREF="http://www.panhistoria.com/" ADD_DATE="1393580914" PRIVATE="0" TAGS="writing,collaboration,tool">PanHistoria : community for collaborative writing</A></DT>
+<DT><A HREF="http://wribly.com/" ADD_DATE="1393258497" PRIVATE="0" TAGS="writing,collaboration,tool">Wribly: collaborative writing online</A></DT>
+<DT><A HREF="http://paulrobertlloyd.com/about/styleguide/" ADD_DATE="1393254351" PRIVATE="0" TAGS="design,css">Web Style Guide</A></DT>
+<DT><A HREF="http://atlasdocs.oreilly.com/" ADD_DATE="1393244758" PRIVATE="0" TAGS="e.book,collaboration,tool,documentation">Atlas Guides</A></DT>
+<DT><A HREF="https://atlas.oreilly.com/" ADD_DATE="1393244751" PRIVATE="0" TAGS="e.book,collaboration,tool">Atlas: a powerful authoring platform built on Git.</A></DT>
+<DT><A HREF="https://code.google.com/p/epub-revision/wiki/AnnotationsMainPage" ADD_DATE="1393241999" PRIVATE="0" TAGS="annotation,standard,semantic,community">Epub revision: annotations main page</A></DT>
+<DT><A HREF="http://idpf.org/" ADD_DATE="1393241993" PRIVATE="0" TAGS="e.book,standard">International Digital Publishing Forum</A></DT>
+<DT><A HREF="http://www.openannotation.org/spec/core/" ADD_DATE="1393241987" PRIVATE="0" TAGS="web,annotation,standard,semantic">Open Annotation Data Model</A></DT>
+<DT><A HREF="http://www.w3.org/community/openannotation/" ADD_DATE="1393241980" PRIVATE="0" TAGS="web,annotation,standard,semantic,community">Open Annotation Community Group</A></DT>
+
 <DT><A HREF="http://www.malofiejgraphics.com/" ADD_DATE="1394297133" PRIVATE="0" TAGS="information.design,visualization">Malofiej, evento internacional e concurso em infografia</A></DT>
 <DT><A HREF="http://www.thefunctionalart.com/ " ADD_DATE="1394297127" PRIVATE="0" TAGS="information.design,visualization">Site de Alberto Cairo sobre infografia</A></DT>
 <DT><A HREF="http://tumult.com/hype/" ADD_DATE="1394297117" PRIVATE="0" TAGS="design,animation,tool,html">Tumult Hype</A></DT>
@@ -38,6 +60,18 @@ template:
 <DT><A HREF="http://web.chemdoodle.com/" ADD_DATE="1390582085" PRIVATE="0" TAGS="chemistry,visualization,html,computer.graphics,javascript">ChemDoodle Web Components</A></DT>
 <DT><A HREF="http://www.jcheminf.com/content/5/1/46" ADD_DATE="1390582068" PRIVATE="0" TAGS="chemistry,javascript,visualization,html">CH5M3D: an HTML5 program for creating 3D molecular structures</A></DT>
 
+<DT><A HREF="http://demo.pattern-lab.info/" ADD_DATE="1393236664" PRIVATE="0" TAGS="design,interface,interface.pattern">Pattern Lab</A></DT>
+<DT><A HREF="http://readwrite.com" ADD_DATE="1392901190" PRIVATE="0" TAGS="news,technolgoy,stack-Research-Science-Future">ReadWrite : Web,Technology and Social</A></DT>
+<DT><A HREF="http://www.webpagetest.org/" ADD_DATE="1392636522" PRIVATE="0" TAGS="performance,tool">WebPageTest : Test a website's performance</A></DT>
+<DT><A HREF="http://developer.yahoo.com/yslow/" ADD_DATE="1392636516" PRIVATE="0" TAGS="performance,tool">YSlow</A></DT>
+<DT><A HREF="http://visionmedia.github.io/move.js/" ADD_DATE="1392372425" PRIVATE="0" TAGS="animation,css,javascript">Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant</A></DT>
+<DT><A HREF="http://software.intel.com/en-us/html5/tools" ADD_DATE="1392026796" PRIVATE="0" TAGS="tool,ide,html,mobile">Intel&#174; XDK</A></DT>
+<DT><A HREF="http://www.svgeneration.com/" ADD_DATE="1392026787" PRIVATE="0" TAGS="svg">SVGGeneration</A></DT>
+<DT><A HREF="http://h5bp.github.io/Effeckt.css/dist/" ADD_DATE="1389980310" PRIVATE="0" TAGS="css,animation,showcase">Performant CSS transitions and animations</A></DT>
+<DT><A HREF="http://slimerjs.org/" ADD_DATE="1389955873" PRIVATE="0" TAGS="tool,automation,test,javascript,browser">SlimerJS : A scriptable browser for Web developers</A></DT>
+<DT><A HREF="http://www.gootechnologies.com/products/create/" ADD_DATE="1389955866" PRIVATE="0" TAGS="3d,tool,computer.graphics">Goo Create : A 3D editor for the web</A></DT>
+<DT><A HREF="http://www.clara.io" ADD_DATE="1389955858" PRIVATE="0" TAGS="3d,tool,computer.graphics">Clara.io is a powerful, full-featured 3D editor that runs in your browser.</A></DT>
+<DT><A HREF="http://www.textise.net/" ADD_DATE="1389884012" PRIVATE="0" TAGS="tool,text">Textise : the text-only internet tool</A></DT>
 
 <DT><A HREF="https://www.odesk.com/" ADD_DATE="1390060573" PRIVATE="0" TAGS="freelance">ODesk: Hire Freelancers</A></DT>
 <DT><A HREF="https://www.elance.com/" ADD_DATE="1390060533" PRIVATE="0" TAGS="freelance">Elance: Hire Freelancers</A></DT>
@@ -201,7 +235,7 @@ discover the latest trends in development and business</A></DT>
 <DT><A HREF="http://betterexplained.com/" ADD_DATE="1362746377" PRIVATE="0" TAGS="mathematics,education">BetterExplained</A></DT>
 <DT><A HREF="https://github.com/unconed/MathBox.js" ADD_DATE="1362738496" PRIVATE="0" TAGS="javascript,mathematics,library,computer.graphics">MathBox.js</A></DT>
 <DT><A HREF="http://visionmedia.github.com/mocha/" ADD_DATE="1362582917" PRIVATE="0" TAGS="javascript,development,test,nodejs">Mocha - the fun, simple, flexible JavaScript test framework</A></DT>
-<DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser">PhantomJS: Headless WebKit with JavaScript API</A></DT>
+<DT><A HREF="http://phantomjs.org/" ADD_DATE="1362583047" PRIVATE="0" TAGS="javascript,html,development,browser,tool,test">PhantomJS: Headless WebKit with JavaScript API</A></DT>
 <DT><A HREF="http://gruntjs.com/" ADD_DATE="1362582571" PRIVATE="0" TAGS="javascript,tool,development,automation,nodejs">Grunt: The JavaScript Task Runner</A></DT>
 <DT><A HREF="http://leafletjs.com" ADD_DATE="1361808478" PRIVATE="0" TAGS="javascript,library,map,mobile">Leaflet - a JavaScript library for mobile-friendly maps</A></DT>
 <DT><A HREF="https://github.com/dannycoates/node-inspector" ADD_DATE="1361805688" PRIVATE="0" TAGS="javascript,debug,nodejs">node-inspector</A></DT>
