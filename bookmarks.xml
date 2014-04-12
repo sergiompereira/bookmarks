@@ -18,6 +18,27 @@ template:
 
 -->
 
+
+<DT><A HREF="http://www.malofiejgraphics.com/" ADD_DATE="1394297133" PRIVATE="0" TAGS="information.design,visualization">Malofiej, evento internacional e concurso em infografia</A></DT>
+<DT><A HREF="http://www.thefunctionalart.com/ " ADD_DATE="1394297127" PRIVATE="0" TAGS="information.design,visualization">Site de Alberto Cairo sobre infografia</A></DT>
+<DT><A HREF="http://tumult.com/hype/" ADD_DATE="1394297117" PRIVATE="0" TAGS="design,animation,tool,html">Tumult Hype</A></DT>
+<DT><A HREF="http://www.niemanstoryboard.org" ADD_DATE="1394177171" PRIVATE="0" TAGS="journalism,narrative">Nieman Storyboard</A></DT>
+<DT><A HREF="http://www.nieman.harvard.edu/" ADD_DATE="1394177142" PRIVATE="0" TAGS="journalism,narrative">Nieman Foundation</A></DT>
+<DT><A HREF="http://www.ialjs.org/" ADD_DATE="1394177125" PRIVATE="0" TAGS="journalism,narrative,journal">International Association for Literary Journalism Studies</A></DT>
+<DT><A HREF="http://wannabehacks.co.uk/" ADD_DATE="1394096975" PRIVATE="0" TAGS="journalism">Wannabehacks</A></DT>
+<DT><A HREF="http://www.math.uri.edu/~bkaskosz/flashmo/graph3d/" ADD_DATE="1393403459" PRIVATE="0" TAGS="mathematics,3d,tool">3D function grapher</A></DT>
+<DT><A HREF="http://www.carto-presse.com/" ADD_DATE="1393106004" PRIVATE="0" TAGS="news,politics,map,geography,magazine">Carto: le monde en cartes</A></DT>
+<DT><A HREF="http://popcornjs.org/" ADD_DATE="1393105682" PRIVATE="0" TAGS="video,library,javascript">Popcorn: the html5 media framework</A></DT>
+<DT><A HREF="http://www.theguardian.com/data/series/show-and-tell" ADD_DATE="1392491516" PRIVATE="0" TAGS="visualization,news,infographics">Guardian Show and Tell: the best of infographics on the web</A></DT>
+<DT><A HREF="http://www.theguardian.com/data" ADD_DATE="1392491506" PRIVATE="0" TAGS="visualization,news">Guardian news : Data Journalism and data visualization</A></DT>
+<DT><A HREF="http://www.yearofcode.org/" ADD_DATE="1392154281" PRIVATE="0" TAGS="game,code,education">Year of Code</A></DT>
+<DT><A HREF="http://www.codeandconquer.co/" ADD_DATE="1392154273" PRIVATE="0" TAGS="game,code,education">Code and Conquer</A></DT>
+<DT><A HREF="http://www.ch.ic.ac.uk/svg/" ADD_DATE="1390582099" PRIVATE="0" TAGS="chemistry,visualization,svg">Chemical Rendering using SVG and CML</A></DT>
+<DT><A HREF="http://www.ichemlabs.com/" ADD_DATE="1390582093" PRIVATE="0" TAGS="chemistry,visualization,computer.graphics,html">iChem Labs: The Future of Scientific Software</A></DT>
+<DT><A HREF="http://web.chemdoodle.com/" ADD_DATE="1390582085" PRIVATE="0" TAGS="chemistry,visualization,html,computer.graphics,javascript">ChemDoodle Web Components</A></DT>
+<DT><A HREF="http://www.jcheminf.com/content/5/1/46" ADD_DATE="1390582068" PRIVATE="0" TAGS="chemistry,javascript,visualization,html">CH5M3D: an HTML5 program for creating 3D molecular structures</A></DT>
+
+
 <DT><A HREF="https://www.odesk.com/" ADD_DATE="1390060573" PRIVATE="0" TAGS="freelance">ODesk: Hire Freelancers</A></DT>
 <DT><A HREF="https://www.elance.com/" ADD_DATE="1390060533" PRIVATE="0" TAGS="freelance">Elance: Hire Freelancers</A></DT>
 <DT><A HREF="http://www.leonardo.info/" ADD_DATE="1390060473" PRIVATE="0" TAGS="art,science">Leonardo : Art, Science and Technology</A></DT>
@@ -359,7 +380,7 @@ Although originally designed for use in SVG,filter effects are a set a set of op
 <DT><A HREF="http://www.subblue.com/gallery/album/89" ADD_DATE="1334918657" PRIVATE="0" TAGS="webgl,computer.graphics,fractal">Gallery of Mathematical and Generative Art • subblue</A></DT>
 <DT><A HREF="http://cordis.europa.eu/fp7/ict/language-technologies/news_en.html" ADD_DATE="1334570851" PRIVATE="0" TAGS="news,technology,language,stack-Semantic-Data--Language-Processing--Text-Mining">European Commission : CORDIS : FP7 : ICT : Language Technologies : News</A></DT>
 <DT><A HREF="http://www.jisc.ac.uk/" ADD_DATE="1334568950" PRIVATE="0" TAGS="data,language.processing,text.mining,information,research,stack-Semantic-Data--Language-Processing--Text-Mining">JISC : Inspiring innovation</A></DT>
-<DT><A HREF="http://www.associacaomundodacorrida.com/UTSesimbra12.htm" ADD_DATE="1333654277" PRIVATE="0" TAGS="running">Associação Desportiva O Mundo da Corrida</A></DT>
+<DT><A HREF="http://www.associacaomundodacorrida.com/Atletismo.htm" ADD_DATE="1333654277" PRIVATE="0" TAGS="running">Associação Desportiva O Mundo da Corrida</A></DT>
 <DT><A HREF="http://www.atletismo.carlos-fonseca.com/calendario.htm" ADD_DATE="1333653718" PRIVATE="0" TAGS="running">Calendário de Provas de Atletismo</A></DT>
 <DT><A HREF="http://www.nuance.com/" ADD_DATE="1333445380" PRIVATE="0" TAGS="language.processing,company,software">Nuance - Home</A></DT>
 <DT><A HREF="http://www.celi.it/notizie.shtml" ADD_DATE="1333445305" PRIVATE="0" TAGS="Italia,software,company,language.processing,stack-Semantic-Data--Language-Processing--Text-Mining">CELI - Language and Information Technology - Notizie</A></DT>
